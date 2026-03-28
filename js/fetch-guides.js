@@ -80,8 +80,10 @@ async function main() {
     var guide = guides[i];
     var outFile = path.join(DATA_DIR, guide.id + '.json');
     var exists = fs.existsSync(outFile);
+    var fileSize = exists ? fs.statSync(outFile).size : 0;
 
-    if (exists && !FORCE_ALL) {
+    // Skip only if file exists, has real data (>100 bytes), and not forcing refresh
+    if (exists && fileSize > 100 && !FORCE_ALL) {
       console.log('Skipping ' + guide.id + ' (' + guide.title + ') — data file exists');
       continue;
     }
