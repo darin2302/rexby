@@ -1,0 +1,33 @@
+name: Update Guide Data
+
+on:
+  schedule:
+    - cron: '0 6 1 * *'  # 1st of every month at 6am UTC
+  workflow_dispatch: {}    # Manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch guide data
+        run: node js/fetch-guides.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes detected"
+          else
+            git commit -m "chore: update guide data [automated]"
+            git push
+          fi

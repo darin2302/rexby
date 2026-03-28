@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rexby Explorer</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1 id="guide-title">Rexby Explorer</h1>
+    <p class="subtitle">Explore unique things to do across Bulgaria</p>
+    <div class="guide-switcher" id="guide-switcher"></div>
+  </header>
+
+  <div class="controls" id="controls" style="display:none;">
+    <div class="search-sort-row">
+      <input type="text" class="search-box" id="search" placeholder="Search by title or description...">
+      <select class="sort-select" id="sort">
+        <option value="title">Sort by Title</option>
+        <option value="category">Sort by Category</option>
+        <option value="duration">Sort by Duration</option>
+        <option value="distance">Sort by Distance</option>
+      </select>
+      <span class="item-count" id="item-count"></span>
+    </div>
+    <div class="geo-row">
+      <label>Near:</label>
+      <select class="geo-select" id="geo-city">
+        <option value="">Anywhere</option>
+        <option value="42.6977,23.3219" data-en="Sofia" data-bg="София">Sofia</option>
+        <option value="43.2141,27.9147" data-en="Varna" data-bg="Варна">Varna</option>
+        <option value="" disabled>---</option>
+        <option value="42.1354,24.7453" data-en="Plovdiv" data-bg="Пловдив">Plovdiv</option>
+        <option value="42.4258,25.6257" data-en="Kazanlak" data-bg="Казанлък">Kazanlak</option>
+        <option value="43.0757,25.6172" data-en="Gabrovo" data-bg="Габрово">Gabrovo</option>
+        <option value="43.0848,25.9528" data-en="Tryavna" data-bg="Трявна">Tryavna</option>
+        <option value="42.6842,26.3296" data-en="Sliven" data-bg="Сливен">Sliven</option>
+        <option value="43.4085,24.6180" data-en="Pleven" data-bg="Плевен">Pleven</option>
+        <option value="43.8486,25.9549" data-en="Ruse" data-bg="Русе">Ruse</option>
+        <option value="42.0209,24.3119" data-en="Bansko" data-bg="Банско">Bansko</option>
+        <option value="42.6013,25.4148" data-en="Sopot" data-bg="Сопот">Sopot</option>
+        <option value="43.2778,28.5722" data-en="Balchik" data-bg="Балчик">Balchik</option>
+        <option value="42.4230,27.6928" data-en="Burgas" data-bg="Бургас">Burgas</option>
+        <option value="42.6498,27.7365" data-en="Nesebar" data-bg="Несебър">Nesebar</option>
+        <option value="42.0560,24.7994" data-en="Smolyan" data-bg="Смолян">Smolyan</option>
+        <option value="43.2727,27.1920" data-en="Shumen" data-bg="Шумен">Shumen</option>
+        <option value="43.5612,27.8278" data-en="Dobrich" data-bg="Добрич">Dobrich</option>
+        <option value="42.8742,25.3187" data-en="Karlovo" data-bg="Карлово">Karlovo</option>
+        <option value="41.9434,23.4878" data-en="Blagoevgrad" data-bg="Благоевград">Blagoevgrad</option>
+        <option value="43.8564,25.3145" data-en="Nikopol" data-bg="Никопол">Nikopol</option>
+        <option value="41.5988,24.7177" data-en="Shiroka Laka" data-bg="Широка лъка">Shiroka Laka</option>
+        <option value="42.5983,27.4470" data-en="Sozopol" data-bg="Созопол">Sozopol</option>
+        <option value="43.4148,24.3102" data-en="Lovech" data-bg="Ловеч">Lovech</option>
+        <option value="43.2512,28.0128" data-en="Kavarna" data-bg="Каварна">Kavarna</option>
+      </select>
+      <label>Radius:</label>
+      <select class="geo-radius" id="geo-radius">
+        <option value="25">25 km</option>
+        <option value="50">50 km</option>
+        <option value="75">75 km</option>
+        <option value="100" selected>100 km</option>
+        <option value="150">150 km</option>
+        <option value="200">200 km</option>
+        <option value="300">300 km</option>
+      </select>
+      <span class="geo-info" id="geo-info"></span>
+      <button class="geo-clear" id="geo-clear" style="display:none" onclick="clearGeo()">Clear</button>
+    </div>
+    <div>
+      <button class="cat-toggle" id="cat-toggle" onclick="toggleCats()">
+        <span>Categories</span>
+        <span class="arrow">&#9660;</span>
+        <span class="cat-active-label" id="cat-active-label"></span>
+      </button>
+      <div class="cat-accordion" id="cat-accordion">
+        <div class="category-filters" id="category-filters"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="loading" class="loading">
+    <div class="spinner"></div>
+    <p>Loading things to do...</p>
+  </div>
+  <div id="error" class="error-msg" style="display:none;"></div>
+  <div class="grid" id="grid"></div>
+
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal" id="modal">
+      <button class="modal-close" onclick="closeModal()">&times;</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

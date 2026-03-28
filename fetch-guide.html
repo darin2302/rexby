@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fetch Guide Data</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f0f2f5; padding: 2rem; }
+    .container { max-width: 600px; margin: 0 auto; }
+    h1 { margin-bottom: 0.5rem; color: #1a1a2e; }
+    p.desc { color: #666; margin-bottom: 1.5rem; font-size: 0.9rem; }
+    label { display: block; font-weight: 600; margin-bottom: 0.3rem; color: #333; }
+    input { width: 100%; padding: 0.6rem; border: 2px solid #ddd; border-radius: 8px; font-size: 1rem; margin-bottom: 1rem; }
+    input:focus { outline: none; border-color: #0f3460; }
+    button { padding: 0.6rem 1.5rem; background: #0f3460; color: white; border: none; border-radius: 8px; font-size: 1rem; cursor: pointer; }
+    button:hover { background: #1a1a2e; }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .log { margin-top: 1.5rem; background: #1a1a2e; color: #0f0; padding: 1rem; border-radius: 8px; font-family: monospace; font-size: 0.82rem; max-height: 400px; overflow-y: auto; white-space: pre-wrap; }
+    .hint { margin-top: 1rem; padding: 1rem; background: white; border-radius: 8px; font-size: 0.85rem; color: #555; }
+    .hint code { background: #f0f0f0; padding: 0.15rem 0.4rem; border-radius: 4px; }
+    a { color: #0f3460; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Fetch Guide Data</h1>
+    <p class="desc">Enter a Rexby guide ID to fetch all its thingsToDo data. The result will download as a JSON file.</p>
+
+    <label for="guide-id">Guide ID</label>
+    <input type="text" id="guide-id" placeholder="e.g. bxreB5ggTkKkuepGUTHvsA">
+
+    <button id="fetch-btn" onclick="startFetch()">Fetch Guide</button>
+
+    <div class="log" id="log" style="display:none;"></div>
+
+    <div class="hint">
+      <strong>How to find a guide ID:</strong><br>
+      Open any guide on Rexby, open DevTools Network tab, look for GraphQL requests — the guide ID is in the variables.<br><br>
+      <strong>After downloading:</strong><br>
+      1. Save the JSON file to <code>data/{guideId}.json</code><br>
+      2. Add an entry to <code>data/guides.json</code><br>
+      3. Commit and push &mdash; the site updates automatically<br><br>
+      <a href="index.html">&larr; Back to Explorer</a>
+    </div>
+  </div>
+
+  <script>
+    var API = 'https://api.prod.rexby.com/graphql';
+
+    function log(msg) {
+      var el = document.getElementById('log');
+      el.style.display = '';
+      el.textContent += msg + '\n';
+      el.scrollTop = el.scrollHeight;
+    }
+
+    async function startFetch() {
+      var guideId = document.getElementById('guide-id').value.trim();
+      if (!guideId) { alert('Please enter a guide ID'); return; }
+
+      var btn = document.getElementById('fetch-btn');
+      btn.disabled = true;
+      document.getElementById('log').textContent = '';
+
+      var q = "query($id: UUID!) { thingToDo(thingToDoId: $id, bypassFreemium: true) { ";
+      q += "id title slug description isOpen isSecret isTopFavorited ";
+      q += "primaryCategory secondaryCategories categoryClass { name } ";
+      q += "duration estimatedPrice { currency amount } ";
+      q += "... on UnlockedThingToDo { location { lat lng: long } locationName address website regionNames ";
+      q += "detail { ... on ActivityDetail { activityLevel seasonality ageRequirement } } } ";
+      q += "media { ... on Image { __typename id url order } ";
+      q += "... on Video { __typename id order mp4Url webmUrl muted thumbnail { url } poster { url } } } ";
+      q += "} }";
+
+      try {
+        log('Fetching item IDs for guide ' + guideId + '...');
+        var r1 = await fetch(API, {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({ query: '{ thingsToDo(guideId: "' + guideId + '") { id } }' })
+        });
+        var d1 = await r1.json();
+        if (d1.errors) throw new Error(d1.errors[0].message);
+
+        var ids = d1.data.thingsToDo.map(function(t) { return t.id; });
+        log('Found ' + ids.length + ' items. Fetching details...');
+
+        var results = [];
+        for (var i = 0; i < ids.length; i += 20) {
+          var batch = ids.slice(i, i + 20);
+          var promises = batch.map(function(id) {
+            return fetch(API, {
+              method: 'POST',
+              headers: { 'content-type': 'application/json' },
+              body: JSON.stringify({ query: q, variables: { id: id } })
+            }).then(function(r) { return r.json(); })
+              .then(function(d) { return d.data.thingToDo; })
+              .catch(function() { return null; });
+          });
+          var batchResults = await Promise.all(promises);
+          batchResults.forEach(function(r) { if (r) results.push(r); });
+          log('Fetched ' + results.length + '/' + ids.length);
+        }
+
+        log('\nDone! Downloading ' + results.length + ' items...');
+
+        var blob = new Blob([JSON.stringify(results, null, 2)], { type: 'application/json' });
+        var a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = guideId + '.json';
+        a.click();
+
+        log('File downloaded as ' + guideId + '.json');
+        log('\nNext steps:');
+        log('1. Move file to data/' + guideId + '.json');
+        log('2. Add entry to data/guides.json');
+        log('3. git add, commit, push');
+      } catch (err) {
+        log('\nERROR: ' + err.message);
+      }
+
+      btn.disabled = false;
+    }
+  </script>
+</body>
+</html>
