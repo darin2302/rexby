@@ -2,8 +2,11 @@ name: Update Guide Data
 
 on:
   schedule:
-    - cron: '0 6 1 * *'  # 1st of every month at 6am UTC
-  workflow_dispatch: {}    # Manual trigger
+    - cron: '0 6 1 * *'  # 1st of every month at 6am UTC — refreshes ALL guides
+  workflow_dispatch: {}    # Manual trigger — refreshes ALL guides
+  push:
+    paths:
+      - 'data/guides.json'  # New guide added — only fetches missing data
 
 jobs:
   update:
@@ -18,7 +21,14 @@ jobs:
           node-version: '20'
 
       - name: Fetch guide data
-        run: node js/fetch-guides.js
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            echo "Fetching new guides only..."
+            node js/fetch-guides.js
+          else
+            echo "Refreshing all guides..."
+            node js/fetch-guides.js --all
+          fi
 
       - name: Commit and push if changed
         run: |

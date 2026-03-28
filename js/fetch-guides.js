@@ -1,7 +1,10 @@
 #!/usr/bin/env node
-// Fetches all guide data from the Rexby GraphQL API.
-// Used by the GitHub Action to keep data fresh.
-// Usage: node js/fetch-guides.js
+// Fetches guide data from the Rexby GraphQL API.
+// Used by GitHub Actions to keep data fresh.
+//
+// Usage:
+//   node js/fetch-guides.js          # Only fetch guides missing a data file
+//   node js/fetch-guides.js --all    # Re-fetch all guides (used by monthly cron)
 
 var fs = require('fs');
 var path = require('path');
@@ -10,6 +13,7 @@ var API = 'https://api.prod.rexby.com/graphql';
 var DATA_DIR = path.join(__dirname, '..', 'data');
 var GUIDES_FILE = path.join(DATA_DIR, 'guides.json');
 var BATCH_SIZE = 20;
+var FORCE_ALL = process.argv.includes('--all');
 
 var QUERY = [
   'query($id: UUID!) { thingToDo(thingToDoId: $id, bypassFreemium: true) {',
@@ -23,6 +27,8 @@ var QUERY = [
   '} }'
 ].join(' ');
 
+var GUIDE_QUERY = 'query($id: UUID!) { guide(id: $id) { title locales creator { creatorName } } }';
+
 async function gql(query, variables) {
   var res = await fetch(API, {
     method: 'POST',
@@ -34,15 +40,22 @@ async function gql(query, variables) {
   return json.data;
 }
 
-async function fetchGuide(guideId) {
+async function fetchGuideInfo(guideId) {
+  try {
+    var data = await gql(GUIDE_QUERY, { id: guideId });
+    return data.guide;
+  } catch (e) {
+    return null;
+  }
+}
+
+async function fetchGuideItems(guideId) {
   console.log('Fetching guide ' + guideId + '...');
 
-  // Get all item IDs
   var listData = await gql('query($guideId: UUID!) { thingsToDo(guideId: $guideId) { id } }', { guideId: guideId });
   var ids = listData.thingsToDo.map(function(t) { return t.id; });
   console.log('  Found ' + ids.length + ' items');
 
-  // Batch fetch
   var results = [];
   for (var i = 0; i < ids.length; i += BATCH_SIZE) {
     var batch = ids.slice(i, i + BATCH_SIZE);
@@ -61,14 +74,37 @@ async function fetchGuide(guideId) {
 
 async function main() {
   var guides = JSON.parse(fs.readFileSync(GUIDES_FILE, 'utf8'));
-  console.log('Found ' + guides.length + ' guides to fetch\n');
+  var updated = false;
 
   for (var i = 0; i < guides.length; i++) {
     var guide = guides[i];
-    var items = await fetchGuide(guide.id);
     var outFile = path.join(DATA_DIR, guide.id + '.json');
+    var exists = fs.existsSync(outFile);
+
+    if (exists && !FORCE_ALL) {
+      console.log('Skipping ' + guide.id + ' (' + guide.title + ') — data file exists');
+      continue;
+    }
+
+    // If guide entry is minimal (just an id), fill in title/creator from API
+    if (!guide.title || guide.title === guide.id) {
+      var info = await fetchGuideInfo(guide.id);
+      if (info) {
+        guide.title = info.title || guide.id;
+        guide.creator = (info.creator && info.creator.creatorName) || guide.creator || 'Unknown';
+        updated = true;
+      }
+    }
+
+    var items = await fetchGuideItems(guide.id);
     fs.writeFileSync(outFile, JSON.stringify(items, null, 2));
-    console.log('  Saved to ' + outFile + '\n');
+    console.log('  Saved ' + items.length + ' items to ' + outFile + '\n');
+  }
+
+  // Save updated guides.json if we filled in any metadata
+  if (updated) {
+    fs.writeFileSync(GUIDES_FILE, JSON.stringify(guides, null, 2) + '\n');
+    console.log('Updated guides.json with guide metadata');
   }
 
   console.log('Done!');
