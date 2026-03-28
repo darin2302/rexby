@@ -389,12 +389,43 @@ function applyTranslations() {
   sortEl.options[3].text = t.sortDistance;
   document.querySelector('.geo-row label:first-child').textContent = t.near;
   document.querySelectorAll('.geo-row label')[1].textContent = t.radius;
-  document.getElementById('geo-city').options[0].text = t.anywhere;
   document.querySelector('#cat-toggle span:first-child').textContent = t.categories;
-  var lang = (activeGuide && allDataByGuide[activeGuide]) ? (allGuides.find(function(g){return g.id===activeGuide;})||{}).lang || 'en' : 'en';
-  document.querySelectorAll('#geo-city option[data-' + lang + ']').forEach(function(opt) {
-    opt.textContent = opt.getAttribute('data-' + lang);
+}
+
+/* ---- City dropdown ---- */
+function buildCityDropdown() {
+  var select = document.getElementById('geo-city');
+  var lang = 'en';
+  var countries = [];
+
+  if (activeGuide) {
+    var guide = allGuides.find(function(g) { return g.id === activeGuide; });
+    if (guide) {
+      lang = guide.lang || 'en';
+      if (guide.country && CITIES[guide.country]) countries.push(guide.country);
+    }
+  } else {
+    // All guides — collect all unique countries
+    var seen = {};
+    allGuides.forEach(function(g) {
+      if (g.country && CITIES[g.country] && !seen[g.country]) {
+        countries.push(g.country);
+        seen[g.country] = true;
+      }
+    });
+  }
+
+  var h = '<option value="">' + t.anywhere + '</option>';
+  countries.forEach(function(cc, ci) {
+    var cities = CITIES[cc];
+    if (ci > 0) h += '<option disabled>---</option>';
+    cities.forEach(function(city) {
+      var label = (lang === 'bg' && city.bg) ? city.bg : city.name;
+      h += '<option value="' + city.lat + ',' + city.lon + '">' + label + '</option>';
+    });
   });
+
+  select.innerHTML = h;
 }
 
 /* ---- Guide switching ---- */
@@ -441,6 +472,10 @@ function setGuide(guideId) {
     cc[c] = (cc[c] || 0) + 1;
   });
   Object.entries(cc).sort(function(a,b){return b[1]-a[1];}).forEach(function(e){getCatColor(e[0]);});
+
+  // Clear geo filter and rebuild city dropdown for this guide's country
+  clearGeo();
+  buildCityDropdown();
 
   // Update guide buttons
   document.querySelectorAll('.guide-btn').forEach(function(b) {
@@ -535,6 +570,7 @@ fetch('data/guides.json')
     allItems.forEach(function(i) { var c = (i.primaryCategory || 'unknown').toLowerCase(); cc[c] = (cc[c] || 0) + 1; });
     Object.entries(cc).sort(function(a,b){return b[1]-a[1];}).forEach(function(e){getCatColor(e[0]);});
 
+    buildCityDropdown();
     renderCatFilters();
     renderGrid();
   })

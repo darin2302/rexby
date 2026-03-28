@@ -1,14 +1,23 @@
 [
   {
+    "id": "bxreB5ggTkKkuepGUTHvsA",
+    "title": "Hidden Gems in Bulgaria",
+    "lang": "en",
+    "country": "BG",
+    "creator": "Adventures in Bulgaria"
+  },
+  {
     "id": "wGBX82ulTb-Al6ITXkWb7A",
     "title": "Непознатата България",
     "lang": "bg",
+    "country": "BG",
     "creator": "Ramblewitht"
   },
   {
     "id": "9GofhcvUTRyuxBRVqxsH3Q",
+    "title": "Ireland – Your Essential Local's Guide",
     "lang": "en",
-    "title": "Ireland – Your Essential Local’s Guide",
+    "country": "IE",
     "creator": "ExploreWithCriostoir"
   }
 ]
