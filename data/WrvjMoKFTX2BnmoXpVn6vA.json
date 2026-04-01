@@ -3739,7 +3739,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 155
+      "amount": 156
     },
     "media": [
       {
@@ -7956,7 +7956,7 @@
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Perlan museum is a great place to visit while in Reykjavik, especially for kids and rainy days. You can easily spend a few hours here. All of their exhibits are awesome, especially the artificial ice cave you can visit all year around. - If you're unable to visit any other ice cave in Iceland, come here!\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Plus, they also have a Northern Lights show in their planetarium included with your admission.\"}]}]}",
     "isOpen": true,
     "isSecret": false,
-    "isTopFavorited": true,
+    "isTopFavorited": false,
     "primaryCategory": "activity",
     "secondaryCategories": null,
     "categoryClass": {
@@ -13252,7 +13252,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 248
+      "amount": 249
     },
     "location": {
       "lat": "64.1513058",
@@ -14011,7 +14011,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 310
+      "amount": 311
     },
     "location": {
       "lat": "65.0770261",
