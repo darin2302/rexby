@@ -1,13 +1,13 @@
 [
   {
-    "id": "IX_rqgRSTtWUpoC4EKn0RQ",
-    "title": "The largest Orthodox church on the entire Balkan Peninsula",
-    "slug": "the-largest-orthodox-church-on-the-entire-balkan-peninsula",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Located closest to Sofia University metro station.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 There are enough parking spaces around the cathedral. The area is a blue zone, so if you are driving, don't forget to send an SMS to 1302.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"☀️ I strongly recommend you to visit it at sunset, the view is worth it.\"}]}]}",
+    "id": "02m5bEjoTwWNnhl1nDTE1Q",
+    "title": "The most beautiful and unpopular location near Vratsa",
+    "slug": "the-most-beautiful-and-unpopular-location-near-vratsa",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 It is located between the Cherepish Monastery and the village of Lyutibrod, 86 km away from Sofia.\\n⏳ It takes 2 hours to walk the whole way, but if you want to see these rocks you only have 10 minutes of walking.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 I am giving you approximate parking coordinates: 43°06'05.4\\\"N 23°37'33.7\\\"E, if you have an all-terrain vehicle. Otherwise, you can park further down in the village and continue on foot.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏃‍♀️ After parking you take the beaten path on the hill and continue only straight until you reach this magical place.\"}]}]}",
     "isOpen": true,
     "isSecret": false,
     "isTopFavorited": false,
-    "primaryCategory": "sightseeing",
+    "primaryCategory": "activity",
     "secondaryCategories": null,
     "categoryClass": {
       "name": "Experience"
@@ -15,113 +15,127 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": null,
     "location": {
-      "lat": "42.6958847",
-      "lng": "23.3328704"
+      "lat": "43.1005421",
+      "lng": "23.6227871"
     },
-    "locationName": "St. Alexander Nevsky Cathedral",
+    "locationName": "Prosechen Kamik Ecotrail",
     "address": null,
-    "website": "http://www.cathedral.bg/",
+    "website": null,
     "regionNames": [
       "Bulgaria",
-      "Sofia City",
-      "Stolichna"
+      "Vratsa",
+      "Mezdra"
     ],
     "detail": {
-      "activityLevel": null,
+      "activityLevel": 2,
       "seasonality": "AllSeasons",
       "ageRequirement": "AllAges"
     },
     "media": [
       {
         "__typename": "Image",
-        "id": "773582a0c052482c86e477ba2119cf30",
-        "url": "https://cdn.prod.rexby.com/image/773582a0c052482c86e477ba2119cf30",
+        "id": "375f7330-b487-4b49-8e84-f37dc5d4fec9",
+        "url": "https://cdn.prod.rexby.com/image/375f7330-b487-4b49-8e84-f37dc5d4fec9",
         "order": 0
       },
       {
-        "__typename": "Image",
-        "id": "db332ab3da4b40a396f4f3597a54bb9c",
-        "url": "https://cdn.prod.rexby.com/image/db332ab3da4b40a396f4f3597a54bb9c",
-        "order": 1
+        "__typename": "Video",
+        "id": "05ef0d2dd5db46089dda49750597032f",
+        "order": 1,
+        "mp4Url": "https://cdn.prod.rexby.com/05ef0d2dd5db46089dda49750597032f/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/05ef0d2dd5db46089dda49750597032f/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/05ef0d2dd5db46089dda49750597032f/thumbnails/1"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/05ef0d2dd5db46089dda49750597032f/thumbnails/0"
+        }
       },
       {
         "__typename": "Image",
-        "id": "46590d4efb9547e89ca1a0ebb1b0cfd3",
-        "url": "https://cdn.prod.rexby.com/image/46590d4efb9547e89ca1a0ebb1b0cfd3",
+        "id": "3c0e7b22-0cdd-4940-99f9-1f7cb9a87410",
+        "url": "https://cdn.prod.rexby.com/image/3c0e7b22-0cdd-4940-99f9-1f7cb9a87410",
         "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "0b2a11a8-02df-4125-a28f-3edbdd73409f",
+        "url": "https://cdn.prod.rexby.com/image/0b2a11a8-02df-4125-a28f-3edbdd73409f",
+        "order": 3
       }
     ]
   },
   {
-    "id": "7vwOC88wS0SUn9HU-GPqNA",
-    "title": "Sofia, seen from the beautiful, colorful side",
-    "slug": "sofia-seen-from-the-beautiful-colorful-side",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🗓️ From Thursday to Monday, a free walk around the most remarkable graffiti in the city center takes place.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ Departure time is 15:00 and lasts 2 hours\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 The starting point is the statue of Sophia\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🇺🇸 Conducted in English\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 It is good to make a reservation through their website, but you can also go there.\"}]}]}",
-    "isOpen": true,
-    "isSecret": false,
+    "id": "wXt9HK_vSoeNPIPcs33yrA",
+    "title": "The hidden turquoise waters of Bulgaria",
+    "slug": "the-hidden-turquoise-waters-of-bulgaria",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Karstov izvor Zlatna Panega is located 13 km from the Iskar-Panega eco-trail\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Parking here: 43.0884815, 24.1568542\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"The road is paved and accessible to all types of vehicles\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉🏻 Be sure to go through the cave to get to the more beautiful view\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
     "isTopFavorited": false,
-    "primaryCategory": "tours",
+    "primaryCategory": "activity",
     "secondaryCategories": null,
     "categoryClass": {
       "name": "Experience"
     },
-    "duration": "Short",
+    "duration": "ExtremelyShort",
     "estimatedPrice": null,
     "location": {
-      "lat": "42.6979638",
-      "lng": "23.321461"
+      "lat": "43.0839647",
+      "lng": "24.1585293"
     },
-    "locationName": "Free Sofia Graffiti Tour",
+    "locationName": "Karstov izvor Zlatna Panega",
     "address": null,
-    "website": "http://sofiagraffititour.com/",
+    "website": null,
     "regionNames": [
       "Bulgaria",
-      "Sofia City",
-      "Stolichna"
+      "Lovech",
+      "Yablanitsa"
     ],
     "detail": {
-      "activityLevel": null,
+      "activityLevel": 1,
       "seasonality": "AllSeasons",
       "ageRequirement": "AllAges"
     },
     "media": [
       {
         "__typename": "Image",
-        "id": "fed3d0915f4840308bd009a1da8ad5a9",
-        "url": "https://cdn.prod.rexby.com/image/fed3d0915f4840308bd009a1da8ad5a9",
+        "id": "77dbbe2f479540aebbbf6c1f35bc015b",
+        "url": "https://cdn.prod.rexby.com/image/77dbbe2f479540aebbbf6c1f35bc015b",
         "order": 0
       },
       {
         "__typename": "Image",
-        "id": "4e894317c57c4997a2390c0c14a84726",
-        "url": "https://cdn.prod.rexby.com/image/4e894317c57c4997a2390c0c14a84726",
+        "id": "7210fae083754f0a98ff6fb5664070fa",
+        "url": "https://cdn.prod.rexby.com/image/7210fae083754f0a98ff6fb5664070fa",
         "order": 1
       },
       {
         "__typename": "Image",
-        "id": "bed7bd028902427c8319a992b7d215f8",
-        "url": "https://cdn.prod.rexby.com/image/bed7bd028902427c8319a992b7d215f8",
+        "id": "379a19a4a85b4d9ea293516fb6c0e101",
+        "url": "https://cdn.prod.rexby.com/image/379a19a4a85b4d9ea293516fb6c0e101",
         "order": 2
       },
       {
         "__typename": "Image",
-        "id": "b6365b9ca646450cbf0cd74d3c0b2f91",
-        "url": "https://cdn.prod.rexby.com/image/b6365b9ca646450cbf0cd74d3c0b2f91",
+        "id": "1a7c15e97ded4d15a016feaecfdc9db8",
+        "url": "https://cdn.prod.rexby.com/image/1a7c15e97ded4d15a016feaecfdc9db8",
         "order": 3
       },
       {
         "__typename": "Image",
-        "id": "19e956a2ce2a4df1a16d7266e2e04723",
-        "url": "https://cdn.prod.rexby.com/image/19e956a2ce2a4df1a16d7266e2e04723",
+        "id": "c8c13aa187a34ddfac381de48f62f0f6",
+        "url": "https://cdn.prod.rexby.com/image/c8c13aa187a34ddfac381de48f62f0f6",
         "order": 4
       }
     ]
   },
   {
-    "id": "71JkkKJaR_G_yzPoBXNgKw",
-    "title": "One of the unrealized Sofia projects",
-    "slug": "one-of-the-unrealized-sofia-projects",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 \\\"Lavov most\\\" metro station will bring you directly here.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 The bridge separates the blue and green zones in Sofia, so be careful which one you send an SMS to, if you exploring it with car.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📖 During the Ottoman rule, this place became a gallows for the Bulgarians from the April Uprising and beyond. The Lion Bridge was originally planned to be a memorial complex for all those who died in this place and was realized in this form in 1891. Unfortunately, only the lions were realized from the whole project.\"}]}]}",
+    "id": "Wq4kpJLFTQOYdXjCVjPXKA",
+    "title": "Autumn paradise",
+    "slug": "autumn-paradise",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 It is reached on a normal asphalt road. The closest place to the trail where you can park is here: 41.7161230, 25.0047407\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"‼️ Don't pass the stop sign. Until they are restored it is dangerous.\"},{\"type\":\"hardBreak\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⌛ Set aside 40 minutes for a walk here.\"}]}]}",
     "isOpen": false,
     "isSecret": true,
     "isTopFavorited": false,
@@ -130,19 +144,19 @@
     "categoryClass": {
       "name": "Experience"
     },
-    "duration": "ExtremelyShort",
+    "duration": "Short",
     "estimatedPrice": null,
     "location": {
-      "lat": "42.70491670000001",
-      "lng": "23.3238878"
+      "lat": "41.7155582",
+      "lng": "25.0063864"
     },
-    "locationName": "Lions' Bridge",
+    "locationName": "Zagrazhden trail",
     "address": null,
-    "website": "http://visitsofia.bg/",
+    "website": null,
     "regionNames": [
       "Bulgaria",
-      "Sofia City",
-      "Stolichna"
+      "Smolyan",
+      "Banite"
     ],
     "detail": {
       "activityLevel": null,
@@ -152,33 +166,74 @@
     "media": [
       {
         "__typename": "Image",
-        "id": "32510dc3b1584085bcc9ba9e706f8263",
-        "url": "https://cdn.prod.rexby.com/image/32510dc3b1584085bcc9ba9e706f8263",
+        "id": "b91a3edd5e514a7183344e8f95e8964c",
+        "url": "https://cdn.prod.rexby.com/image/b91a3edd5e514a7183344e8f95e8964c",
         "order": 0
       },
       {
         "__typename": "Image",
-        "id": "69bc24108327402486060997ba79b100",
-        "url": "https://cdn.prod.rexby.com/image/69bc24108327402486060997ba79b100",
+        "id": "9e9f90de28474a7ca054d092a95dfc8b",
+        "url": "https://cdn.prod.rexby.com/image/9e9f90de28474a7ca054d092a95dfc8b",
         "order": 1
       },
       {
         "__typename": "Image",
-        "id": "2c7b8a58bee249f88a7b9139e7a182d0",
-        "url": "https://cdn.prod.rexby.com/image/2c7b8a58bee249f88a7b9139e7a182d0",
+        "id": "f01c088c0fca42e7b3355e0cea5559d0",
+        "url": "https://cdn.prod.rexby.com/image/f01c088c0fca42e7b3355e0cea5559d0",
         "order": 2
+      }
+    ]
+  },
+  {
+    "id": "m7OztPDRT92pt8NJ4x4HSw",
+    "title": "A favorite place to watch sunrises and sunsets",
+    "slug": "a-favorite-place-to-watch-sunrises-and-sunsets",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 They also call it Kaleto.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Cars stop at the turnoff for the Nevyastata Ecotrail. There is enough space for free parking and the road is perfect.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 From here you follow the sign for \\\"Kaleto\\\". It will direct you to the middle path in the forest. On the left, you will see the asphalt road to the monastery \\\"St. Panteleimon\\\", which you can also follow after visiting \\\"Kaleto\\\".\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⏳ The path is flat, easy and pleasant. It will take you 15 minutes to reach the ruins of the fortress.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "activity",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "ExtremelyShort",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.5972878",
+      "lng": "24.7009996"
+    },
+    "locationName": "Smolyan Fortress",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Smolyan"
+    ],
+    "detail": {
+      "activityLevel": 1,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "7fd0b75b950e485281f50b74bdfa85bb",
+        "url": "https://cdn.prod.rexby.com/image/7fd0b75b950e485281f50b74bdfa85bb",
+        "order": 0
       },
       {
         "__typename": "Image",
-        "id": "bd123beb91d242bdacb2a4404b22ba05",
-        "url": "https://cdn.prod.rexby.com/image/bd123beb91d242bdacb2a4404b22ba05",
-        "order": 3
+        "id": "7e356418-89eb-4629-a318-03afc9f6edba",
+        "url": "https://cdn.prod.rexby.com/image/7e356418-89eb-4629-a318-03afc9f6edba",
+        "order": 1
       },
       {
         "__typename": "Image",
-        "id": "0fa73d1de415462ba81d4eca052525c8",
-        "url": "https://cdn.prod.rexby.com/image/0fa73d1de415462ba81d4eca052525c8",
-        "order": 4
+        "id": "7361dfea-63f7-41ae-8858-4976f65da671",
+        "url": "https://cdn.prod.rexby.com/image/7361dfea-63f7-41ae-8858-4976f65da671",
+        "order": 2
       }
     ]
   },
@@ -262,59 +317,6 @@
     ]
   },
   {
-    "id": "m7OztPDRT92pt8NJ4x4HSw",
-    "title": "A favorite place to watch sunrises and sunsets",
-    "slug": "a-favorite-place-to-watch-sunrises-and-sunsets",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 They also call it Kaleto.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Cars stop at the turnoff for the Nevyastata Ecotrail. There is enough space for free parking and the road is perfect.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 From here you follow the sign for \\\"Kaleto\\\". It will direct you to the middle path in the forest. On the left, you will see the asphalt road to the monastery \\\"St. Panteleimon\\\", which you can also follow after visiting \\\"Kaleto\\\".\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⏳ The path is flat, easy and pleasant. It will take you 15 minutes to reach the ruins of the fortress.\"}]}]}",
-    "isOpen": true,
-    "isSecret": false,
-    "isTopFavorited": false,
-    "primaryCategory": "activity",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "ExtremelyShort",
-    "estimatedPrice": null,
-    "location": {
-      "lat": "41.5972878",
-      "lng": "24.7009996"
-    },
-    "locationName": "Smolyan Fortress",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Smolyan",
-      "Smolyan"
-    ],
-    "detail": {
-      "activityLevel": 1,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "7fd0b75b950e485281f50b74bdfa85bb",
-        "url": "https://cdn.prod.rexby.com/image/7fd0b75b950e485281f50b74bdfa85bb",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "7e356418-89eb-4629-a318-03afc9f6edba",
-        "url": "https://cdn.prod.rexby.com/image/7e356418-89eb-4629-a318-03afc9f6edba",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "7361dfea-63f7-41ae-8858-4976f65da671",
-        "url": "https://cdn.prod.rexby.com/image/7361dfea-63f7-41ae-8858-4976f65da671",
-        "order": 2
-      }
-    ]
-  },
-  {
     "id": "heVrEttBT7amMgfgQQwpeg",
     "title": "One of the most beautiful sunrises you will ever see",
     "slug": "one-of-the-most-beautiful-sunrises-you-will-ever-see",
@@ -378,6 +380,312 @@
         "id": "e7b1deb1-8215-4beb-be1b-8cb5ec6f4cff",
         "url": "https://cdn.prod.rexby.com/image/e7b1deb1-8215-4beb-be1b-8cb5ec6f4cff",
         "order": 3
+      }
+    ]
+  },
+  {
+    "id": "CK4xUahWT4qlGio2JalODg",
+    "title": "Turquoise Canyon next to the road",
+    "slug": "turquoise-canyon-next-to-the-road",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 There is a widening next to the road where you can park.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 From here you go down for 2 minutes along a short path in the forest.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ It will take you 10 minutes to view it. You also have the option to rent a boat on the river, which will take you another 10 minutes.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 I leave you a link to the site and the contacts of the people you can contact for a walk.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "sightseeing",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "ExtremelyShort",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.5136259",
+      "lng": "24.6935112"
+    },
+    "locationName": "Gorlo Canyon of the Arda River",
+    "address": null,
+    "website": "https://krepostta-mogilitsa.com/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d0%b8/",
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Smolyan"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "9d8f18ee5210424c92fb81c5af635da6",
+        "url": "https://cdn.prod.rexby.com/image/9d8f18ee5210424c92fb81c5af635da6",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "3251edd672794f9ebdd4c9ee442087de",
+        "url": "https://cdn.prod.rexby.com/image/3251edd672794f9ebdd4c9ee442087de",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "dR7aIaRoQoa7ccvwRwrB9w",
+    "title": "A corner of paradise in the Rhodope Mountains",
+    "slug": "a-corner-of-paradise-in-the-rhodope-mountains",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 You can park at \\\"Shishkovi Guest House\\\", to which there is an ideal road and go down the path by foot.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ It will take you about 5 minutes to walk to the bridge.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "activity",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "ExtremelyShort",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.71415579999999",
+      "lng": "24.998241"
+    },
+    "locationName": "Roman Bridge",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Banite"
+    ],
+    "detail": {
+      "activityLevel": 1,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "f7c1e87cc9144818bafe32ce4881f8b9",
+        "url": "https://cdn.prod.rexby.com/image/f7c1e87cc9144818bafe32ce4881f8b9",
+        "order": 0
+      }
+    ]
+  },
+  {
+    "id": "NcGtAFZpRXaDy7EP8LI77g",
+    "title": "A beam of light illuminates the place",
+    "slug": "a-beam-of-light-illuminates-the-place",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 The road to the village of Karpachevo is perfect. However, the last 3 km of the road to the cave is black and you have two options.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 First is to park here: 43.2236002, 25.0020390, and walk 40 minutes in the direction of the cave.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 The second option is to cross the dirt road and park the car right next to the indicated place of the cave. The road is relatively flat, although not good. We went through it with the Subaru Legacy.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⏳☀️ On sunny days, you can observe how magically a ray sneaks into the cave. In each season, the moment when it happens is different.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "sightseeing",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "VeryShort",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "43.2176998",
+      "lng": "24.9731776"
+    },
+    "locationName": "Stalbitsata Cave",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Lovech",
+      "Letnitsa"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "fefb46596666481ba2db44552c8c01e4",
+        "url": "https://cdn.prod.rexby.com/image/fefb46596666481ba2db44552c8c01e4",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "2898425092c842b4a86e9f0f0f5836d4",
+        "url": "https://cdn.prod.rexby.com/image/2898425092c842b4a86e9f0f0f5836d4",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "2f2b840053a443a081498b87ad7aff4b",
+        "url": "https://cdn.prod.rexby.com/image/2f2b840053a443a081498b87ad7aff4b",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "17508afc79d449beaf49c65a2b2391f4",
+        "url": "https://cdn.prod.rexby.com/image/17508afc79d449beaf49c65a2b2391f4",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "a787551255a746eb99422051043c94d8",
+        "url": "https://cdn.prod.rexby.com/image/a787551255a746eb99422051043c94d8",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "cc8f4ce6773140419ba8d58422cdaf35",
+        "url": "https://cdn.prod.rexby.com/image/cc8f4ce6773140419ba8d58422cdaf35",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "e10c188293b44ddd9b26e1ab9c23b250",
+        "url": "https://cdn.prod.rexby.com/image/e10c188293b44ddd9b26e1ab9c23b250",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "8aEsYmxlQ1qviRAzTcd0Bg",
+    "title": "A waterfall you can walk under",
+    "slug": "a-waterfall-you-can-walk-under",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 It can be reached by car if you take the last 45 minutes the dirt but passable road.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🕰 Walking to the waterfall will take you about 15 minutes if you shorten your way.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💦 There are two levels of the waterfall and I strongly recommend you not to miss either one 😍\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "waterfall",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "VeryShort",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.4130743",
+      "lng": "22.6846313"
+    },
+    "locationName": "Polska Skakavitsa Waterfall",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Kyustendil",
+      "Kyustendil"
+    ],
+    "detail": {
+      "activityLevel": 1,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "25186cb81f1d4e84a4a56b1bed2e19fb",
+        "url": "https://cdn.prod.rexby.com/image/25186cb81f1d4e84a4a56b1bed2e19fb",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "61591e52cd3745c5b4c93f0c70028f7c",
+        "url": "https://cdn.prod.rexby.com/image/61591e52cd3745c5b4c93f0c70028f7c",
+        "order": 1
+      },
+      {
+        "__typename": "Video",
+        "id": "7a9a810480af4a6c9a845eaf14932dfb",
+        "order": 2,
+        "mp4Url": "https://cdn.prod.rexby.com/7a9a810480af4a6c9a845eaf14932dfb/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/7a9a810480af4a6c9a845eaf14932dfb/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/7a9a810480af4a6c9a845eaf14932dfb/thumbnails/1"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/7a9a810480af4a6c9a845eaf14932dfb/thumbnails/0"
+        }
+      },
+      {
+        "__typename": "Image",
+        "id": "85b4fdaece7e4275998b86b29b5024ea",
+        "url": "https://cdn.prod.rexby.com/image/85b4fdaece7e4275998b86b29b5024ea",
+        "order": 3
+      }
+    ]
+  },
+  {
+    "id": "DHo_Rq0BR3uBFKHqzxuCZw",
+    "title": "A huge underground canyon and water cave",
+    "slug": "a-huge-underground-canyon-and-water-cave",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 There is a gazebo that you can use to find out where you need to park. The road to it is asphalt. You leave the cars and walk along the path marked with signs. You pass the rocks and a swinging rope bridge and after about 10 minutes you reach the entrance of the cave.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 The cave is an underground canyon in which a river flows and there are underground lakes. At one point you will pass through a very narrow gap with boats. Due to this fact, it is only available at a certain time of the year. Usually between July and the end of September.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ The walk will take you 2 hours. It is good to reserve a place in advance. You can contact for reservations by phone: +359889293070 - Sasho.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎟️ The entrance to the cave is BGN 30. I recommend that for another BGN 5-10 you can take the Alpine trolley on the way back.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "sightseeing",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "Medium",
+    "estimatedPrice": {
+      "currency": "BGN",
+      "amount": 32
+    },
+    "location": {
+      "lat": "41.5154801",
+      "lng": "24.6666064"
+    },
+    "locationName": "Golubovitsa cave & Garga Dere path",
+    "address": null,
+    "website": "http://hodih.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Smolyan"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "3deb8ccf37a34246b4b66491281f36bf",
+        "url": "https://cdn.prod.rexby.com/image/3deb8ccf37a34246b4b66491281f36bf",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "99a845eb86bd4746a6317062a7187436",
+        "url": "https://cdn.prod.rexby.com/image/99a845eb86bd4746a6317062a7187436",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "503be1b0d1be4cc3a96378d8b030780f",
+        "url": "https://cdn.prod.rexby.com/image/503be1b0d1be4cc3a96378d8b030780f",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "abc2ddf11d824df99e5d324f3623e96b",
+        "url": "https://cdn.prod.rexby.com/image/abc2ddf11d824df99e5d324f3623e96b",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "55b9e5d40ade4194b35ae8c1e2b8c537",
+        "url": "https://cdn.prod.rexby.com/image/55b9e5d40ade4194b35ae8c1e2b8c537",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "0a334121d4054f3b90def33216817389",
+        "url": "https://cdn.prod.rexby.com/image/0a334121d4054f3b90def33216817389",
+        "order": 5
       }
     ]
   },
@@ -461,23 +769,6 @@
     },
     "duration": "VeryShort",
     "estimatedPrice": null,
-    "location": {
-      "lat": "42.701191",
-      "lng": "23.326246"
-    },
-    "locationName": "quARTer of Sofia",
-    "address": null,
-    "website": "https://www.facebook.com/kvARTal.festival/?locale=bg_BG",
-    "regionNames": [
-      "Bulgaria",
-      "Sofia City",
-      "Stolichna"
-    ],
-    "detail": {
-      "activityLevel": 1,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
     "media": [
       {
         "__typename": "Image",
@@ -532,23 +823,6 @@
     },
     "duration": "Short",
     "estimatedPrice": null,
-    "location": {
-      "lat": "41.5637087",
-      "lng": "23.4809546"
-    },
-    "locationName": "Skoka Waterfall",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Blagoevgrad",
-      "Sandanski"
-    ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
     "media": [
       {
         "__typename": "Image",
@@ -591,23 +865,6 @@
     },
     "duration": "VeryLong",
     "estimatedPrice": null,
-    "location": {
-      "lat": "42.17209899999999",
-      "lng": "23.3685784"
-    },
-    "locationName": "Elenino lake",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Kyustendil",
-      "Rila"
-    ],
-    "detail": {
-      "activityLevel": 3,
-      "seasonality": "Summer",
-      "ageRequirement": "AllAges"
-    },
     "media": [
       {
         "__typename": "Image",
@@ -630,73 +887,6 @@
     ]
   },
   {
-    "id": "02m5bEjoTwWNnhl1nDTE1Q",
-    "title": "The most beautiful and unpopular location near Vratsa",
-    "slug": "the-most-beautiful-and-unpopular-location-near-vratsa",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 It is located between the Cherepish Monastery and the village of Lyutibrod, 86 km away from Sofia.\\n⏳ It takes 2 hours to walk the whole way, but if you want to see these rocks you only have 10 minutes of walking.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 I am giving you approximate parking coordinates: 43°06'05.4\\\"N 23°37'33.7\\\"E, if you have an all-terrain vehicle. Otherwise, you can park further down in the village and continue on foot.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏃‍♀️ After parking you take the beaten path on the hill and continue only straight until you reach this magical place.\"}]}]}",
-    "isOpen": true,
-    "isSecret": false,
-    "isTopFavorited": false,
-    "primaryCategory": "activity",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "ExtremelyShort",
-    "estimatedPrice": null,
-    "location": {
-      "lat": "43.1005421",
-      "lng": "23.6227871"
-    },
-    "locationName": "Prosechen Kamik Ecotrail",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Vratsa",
-      "Mezdra"
-    ],
-    "detail": {
-      "activityLevel": 2,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "375f7330-b487-4b49-8e84-f37dc5d4fec9",
-        "url": "https://cdn.prod.rexby.com/image/375f7330-b487-4b49-8e84-f37dc5d4fec9",
-        "order": 0
-      },
-      {
-        "__typename": "Video",
-        "id": "05ef0d2dd5db46089dda49750597032f",
-        "order": 1,
-        "mp4Url": "https://cdn.prod.rexby.com/05ef0d2dd5db46089dda49750597032f/index.mp4",
-        "webmUrl": "https://cdn.prod.rexby.com/05ef0d2dd5db46089dda49750597032f/index.webm",
-        "muted": false,
-        "thumbnail": {
-          "url": "https://cdn.prod.rexby.com/05ef0d2dd5db46089dda49750597032f/thumbnails/1"
-        },
-        "poster": {
-          "url": "https://cdn.prod.rexby.com/05ef0d2dd5db46089dda49750597032f/thumbnails/0"
-        }
-      },
-      {
-        "__typename": "Image",
-        "id": "3c0e7b22-0cdd-4940-99f9-1f7cb9a87410",
-        "url": "https://cdn.prod.rexby.com/image/3c0e7b22-0cdd-4940-99f9-1f7cb9a87410",
-        "order": 2
-      },
-      {
-        "__typename": "Image",
-        "id": "0b2a11a8-02df-4125-a28f-3edbdd73409f",
-        "url": "https://cdn.prod.rexby.com/image/0b2a11a8-02df-4125-a28f-3edbdd73409f",
-        "order": 3
-      }
-    ]
-  },
-  {
     "id": "K74HjPBaQF2TfYEU6qkT9Q",
     "title": "A hidden corner on our Northern Black Sea coast",
     "slug": "a-hidden-corner-on-our-northern-black-sea-coast",
@@ -711,23 +901,6 @@
     },
     "duration": null,
     "estimatedPrice": null,
-    "location": {
-      "lat": "43.50185219999999",
-      "lng": "28.589679"
-    },
-    "locationName": "Seal cave",
-    "address": null,
-    "website": "https://varnamaps.eu/tulenovo/",
-    "regionNames": [
-      "Bulgaria",
-      "Dobrich",
-      "Shabla"
-    ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
     "media": [
       {
         "__typename": "Image",
@@ -1173,48 +1346,6 @@
         "id": "5f56afdc-aad4-44d1-a247-ae18f5fff0a5",
         "url": "https://cdn.prod.rexby.com/image/5f56afdc-aad4-44d1-a247-ae18f5fff0a5",
         "order": 4
-      }
-    ]
-  },
-  {
-    "id": "Wq4kpJLFTQOYdXjCVjPXKA",
-    "title": "Autumn paradise",
-    "slug": "autumn-paradise",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 It is reached on a normal asphalt road. The closest place to the trail where you can park is here: 41.7161230, 25.0047407\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"‼️ Don't pass the stop sign. Until they are restored it is dangerous.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "sightseeing",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "Short",
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "63e755f3ab184f529d182d5db58eaee6",
-        "url": "https://cdn.prod.rexby.com/image/63e755f3ab184f529d182d5db58eaee6",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "b91a3edd5e514a7183344e8f95e8964c",
-        "url": "https://cdn.prod.rexby.com/image/b91a3edd5e514a7183344e8f95e8964c",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "9e9f90de28474a7ca054d092a95dfc8b",
-        "url": "https://cdn.prod.rexby.com/image/9e9f90de28474a7ca054d092a95dfc8b",
-        "order": 2
-      },
-      {
-        "__typename": "Image",
-        "id": "f01c088c0fca42e7b3355e0cea5559d0",
-        "url": "https://cdn.prod.rexby.com/image/f01c088c0fca42e7b3355e0cea5559d0",
-        "order": 3
       }
     ]
   },
@@ -3082,53 +3213,84 @@
     "id": "OGjHafJIRSaqGmGOwz8s0w",
     "title": "Cozy in the heart of the Rhodopes",
     "slug": "cozy-in-the-heart-of-the-rhodopes",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"♥️ I love alpine chalets and these are my favorite place to stay, both in winter and summer.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍁 ❄️ I recommend you to visit them in autumn, when the nature in the mountains is the most beautiful and colorful, and in winter, when the ski slope will be a 5-minute walk away.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍓 Homemade \\\"mekitsi\\\" for breakfast, paired with the sound of birds singing\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🍽️ In winter, you have to try the homemade cured pork fat they prepare themselves\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎿 The ski slopes are literally 150 m away\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⛷️ Access to over 17 km of slopes and lifts\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🌄 Hikes to Snezhanka Peak with panoramic views\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🌲 Eco trails like “Nevyastata” and the Smolyan Lakes\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🏞️ Waterfalls, caves, and mountain routes\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🚗 Easy trips to Shiroka Laka and other Rhodope landmarks\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"📙 At the reception, you’ll also find my book \"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"“България - скитане из рая на земята,”\"},{\"type\":\"text\",\"text\":\" where you can add your own memory (a photo) from the places you visit in the area.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
-    "primaryCategory": "hotel",
+    "primaryCategory": "villa",
     "secondaryCategories": null,
     "categoryClass": {
       "name": "Stay"
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "41.6528014",
+      "lng": "24.6857196"
+    },
+    "locationName": "Complex Malina Pamporovo",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Smolyan"
+    ],
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
-        "id": "fdfec787-dcb5-4c27-853a-79674a300208",
-        "url": "https://cdn.prod.rexby.com/image/fdfec787-dcb5-4c27-853a-79674a300208",
+        "id": "8a43fa3cdfdb4aa58450df594aedfe1d",
+        "url": "https://cdn.prod.rexby.com/image/8a43fa3cdfdb4aa58450df594aedfe1d",
         "order": 0
       },
       {
         "__typename": "Image",
-        "id": "50bb91c1-e0b8-4d48-b93e-fa1900678089",
-        "url": "https://cdn.prod.rexby.com/image/50bb91c1-e0b8-4d48-b93e-fa1900678089",
+        "id": "4eed0e188d304094890e7879e331f87d",
+        "url": "https://cdn.prod.rexby.com/image/4eed0e188d304094890e7879e331f87d",
         "order": 1
       },
       {
         "__typename": "Image",
-        "id": "706b9c7d-89d0-444c-985d-ae84aca635ab",
-        "url": "https://cdn.prod.rexby.com/image/706b9c7d-89d0-444c-985d-ae84aca635ab",
+        "id": "e2317599535d4922b6b9fb61d3b0353d",
+        "url": "https://cdn.prod.rexby.com/image/e2317599535d4922b6b9fb61d3b0353d",
         "order": 2
       },
       {
         "__typename": "Image",
-        "id": "7acc5ac0-8167-440b-9309-a181407416d1",
-        "url": "https://cdn.prod.rexby.com/image/7acc5ac0-8167-440b-9309-a181407416d1",
+        "id": "845b316ff116445a95188da246144daa",
+        "url": "https://cdn.prod.rexby.com/image/845b316ff116445a95188da246144daa",
         "order": 3
       },
       {
         "__typename": "Image",
-        "id": "1009a2bb-617f-4748-b413-ab961c555d74",
-        "url": "https://cdn.prod.rexby.com/image/1009a2bb-617f-4748-b413-ab961c555d74",
+        "id": "6cf6dae23e4441e791798353f462205b",
+        "url": "https://cdn.prod.rexby.com/image/6cf6dae23e4441e791798353f462205b",
         "order": 4
       },
       {
         "__typename": "Image",
-        "id": "20cf54fd-e755-495c-9355-9cfb83ecbc14",
-        "url": "https://cdn.prod.rexby.com/image/20cf54fd-e755-495c-9355-9cfb83ecbc14",
+        "id": "0381c97c22c946d580cd8492066c4c34",
+        "url": "https://cdn.prod.rexby.com/image/0381c97c22c946d580cd8492066c4c34",
         "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "68605095a116429daed485ef8b298c41",
+        "url": "https://cdn.prod.rexby.com/image/68605095a116429daed485ef8b298c41",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "bf220008fad24992946a816d38df6c15",
+        "url": "https://cdn.prod.rexby.com/image/bf220008fad24992946a816d38df6c15",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "3e99aa7971164e75947a64916679a7fc",
+        "url": "https://cdn.prod.rexby.com/image/3e99aa7971164e75947a64916679a7fc",
+        "order": 8
       }
     ]
   },
@@ -4502,7 +4664,7 @@
     "id": "vbezg2kSR7q2icBdFd82LA",
     "title": "The road of the rose in Bulgaria",
     "slug": "the-road-of-the-rose-in-bulgaria",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚙 There is a large free parking.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌹 You will find a fabulous amphitheater and various productions with the ancient life and culture of the Bulgarians\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌹 Next to the complex are the rose fields themselves. There is also a park where you can observe deer, roe deer, and other wild animals.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍰 The restaurant will win you over with its unique künefe.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎟️ The entrance fee for adults is BGN 24.\"}]}]}",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚙 There is a large free parking.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌹 You will find a fabulous amphitheater and various productions with the ancient life and culture of the Bulgarians\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌹 Next to the complex are the rose fields themselves. There is also a park where you can observe deer, roe deer, and other wild animals.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍰 The restaurant will win you over with its unique künefe.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎟️ The entrance fee for adults is 12 € for adults, 8 € for students\"}]}]}",
     "isOpen": false,
     "isSecret": true,
     "isTopFavorited": false,
@@ -4514,7 +4676,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "BGN",
-      "amount": 16
+      "amount": 19
     },
     "media": [
       {
@@ -4537,38 +4699,38 @@
       },
       {
         "__typename": "Image",
-        "id": "a1822bb2014340e8beeb71895d19b7fd",
-        "url": "https://cdn.prod.rexby.com/image/a1822bb2014340e8beeb71895d19b7fd",
+        "id": "476b597178fd4c33bb50a8f6bc486e1f",
+        "url": "https://cdn.prod.rexby.com/image/476b597178fd4c33bb50a8f6bc486e1f",
         "order": 3
-      },
-      {
-        "__typename": "Image",
-        "id": "e87980a757d245a58a6bd7593d528e73",
-        "url": "https://cdn.prod.rexby.com/image/e87980a757d245a58a6bd7593d528e73",
-        "order": 4
-      },
-      {
-        "__typename": "Image",
-        "id": "ef73a7615c9c4fb980b1ef5c6673a3bc",
-        "url": "https://cdn.prod.rexby.com/image/ef73a7615c9c4fb980b1ef5c6673a3bc",
-        "order": 5
-      },
-      {
-        "__typename": "Image",
-        "id": "8ad1861b5b2f45b1802b66ab5981dece",
-        "url": "https://cdn.prod.rexby.com/image/8ad1861b5b2f45b1802b66ab5981dece",
-        "order": 6
       },
       {
         "__typename": "Image",
         "id": "240f8b1661094f9d8c1b11b398eee616",
         "url": "https://cdn.prod.rexby.com/image/240f8b1661094f9d8c1b11b398eee616",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "a1822bb2014340e8beeb71895d19b7fd",
+        "url": "https://cdn.prod.rexby.com/image/a1822bb2014340e8beeb71895d19b7fd",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "e87980a757d245a58a6bd7593d528e73",
+        "url": "https://cdn.prod.rexby.com/image/e87980a757d245a58a6bd7593d528e73",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "ef73a7615c9c4fb980b1ef5c6673a3bc",
+        "url": "https://cdn.prod.rexby.com/image/ef73a7615c9c4fb980b1ef5c6673a3bc",
         "order": 7
       },
       {
         "__typename": "Image",
-        "id": "476b597178fd4c33bb50a8f6bc486e1f",
-        "url": "https://cdn.prod.rexby.com/image/476b597178fd4c33bb50a8f6bc486e1f",
+        "id": "8ad1861b5b2f45b1802b66ab5981dece",
+        "url": "https://cdn.prod.rexby.com/image/8ad1861b5b2f45b1802b66ab5981dece",
         "order": 8
       }
     ]
@@ -5061,54 +5223,6 @@
         "__typename": "Image",
         "id": "514283ae0d8041b0a74345fe96c4b05d",
         "url": "https://cdn.prod.rexby.com/image/514283ae0d8041b0a74345fe96c4b05d",
-        "order": 4
-      }
-    ]
-  },
-  {
-    "id": "wXt9HK_vSoeNPIPcs33yrA",
-    "title": "The hidden turquoise waters of Bulgaria",
-    "slug": "the-hidden-turquoise-waters-of-bulgaria",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Karstov izvor Zlatna Panega is located 13 km from the Iskar-Panega eco-trail\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Parking here: 43.0884815, 24.1568542\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"The road is paved and accessible to all types of vehicles\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉🏻 Be sure to go through the cave to get to the more beautiful view\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "activity",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "ExtremelyShort",
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "77dbbe2f479540aebbbf6c1f35bc015b",
-        "url": "https://cdn.prod.rexby.com/image/77dbbe2f479540aebbbf6c1f35bc015b",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "7210fae083754f0a98ff6fb5664070fa",
-        "url": "https://cdn.prod.rexby.com/image/7210fae083754f0a98ff6fb5664070fa",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "379a19a4a85b4d9ea293516fb6c0e101",
-        "url": "https://cdn.prod.rexby.com/image/379a19a4a85b4d9ea293516fb6c0e101",
-        "order": 2
-      },
-      {
-        "__typename": "Image",
-        "id": "1a7c15e97ded4d15a016feaecfdc9db8",
-        "url": "https://cdn.prod.rexby.com/image/1a7c15e97ded4d15a016feaecfdc9db8",
-        "order": 3
-      },
-      {
-        "__typename": "Image",
-        "id": "c8c13aa187a34ddfac381de48f62f0f6",
-        "url": "https://cdn.prod.rexby.com/image/c8c13aa187a34ddfac381de48f62f0f6",
         "order": 4
       }
     ]
@@ -6148,56 +6262,6 @@
     ]
   },
   {
-    "id": "8aEsYmxlQ1qviRAzTcd0Bg",
-    "title": "A waterfall you can walk under",
-    "slug": "a-waterfall-you-can-walk-under",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 It can be reached by car if you take the last 45 minutes the dirt but passable road.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🕰 Walking to the waterfall will take you about 15 minutes if you shorten your way.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💦 There are two levels of the waterfall and I strongly recommend you not to miss either one 😍\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "waterfall",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "VeryShort",
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "61591e52cd3745c5b4c93f0c70028f7c",
-        "url": "https://cdn.prod.rexby.com/image/61591e52cd3745c5b4c93f0c70028f7c",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "25186cb81f1d4e84a4a56b1bed2e19fb",
-        "url": "https://cdn.prod.rexby.com/image/25186cb81f1d4e84a4a56b1bed2e19fb",
-        "order": 1
-      },
-      {
-        "__typename": "Video",
-        "id": "7a9a810480af4a6c9a845eaf14932dfb",
-        "order": 2,
-        "mp4Url": "https://cdn.prod.rexby.com/7a9a810480af4a6c9a845eaf14932dfb/index.mp4",
-        "webmUrl": "https://cdn.prod.rexby.com/7a9a810480af4a6c9a845eaf14932dfb/index.webm",
-        "muted": false,
-        "thumbnail": {
-          "url": "https://cdn.prod.rexby.com/7a9a810480af4a6c9a845eaf14932dfb/thumbnails/1"
-        },
-        "poster": {
-          "url": "https://cdn.prod.rexby.com/7a9a810480af4a6c9a845eaf14932dfb/thumbnails/0"
-        }
-      },
-      {
-        "__typename": "Image",
-        "id": "85b4fdaece7e4275998b86b29b5024ea",
-        "url": "https://cdn.prod.rexby.com/image/85b4fdaece7e4275998b86b29b5024ea",
-        "order": 3
-      }
-    ]
-  },
-  {
     "id": "75WN9dB0QH-GlFAC8ob-1A",
     "title": "Easily accessible",
     "slug": "easily-accessible",
@@ -6798,30 +6862,6 @@
     ]
   },
   {
-    "id": "dR7aIaRoQoa7ccvwRwrB9w",
-    "title": "A corner of paradise in the Rhodope Mountains",
-    "slug": "a-corner-of-paradise-in-the-rhodope-mountains",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 You can park at \\\"Shishkovi Guest House\\\", to which there is an ideal road and go down the path by foot.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ It will take you about 5 minutes to walk to the bridge.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "activity",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "ExtremelyShort",
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "f7c1e87cc9144818bafe32ce4881f8b9",
-        "url": "https://cdn.prod.rexby.com/image/f7c1e87cc9144818bafe32ce4881f8b9",
-        "order": 0
-      }
-    ]
-  },
-  {
     "id": "jNigcECZQ5WWgwW3t41IWQ",
     "title": "A place that was not existing in google",
     "slug": "a-place-that-was-not-existing-in-google",
@@ -6875,25 +6915,25 @@
     "duration": "VeryShort",
     "estimatedPrice": {
       "currency": "BGN",
-      "amount": 4
+      "amount": 5
     },
     "media": [
       {
         "__typename": "Image",
-        "id": "3c92847693ee424f826dbc43c9a744fd",
-        "url": "https://cdn.prod.rexby.com/image/3c92847693ee424f826dbc43c9a744fd",
+        "id": "568f6ce5e142488c9e2c8e5fba5f959c",
+        "url": "https://cdn.prod.rexby.com/image/568f6ce5e142488c9e2c8e5fba5f959c",
         "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "a17347b1b54946448afe6d2dfe14c82d",
+        "url": "https://cdn.prod.rexby.com/image/a17347b1b54946448afe6d2dfe14c82d",
+        "order": 1
       },
       {
         "__typename": "Image",
         "id": "53f669b2ee1245cc867758b7676bd4fc",
         "url": "https://cdn.prod.rexby.com/image/53f669b2ee1245cc867758b7676bd4fc",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "568f6ce5e142488c9e2c8e5fba5f959c",
-        "url": "https://cdn.prod.rexby.com/image/568f6ce5e142488c9e2c8e5fba5f959c",
         "order": 2
       },
       {
@@ -6901,12 +6941,6 @@
         "id": "934437b49c97422dbc5216ae8feba851",
         "url": "https://cdn.prod.rexby.com/image/934437b49c97422dbc5216ae8feba851",
         "order": 3
-      },
-      {
-        "__typename": "Image",
-        "id": "a17347b1b54946448afe6d2dfe14c82d",
-        "url": "https://cdn.prod.rexby.com/image/a17347b1b54946448afe6d2dfe14c82d",
-        "order": 4
       }
     ]
   },
@@ -9941,36 +9975,6 @@
     ]
   },
   {
-    "id": "CK4xUahWT4qlGio2JalODg",
-    "title": "Turquoise Canyon next to the road",
-    "slug": "turquoise-canyon-next-to-the-road",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 There is a widening next to the road where you can park.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 From here you go down for 2 minutes along a short path in the forest.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ It will take you 10 minutes to view it. You also have the option to rent a boat on the river, which will take you another 10 minutes.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 I leave you a link to the site and the contacts of the people you can contact for a walk.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "sightseeing",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "ExtremelyShort",
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "9d8f18ee5210424c92fb81c5af635da6",
-        "url": "https://cdn.prod.rexby.com/image/9d8f18ee5210424c92fb81c5af635da6",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "3251edd672794f9ebdd4c9ee442087de",
-        "url": "https://cdn.prod.rexby.com/image/3251edd672794f9ebdd4c9ee442087de",
-        "order": 1
-      }
-    ]
-  },
-  {
     "id": "Ykg23a28TgS6e57bmQup1w",
     "title": "With two floors and hundreds of steps",
     "slug": "with-two-floors-and-hundreds-of-steps",
@@ -10023,63 +10027,6 @@
         "__typename": "Image",
         "id": "4649d71993aa4416b72631e619984371",
         "url": "https://cdn.prod.rexby.com/image/4649d71993aa4416b72631e619984371",
-        "order": 5
-      }
-    ]
-  },
-  {
-    "id": "DHo_Rq0BR3uBFKHqzxuCZw",
-    "title": "A huge underground canyon and water cave",
-    "slug": "a-huge-underground-canyon-and-water-cave",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 There is a gazebo that you can use to find out where you need to park. The road to it is asphalt. You leave the cars and walk along the path marked with signs. You pass the rocks and a swinging rope bridge and after about 10 minutes you reach the entrance of the cave.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 The cave is an underground canyon in which a river flows and there are underground lakes. At one point you will pass through a very narrow gap with boats. Due to this fact, it is only available at a certain time of the year. Usually between July and the end of September.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ The walk will take you 2 hours. It is good to reserve a place in advance. You can contact for reservations by phone: +359889293070 - Sasho.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎟️ The entrance to the cave is BGN 30. I recommend that for another BGN 5-10 you can take the Alpine trolley on the way back.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "sightseeing",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "Medium",
-    "estimatedPrice": {
-      "currency": "BGN",
-      "amount": 32
-    },
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "3deb8ccf37a34246b4b66491281f36bf",
-        "url": "https://cdn.prod.rexby.com/image/3deb8ccf37a34246b4b66491281f36bf",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "99a845eb86bd4746a6317062a7187436",
-        "url": "https://cdn.prod.rexby.com/image/99a845eb86bd4746a6317062a7187436",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "503be1b0d1be4cc3a96378d8b030780f",
-        "url": "https://cdn.prod.rexby.com/image/503be1b0d1be4cc3a96378d8b030780f",
-        "order": 2
-      },
-      {
-        "__typename": "Image",
-        "id": "abc2ddf11d824df99e5d324f3623e96b",
-        "url": "https://cdn.prod.rexby.com/image/abc2ddf11d824df99e5d324f3623e96b",
-        "order": 3
-      },
-      {
-        "__typename": "Image",
-        "id": "55b9e5d40ade4194b35ae8c1e2b8c537",
-        "url": "https://cdn.prod.rexby.com/image/55b9e5d40ade4194b35ae8c1e2b8c537",
-        "order": 4
-      },
-      {
-        "__typename": "Image",
-        "id": "0a334121d4054f3b90def33216817389",
-        "url": "https://cdn.prod.rexby.com/image/0a334121d4054f3b90def33216817389",
         "order": 5
       }
     ]
@@ -11639,66 +11586,6 @@
     ]
   },
   {
-    "id": "NcGtAFZpRXaDy7EP8LI77g",
-    "title": "A beam of light illuminates the place",
-    "slug": "a-beam-of-light-illuminates-the-place",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 The road to the village of Karpachevo is perfect. However, the last 3 km of the road to the cave is black and you have two options.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 First is to park here: 43.2236002, 25.0020390, and walk 40 minutes in the direction of the cave.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 The second option is to cross the dirt road and park the car right next to the indicated place of the cave. The road is relatively flat, although not good. We went through it with the Subaru Legacy.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⏳☀️ On sunny days, you can observe how magically a ray sneaks into the cave. In each season, the moment when it happens is different.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "sightseeing",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "VeryShort",
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "fefb46596666481ba2db44552c8c01e4",
-        "url": "https://cdn.prod.rexby.com/image/fefb46596666481ba2db44552c8c01e4",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "2898425092c842b4a86e9f0f0f5836d4",
-        "url": "https://cdn.prod.rexby.com/image/2898425092c842b4a86e9f0f0f5836d4",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "2f2b840053a443a081498b87ad7aff4b",
-        "url": "https://cdn.prod.rexby.com/image/2f2b840053a443a081498b87ad7aff4b",
-        "order": 2
-      },
-      {
-        "__typename": "Image",
-        "id": "17508afc79d449beaf49c65a2b2391f4",
-        "url": "https://cdn.prod.rexby.com/image/17508afc79d449beaf49c65a2b2391f4",
-        "order": 3
-      },
-      {
-        "__typename": "Image",
-        "id": "a787551255a746eb99422051043c94d8",
-        "url": "https://cdn.prod.rexby.com/image/a787551255a746eb99422051043c94d8",
-        "order": 4
-      },
-      {
-        "__typename": "Image",
-        "id": "cc8f4ce6773140419ba8d58422cdaf35",
-        "url": "https://cdn.prod.rexby.com/image/cc8f4ce6773140419ba8d58422cdaf35",
-        "order": 5
-      },
-      {
-        "__typename": "Image",
-        "id": "e10c188293b44ddd9b26e1ab9c23b250",
-        "url": "https://cdn.prod.rexby.com/image/e10c188293b44ddd9b26e1ab9c23b250",
-        "order": 6
-      }
-    ]
-  },
-  {
     "id": "EiujDkkbQuWewxNeANqY8Q",
     "title": "An amazing cave, above which you can also see the sunset",
     "slug": "an-amazing-cave-above-which-you-can-also-see-the-sunset",
@@ -12731,8 +12618,8 @@
     "title": "Cozy mountain spa retreat",
     "slug": "cozy-mountain-spa-retreat",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🤽‍♀️ The place has a small outdoor hot pool, a warm indoor one and various relaxation areas.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧖‍♀️ Don't miss the infrared sauna with a view of the mountain!\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧀I recommend their homemade pasta for dinner, which they make.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🐎 They have horses that you can ride during the warm seasons, because they put them away in the winter.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "hotel",
     "secondaryCategories": null,
@@ -12741,6 +12628,23 @@
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "41.8874681",
+      "lng": "23.4260628"
+    },
+    "locationName": "Katarino SPA Hotel",
+    "address": null,
+    "website": "https://hotelkatarino.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Blagoevgrad",
+      "Razlog"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
     "media": [
       {
         "__typename": "Image",
@@ -12756,15 +12660,27 @@
       },
       {
         "__typename": "Image",
+        "id": "ab3aa35187304f6c90ef6240fc280bcb",
+        "url": "https://cdn.prod.rexby.com/image/ab3aa35187304f6c90ef6240fc280bcb",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
         "id": "9ccd3d6895ae4037997606fa5ba6a53a",
         "url": "https://cdn.prod.rexby.com/image/9ccd3d6895ae4037997606fa5ba6a53a",
-        "order": 2
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "9c37f69d81f04e3e8f538afe6c5bb3dd",
+        "url": "https://cdn.prod.rexby.com/image/9c37f69d81f04e3e8f538afe6c5bb3dd",
+        "order": 4
       },
       {
         "__typename": "Image",
         "id": "006906540b9d4525a83fd287278384a7",
         "url": "https://cdn.prod.rexby.com/image/006906540b9d4525a83fd287278384a7",
-        "order": 3
+        "order": 5
       }
     ]
   },
@@ -13461,6 +13377,1428 @@
         "id": "4721b9cd06b7417b9d36c8412bf76152",
         "url": "https://cdn.prod.rexby.com/image/4721b9cd06b7417b9d36c8412bf76152",
         "order": 6
+      }
+    ]
+  },
+  {
+    "id": "IX_rqgRSTtWUpoC4EKn0RQ",
+    "title": "The largest Orthodox church on the entire Balkan Peninsula",
+    "slug": "the-largest-orthodox-church-on-the-entire-balkan-peninsula",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Located closest to Sofia University metro station.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 There are enough parking spaces around the cathedral. The area is a blue zone, so if you are driving, don't forget to send an SMS to 1302.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"☀️ I strongly recommend you to visit it at sunset, the view is worth it.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "sightseeing",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "ExtremelyShort",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.6958847",
+      "lng": "23.3328704"
+    },
+    "locationName": "St. Alexander Nevsky Cathedral",
+    "address": null,
+    "website": "http://www.cathedral.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Sofia City",
+      "Stolichna"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "773582a0c052482c86e477ba2119cf30",
+        "url": "https://cdn.prod.rexby.com/image/773582a0c052482c86e477ba2119cf30",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "db332ab3da4b40a396f4f3597a54bb9c",
+        "url": "https://cdn.prod.rexby.com/image/db332ab3da4b40a396f4f3597a54bb9c",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "46590d4efb9547e89ca1a0ebb1b0cfd3",
+        "url": "https://cdn.prod.rexby.com/image/46590d4efb9547e89ca1a0ebb1b0cfd3",
+        "order": 2
+      }
+    ]
+  },
+  {
+    "id": "7vwOC88wS0SUn9HU-GPqNA",
+    "title": "Sofia, seen from the beautiful, colorful side",
+    "slug": "sofia-seen-from-the-beautiful-colorful-side",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🗓️ From Thursday to Monday, a free walk around the most remarkable graffiti in the city center takes place.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ Departure time is 15:00 and lasts 2 hours\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 The starting point is the statue of Sophia\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🇺🇸 Conducted in English\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 It is good to make a reservation through their website, but you can also go there.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "tours",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "Short",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.6979638",
+      "lng": "23.321461"
+    },
+    "locationName": "Free Sofia Graffiti Tour",
+    "address": null,
+    "website": "http://sofiagraffititour.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Sofia City",
+      "Stolichna"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "fed3d0915f4840308bd009a1da8ad5a9",
+        "url": "https://cdn.prod.rexby.com/image/fed3d0915f4840308bd009a1da8ad5a9",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "4e894317c57c4997a2390c0c14a84726",
+        "url": "https://cdn.prod.rexby.com/image/4e894317c57c4997a2390c0c14a84726",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "bed7bd028902427c8319a992b7d215f8",
+        "url": "https://cdn.prod.rexby.com/image/bed7bd028902427c8319a992b7d215f8",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "b6365b9ca646450cbf0cd74d3c0b2f91",
+        "url": "https://cdn.prod.rexby.com/image/b6365b9ca646450cbf0cd74d3c0b2f91",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "19e956a2ce2a4df1a16d7266e2e04723",
+        "url": "https://cdn.prod.rexby.com/image/19e956a2ce2a4df1a16d7266e2e04723",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "71JkkKJaR_G_yzPoBXNgKw",
+    "title": "One of the unrealized Sofia projects",
+    "slug": "one-of-the-unrealized-sofia-projects",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 \\\"Lavov most\\\" metro station will bring you directly here.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 The bridge separates the blue and green zones in Sofia, so be careful which one you send an SMS to, if you exploring it with car.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📖 During the Ottoman rule, this place became a gallows for the Bulgarians from the April Uprising and beyond. The Lion Bridge was originally planned to be a memorial complex for all those who died in this place and was realized in this form in 1891. Unfortunately, only the lions were realized from the whole project.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "sightseeing",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "ExtremelyShort",
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "32510dc3b1584085bcc9ba9e706f8263",
+        "url": "https://cdn.prod.rexby.com/image/32510dc3b1584085bcc9ba9e706f8263",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "69bc24108327402486060997ba79b100",
+        "url": "https://cdn.prod.rexby.com/image/69bc24108327402486060997ba79b100",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "2c7b8a58bee249f88a7b9139e7a182d0",
+        "url": "https://cdn.prod.rexby.com/image/2c7b8a58bee249f88a7b9139e7a182d0",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "bd123beb91d242bdacb2a4404b22ba05",
+        "url": "https://cdn.prod.rexby.com/image/bd123beb91d242bdacb2a4404b22ba05",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "0fa73d1de415462ba81d4eca052525c8",
+        "url": "https://cdn.prod.rexby.com/image/0fa73d1de415462ba81d4eca052525c8",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "KX9K0cGPS1Opn2DlRn7Ttg",
+    "title": "Glamping with a View",
+    "slug": "glamping-with-a-view",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Waking up to a view of the Belogradchik Rocks — priceless!\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 One of the most impressive places to stay in Bulgaria, and something I truly recommend from the heart. Tucked away in the forest, high above everything, this spot gives you a sense of complete peace and escape from everyday life.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌜🌲 The accommodation is a stylishly converted container, but it feels anything but ordinary — cozy, modern, and with a view that quite literally takes your breath away. Mornings start in the best possible way, with a homemade breakfast delivered right to your door, as the rocks reveal themselves in all their beauty right in front of you.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "campsite",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "43.62421320000001",
+      "lng": "22.6942182"
+    },
+    "locationName": "Bebeka",
+    "address": null,
+    "website": "https://www.bebeka.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Vidin",
+      "Belogradchik"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "617c52500b9647eb86908332f584765b",
+        "url": "https://cdn.prod.rexby.com/image/617c52500b9647eb86908332f584765b",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "5eabe28847bf446180d103891b276e2c",
+        "url": "https://cdn.prod.rexby.com/image/5eabe28847bf446180d103891b276e2c",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "bf8586fa433040cda7286cb39ec575a1",
+        "url": "https://cdn.prod.rexby.com/image/bf8586fa433040cda7286cb39ec575a1",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "44fdf2d157ec4f558622034bc72a1f24",
+        "url": "https://cdn.prod.rexby.com/image/44fdf2d157ec4f558622034bc72a1f24",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "c9b3cdab29e0451b8c0b825d5c5e4c23",
+        "url": "https://cdn.prod.rexby.com/image/c9b3cdab29e0451b8c0b825d5c5e4c23",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "Yl5p6QgBR9iwRmCER2VCrw",
+    "title": "Luxurious Winery & Culinary Retreat",
+    "slug": "luxurious-winery-and-culinary-retreat",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌿 Escape to the rolling hills of southern Bulgaria at this stunning wine estate — a true hidden gem near Svilengrad.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍷 I highly recommend taking a walk through the incredible winery, seeing how the wines are crafted, and fully immersing yourself in the process. Indulge your senses with a tasting and discover the “path of the wine” in a truly inspiring atmosphere.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Don’t miss the chance to try their cuisine — refined local and international dishes, perfectly paired with the estate’s award-winning wines.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍰 And the desserts… you absolutely have to try them — every bite is worth it.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"✨ This is a place where you can truly relax and recharge — where nature, luxury, and fine wine come together in perfect harmony.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "winery",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.7476755",
+      "lng": "26.1391464"
+    },
+    "locationName": "Katarzyna Estate",
+    "address": null,
+    "website": "https://katarzyna.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Haskovo",
+      "Svilengrad"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "6456a43496064c5cb24ede49ae70995d",
+        "url": "https://cdn.prod.rexby.com/image/6456a43496064c5cb24ede49ae70995d",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "c609bbd5f5574cbaa3b7b31ad6dc428b",
+        "url": "https://cdn.prod.rexby.com/image/c609bbd5f5574cbaa3b7b31ad6dc428b",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "51b32a0d0fc74accba7b29ad54147d10",
+        "url": "https://cdn.prod.rexby.com/image/51b32a0d0fc74accba7b29ad54147d10",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "562cc3bf7d344b0fbeba58aed95f0674",
+        "url": "https://cdn.prod.rexby.com/image/562cc3bf7d344b0fbeba58aed95f0674",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "09c3d30c71b04c2b96e458656cc46294",
+        "url": "https://cdn.prod.rexby.com/image/09c3d30c71b04c2b96e458656cc46294",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "eaffda257255470f89dd50075d0cd3b3",
+        "url": "https://cdn.prod.rexby.com/image/eaffda257255470f89dd50075d0cd3b3",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "2fdc8435a2814bbf8ba16ccd46261d95",
+        "url": "https://cdn.prod.rexby.com/image/2fdc8435a2814bbf8ba16ccd46261d95",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "9a858c06e0d742c0bd43b163cb96f4b7",
+        "url": "https://cdn.prod.rexby.com/image/9a858c06e0d742c0bd43b163cb96f4b7",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "2f65e7d3b3504859b37244078a6cefa2",
+        "url": "https://cdn.prod.rexby.com/image/2f65e7d3b3504859b37244078a6cefa2",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "72e98b0c3f124c69858e335c60b18498",
+        "url": "https://cdn.prod.rexby.com/image/72e98b0c3f124c69858e335c60b18498",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "9e70792256564e8080f6c99003ea6dc5",
+        "url": "https://cdn.prod.rexby.com/image/9e70792256564e8080f6c99003ea6dc5",
+        "order": 10
+      },
+      {
+        "__typename": "Image",
+        "id": "937908bec8664c4195a8fb3fee9d1bc2",
+        "url": "https://cdn.prod.rexby.com/image/937908bec8664c4195a8fb3fee9d1bc2",
+        "order": 11
+      },
+      {
+        "__typename": "Image",
+        "id": "8cf6f3ea688f4db4b0d8121764a991cf",
+        "url": "https://cdn.prod.rexby.com/image/8cf6f3ea688f4db4b0d8121764a991cf",
+        "order": 12
+      },
+      {
+        "__typename": "Image",
+        "id": "aa9b46ae566b4278b2ee2babe68dc9d1",
+        "url": "https://cdn.prod.rexby.com/image/aa9b46ae566b4278b2ee2babe68dc9d1",
+        "order": 13
+      }
+    ]
+  },
+  {
+    "id": "VPMJioCKT8G0P-ws1Y94mQ",
+    "title": "Artistic Vitosha Mountain Retreat",
+    "slug": "artistic-vitosha-mountain-retreat",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎨 Escape to a true work of art in the heart of Vitosha, at hut “Kuker” — a beautifully renovated retreat just a short drive from Sofia\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌲 You’ll find it nestled in the Zlatnite Mostove (Golden Bridges) area\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 The hut is easily accessible, located just about 50 meters from the nearest parking area, making it a perfect starting point for exploring the surrounding hiking trails\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚌 You can also get here by bus №63 from the city center\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍓 Don’t miss trying their tarator (cold yogurt soup), fried bread slices, mekitsi, and local cheeses\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "hotel",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.6120042",
+      "lng": "23.239399"
+    },
+    "locationName": "Hut “Kuker”",
+    "address": null,
+    "website": "http://www.kukerbg.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Sofia City",
+      "Stolichna"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "2117535b709343d7bf701874bc3fe192",
+        "url": "https://cdn.prod.rexby.com/image/2117535b709343d7bf701874bc3fe192",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "d4bacf430d404e90ad83f9021c6da21a",
+        "url": "https://cdn.prod.rexby.com/image/d4bacf430d404e90ad83f9021c6da21a",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "296e614a0b3d4f12a5682d0c0b03cc0e",
+        "url": "https://cdn.prod.rexby.com/image/296e614a0b3d4f12a5682d0c0b03cc0e",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "b32f5f7b86c243f380ebacc2e5776901",
+        "url": "https://cdn.prod.rexby.com/image/b32f5f7b86c243f380ebacc2e5776901",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "d7fcbe0eea5f4751b305be9941810999",
+        "url": "https://cdn.prod.rexby.com/image/d7fcbe0eea5f4751b305be9941810999",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "e736b188867f49959dab04c0177c1412",
+        "url": "https://cdn.prod.rexby.com/image/e736b188867f49959dab04c0177c1412",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "4bc4113e37aa4438b1fc33aaf2ba8532",
+        "url": "https://cdn.prod.rexby.com/image/4bc4113e37aa4438b1fc33aaf2ba8532",
+        "order": 6
+      },
+      {
+        "__typename": "Video",
+        "id": "9df6effe6410475a8db3a3cebba34517",
+        "order": 7,
+        "mp4Url": "https://cdn.prod.rexby.com/9df6effe6410475a8db3a3cebba34517/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/9df6effe6410475a8db3a3cebba34517/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/9df6effe6410475a8db3a3cebba34517/thumbnails/1"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/9df6effe6410475a8db3a3cebba34517/thumbnails/0"
+        }
+      },
+      {
+        "__typename": "Image",
+        "id": "a5ffbd3ab0f0464d840649349685c7b4",
+        "url": "https://cdn.prod.rexby.com/image/a5ffbd3ab0f0464d840649349685c7b4",
+        "order": 8
+      }
+    ]
+  },
+  {
+    "id": "dSPruZosQ-uKJfTASyZzPg",
+    "title": "Escape in the Forest, Minutes from Sofia",
+    "slug": "escape-in-the-forest-minutes-from-sofia",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Nomad Retreat is literally hidden in the forest above Yarema, at the foot of Vitosha Mountain — only about 30–40 minutes from the center of Sofia, yet it feels like you’re hours away from the city.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 It features an outdoor jacuzzi under the stars and a sauna.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🥾 What you can do here:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"hiking trails around Yarema and Vitosha\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"walks starting directly from the cabin\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"barbecue and outdoor dinners\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"stargazing from the jacuzzi ✨\"}]}]}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "villa",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "56ad668704f54b648a516671532d1cd0",
+        "url": "https://cdn.prod.rexby.com/image/56ad668704f54b648a516671532d1cd0",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "d5ffd15409024a11828c3ad649739999",
+        "url": "https://cdn.prod.rexby.com/image/d5ffd15409024a11828c3ad649739999",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "1312a017b8f742588fa26ece4bc6f41e",
+        "url": "https://cdn.prod.rexby.com/image/1312a017b8f742588fa26ece4bc6f41e",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "c56f9fe608f94743bbf2e9257464b291",
+        "url": "https://cdn.prod.rexby.com/image/c56f9fe608f94743bbf2e9257464b291",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "71fd1884a4bb445a95edfade856d6708",
+        "url": "https://cdn.prod.rexby.com/image/71fd1884a4bb445a95edfade856d6708",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "eb8830d5cc1b407da805c116248dd049",
+        "url": "https://cdn.prod.rexby.com/image/eb8830d5cc1b407da805c116248dd049",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "88ed715da3d24edfadaf1298a80e8283",
+        "url": "https://cdn.prod.rexby.com/image/88ed715da3d24edfadaf1298a80e8283",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "zgCOPQvDTPKmxqQ2Ctka_Q",
+    "title": "Winery Escape in Rose Valley",
+    "slug": "winery-escape-in-rose-valley",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Spend a night in a castle surrounded by vineyards and drink wine where it’s actually made – this is Copsa 🍷🏰\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Chateau Copsa is a unique blend of a winery, a castle, and a boutique experience in the heart of the Rose Valley\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏰 Here, you get a choice you rarely find:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"stay in a stone castle with towers and antique interiors\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"or in a modern art hotel with a contemporary feel\"}]}]}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Food and wine are at the center of everything:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"their own winery with unique grape varieties\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"tastings and even the chance to create your own wine\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"restaurants with views over the vineyards and sunset\"}]}]}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧖‍♀️ There’s also a relaxation area, still in line with the concept:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"outdoor pool surrounded by nature\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"sauna and spa treatments\"}]}]}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎯 Additional experiences you can enjoy:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🍷 wine tastings and blending (create your own wine)\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🧺 picnic among the vineyards with wine and food\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎨 wine painting and art events\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🐎 horseback riding and nature walks\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🧘 yoga and outdoor activities\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "winery",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.6477581",
+      "lng": "24.7060272"
+    },
+    "locationName": "Chateau Copsa",
+    "address": null,
+    "website": "http://copsa.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Plovdiv",
+      "Karlovo"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "5c9b47f42b5e4fb5952b7c9adffc881d",
+        "url": "https://cdn.prod.rexby.com/image/5c9b47f42b5e4fb5952b7c9adffc881d",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "196cad6fc8524481bf165164d99039d2",
+        "url": "https://cdn.prod.rexby.com/image/196cad6fc8524481bf165164d99039d2",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "0718034134304d9389e87ba3a12fc618",
+        "url": "https://cdn.prod.rexby.com/image/0718034134304d9389e87ba3a12fc618",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "0dccfdd499c44f2ba2689aacb56979b5",
+        "url": "https://cdn.prod.rexby.com/image/0dccfdd499c44f2ba2689aacb56979b5",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "0a887c41f4be43ed95044dc23bd66fa2",
+        "url": "https://cdn.prod.rexby.com/image/0a887c41f4be43ed95044dc23bd66fa2",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "cec82932922548fda2400aa7c0c3ddaa",
+        "url": "https://cdn.prod.rexby.com/image/cec82932922548fda2400aa7c0c3ddaa",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "3d29a883f93047f589d0104f4b823f5c",
+        "url": "https://cdn.prod.rexby.com/image/3d29a883f93047f589d0104f4b823f5c",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "rH4JTO-lSeCQdp--MsnieA",
+    "title": "Wooden cabins on the edge of a pine forest ",
+    "slug": "wooden-cabins-on-the-edge-of-a-pine-forest",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏡 The houses are built in an alpine style, entirely from natural materials – wood, stone, and huge windows overlooking Chepan Mountain. The most impressive one is the Forest Log Chalet – a log house made from massive timber trunks, featuring a green roof, a private herbal sauna, and an outdoor jacuzzi in the middle of the forest.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🦌 Keep an eye out – roe deer often wander through and visit the area.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💍 The place often hosts forest weddings and small private events, so especially during summer, it’s a good idea to book at least one month in advance.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "villa",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.9977818",
+      "lng": "23.0718164"
+    },
+    "locationName": "Бутиков комплекс Форест Хаусис",
+    "address": null,
+    "website": "http://foresthouses.eu/",
+    "regionNames": [
+      "Bulgaria",
+      "Sofia",
+      "Godech"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "aeef9e8497044a808e194f111b172d57",
+        "url": "https://cdn.prod.rexby.com/image/aeef9e8497044a808e194f111b172d57",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "9f44a9ca65604594a31973da96189a1d",
+        "url": "https://cdn.prod.rexby.com/image/9f44a9ca65604594a31973da96189a1d",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "6a484412775343378f1d393c618d2177",
+        "url": "https://cdn.prod.rexby.com/image/6a484412775343378f1d393c618d2177",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "7bd8de9800ae4935b995655dd01d2ac3",
+        "url": "https://cdn.prod.rexby.com/image/7bd8de9800ae4935b995655dd01d2ac3",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "6e9d86626df44344a0f5af1d40e5e8c9",
+        "url": "https://cdn.prod.rexby.com/image/6e9d86626df44344a0f5af1d40e5e8c9",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "8b9a12c3afdf4d6e8cd022d678d00b25",
+        "url": "https://cdn.prod.rexby.com/image/8b9a12c3afdf4d6e8cd022d678d00b25",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "af9ecbbf5ecd41a798a5c343d0b5a311",
+        "url": "https://cdn.prod.rexby.com/image/af9ecbbf5ecd41a798a5c343d0b5a311",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "boSoIgB3RXOfgohKDinPow",
+    "title": "Fairytale forest escape 🌲✨",
+    "slug": "fairytale-forest-escape",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Omaya Eco Village is a small eco village, created as a world of its own, where you can fall asleep in a clay house deep in the forest and wake up like you’re in a fairytale.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏡 You stay in handcrafted houses made of clay and wood – each one unique, with organic shapes and an almost magical feel.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Food is also part of the experience – there’s a restaurant with organic, locally sourced cuisine, the option to dine by the lake (with a reservation), and even the chance to catch your own fish and have it cooked on the spot 🎣\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚣 You can also enjoy picnic baskets in nature, a pool set in the forest, BBQ areas, bikes, games, and peaceful walks.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "villa",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.4380422",
+      "lng": "23.7349542"
+    },
+    "locationName": "Omaya eco village",
+    "address": null,
+    "website": "https://omayavillage.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Blagoevgrad",
+      "Hadzhidimovo"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "7fb45d7c09904a73b1d1f1eaef18dc5d",
+        "url": "https://cdn.prod.rexby.com/image/7fb45d7c09904a73b1d1f1eaef18dc5d",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "ba8d30d6c2134638817dda8b95045b49",
+        "url": "https://cdn.prod.rexby.com/image/ba8d30d6c2134638817dda8b95045b49",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "2d32e10b4e6241a9b93f173df50c3891",
+        "url": "https://cdn.prod.rexby.com/image/2d32e10b4e6241a9b93f173df50c3891",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "d03d5790805543b49c89075d83214385",
+        "url": "https://cdn.prod.rexby.com/image/d03d5790805543b49c89075d83214385",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "065f4a589fe54233bc70fbd682a10d02",
+        "url": "https://cdn.prod.rexby.com/image/065f4a589fe54233bc70fbd682a10d02",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "15a0b02621cd47b9b204cf809e6cab1d",
+        "url": "https://cdn.prod.rexby.com/image/15a0b02621cd47b9b204cf809e6cab1d",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "152c4de7428540dca85a9c37f8b063bb",
+        "url": "https://cdn.prod.rexby.com/image/152c4de7428540dca85a9c37f8b063bb",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "04213594f7184f53a8f29b57a1d0ee06",
+        "url": "https://cdn.prod.rexby.com/image/04213594f7184f53a8f29b57a1d0ee06",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "9ad5b15e69f241f2a73af7b2b741897e",
+        "url": "https://cdn.prod.rexby.com/image/9ad5b15e69f241f2a73af7b2b741897e",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "791b0865f001486dbb2bf373ecba9470",
+        "url": "https://cdn.prod.rexby.com/image/791b0865f001486dbb2bf373ecba9470",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "1d61050c251c455ea3bd1a4a1913cc97",
+        "url": "https://cdn.prod.rexby.com/image/1d61050c251c455ea3bd1a4a1913cc97",
+        "order": 10
+      },
+      {
+        "__typename": "Image",
+        "id": "b3ff4736402440caa7e855008f044507",
+        "url": "https://cdn.prod.rexby.com/image/b3ff4736402440caa7e855008f044507",
+        "order": 11
+      },
+      {
+        "__typename": "Image",
+        "id": "8eeba56bf9b34006929f8f554b403ee9",
+        "url": "https://cdn.prod.rexby.com/image/8eeba56bf9b34006929f8f554b403ee9",
+        "order": 12
+      }
+    ]
+  },
+  {
+    "id": "xsg4OXT0QvOZZIWljJ10kw",
+    "title": "Forest escape with a view of Sokolitsa Peak",
+    "slug": "forest-escape-with-a-view-of-sokolitsa-peak",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Villa Morava is a hidden spot near Pamporovo, where you’re not part of the resort, but just outside it – close enough for activities, yet far enough for complete peace.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏡 You stay in a private villa with plenty of space, large windows facing the forest, and an outdoor jacuzzi and sauna.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ There’s no restaurant on-site – and that’s exactly what gives you freedom:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- BBQ and outdoor dinners 🔥\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- a fully equipped kitchen\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- or a short drive to Pamporovo\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💡 When is the best time to visit?\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Summer (July–August) → the most events and festivals (including the bagpipe gathering in Gela village)\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Winter (January) → kukeri rituals (traditional masked celebrations)\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Spring/Autumn → quieter, but more authentic everyday life, with herb and mushroom pickin\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "villa",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.62146660000001",
+      "lng": "24.7075073"
+    },
+    "locationName": "Villa Morava",
+    "address": null,
+    "website": "https://liam-recommends.com/vila-morava-bulgaria",
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Smolyan"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "2f0f7ecb1f7147368a8581677b5103aa",
+        "url": "https://cdn.prod.rexby.com/image/2f0f7ecb1f7147368a8581677b5103aa",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "d1712380005040f98c1d45ac8110053b",
+        "url": "https://cdn.prod.rexby.com/image/d1712380005040f98c1d45ac8110053b",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "20eb9cf93dec4e57be773898eef431d6",
+        "url": "https://cdn.prod.rexby.com/image/20eb9cf93dec4e57be773898eef431d6",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "28113700e6c5411ea13244ca64a603a6",
+        "url": "https://cdn.prod.rexby.com/image/28113700e6c5411ea13244ca64a603a6",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "d58b06f502b94dbc9e2a6b095bc08f50",
+        "url": "https://cdn.prod.rexby.com/image/d58b06f502b94dbc9e2a6b095bc08f50",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "947d4105b5b4435fb47cdf36c7d4189c",
+        "url": "https://cdn.prod.rexby.com/image/947d4105b5b4435fb47cdf36c7d4189c",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "3af92b08c9dd46bca2f76668186473cb",
+        "url": "https://cdn.prod.rexby.com/image/3af92b08c9dd46bca2f76668186473cb",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "2da85c9c99c44c5c901d5f5322531844",
+        "url": "https://cdn.prod.rexby.com/image/2da85c9c99c44c5c901d5f5322531844",
+        "order": 7
+      }
+    ]
+  },
+  {
+    "id": "9Rrpy_yFSZCgYOhHENtBug",
+    "title": "Renovated stone Rhodope houses",
+    "slug": "renovated-stone-rhodope-houses",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 This is a space created by people who truly live there – and you can feel it in every detail\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏡 You stay in renovated stone Rhodope houses, a barn, or even a caravan for romantics – each with its own entrance, kitchen, and a veranda with a view\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ There’s no classic restaurant here – and that’s exactly the point:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"you can cook for yourself\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"or order authentic Rhodope food\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"or turn it into an experience like a picnic, afternoon tea, or a raclette dinner\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎯 What you can do here:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🧺 Rhodope-style picnic with a view\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"☕ afternoon tea as a small ritual\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎲 board games and slow evenings\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"💻 even remote work (there are dedicated workspaces)\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🌲 walks, herbs, mushrooms, and mountains all around you\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "homes",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.7620315",
+      "lng": "24.6729744"
+    },
+    "locationName": "Оur Place",
+    "address": null,
+    "website": "https://ourplacezornitsa.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Chepelare"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "2630188e3f504aaaa3d4fc09b6ac65ac",
+        "url": "https://cdn.prod.rexby.com/image/2630188e3f504aaaa3d4fc09b6ac65ac",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "8fd06f36cede4b6c9519bb1bcde4a9c6",
+        "url": "https://cdn.prod.rexby.com/image/8fd06f36cede4b6c9519bb1bcde4a9c6",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "df8e5e186ba74e06b777eb9889fec9d7",
+        "url": "https://cdn.prod.rexby.com/image/df8e5e186ba74e06b777eb9889fec9d7",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "46d127c665c1467a9018ec465322a8f7",
+        "url": "https://cdn.prod.rexby.com/image/46d127c665c1467a9018ec465322a8f7",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "76cdd2ce68af46ad9534fa8f20c5d18b",
+        "url": "https://cdn.prod.rexby.com/image/76cdd2ce68af46ad9534fa8f20c5d18b",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "5ce1c8b1b2a045cb99d193c37e2684a3",
+        "url": "https://cdn.prod.rexby.com/image/5ce1c8b1b2a045cb99d193c37e2684a3",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "03a25dd73e544b76a1d608155e8d5d38",
+        "url": "https://cdn.prod.rexby.com/image/03a25dd73e544b76a1d608155e8d5d38",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "877dc85fe8504658a41fd227468da013",
+        "url": "https://cdn.prod.rexby.com/image/877dc85fe8504658a41fd227468da013",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "662786100baf4560b84cf7989750dec1",
+        "url": "https://cdn.prod.rexby.com/image/662786100baf4560b84cf7989750dec1",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "e7ebe56136534cbba3e64886b961698a",
+        "url": "https://cdn.prod.rexby.com/image/e7ebe56136534cbba3e64886b961698a",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "e812eb150ad9423d8fb70e607e7501cf",
+        "url": "https://cdn.prod.rexby.com/image/e812eb150ad9423d8fb70e607e7501cf",
+        "order": 10
+      },
+      {
+        "__typename": "Image",
+        "id": "2a90ad8d9b0c4b6990f0985d94a4e980",
+        "url": "https://cdn.prod.rexby.com/image/2a90ad8d9b0c4b6990f0985d94a4e980",
+        "order": 11
+      },
+      {
+        "__typename": "Image",
+        "id": "23f8887b86ac496bb0d508a95f940e62",
+        "url": "https://cdn.prod.rexby.com/image/23f8887b86ac496bb0d508a95f940e62",
+        "order": 12
+      },
+      {
+        "__typename": "Image",
+        "id": "0f31a3d444e44ddebe71e371ac8b44be",
+        "url": "https://cdn.prod.rexby.com/image/0f31a3d444e44ddebe71e371ac8b44be",
+        "order": 13
+      }
+    ]
+  },
+  {
+    "id": "5KaOEXRYTAmU2vI3QpZirw",
+    "title": "Cosiness and homemade food",
+    "slug": "cosiness-and-homemade-food",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏡 A small family-run hotel with attention to detail – cozy interior, modern feel, and views that make you pause and simply enjoy.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ The restaurant is one of the highlights – traditional Rhodope cuisine made with local ingredients and prepared the right way. This isn’t “hotel food,” but a true taste of the region 🧀🥩\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎯 What you can do nearby:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🥾 hiking in the Rhodope Mountains with scenic routes\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🏔️ climb Mount Perelik\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🌲 walks to Orpheus Rocks with panoramic views\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎶 immerse yourself in local culture and music (Gela is famous for its bagpipe festivals)\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🚗 explore Shiroka Laka and other authentic Rhodope villages\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"❄️ in winter – skiing in Pamporovo (a short drive away)\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "hotel",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.6486915",
+      "lng": "24.5674174"
+    },
+    "locationName": "Hotel Gela",
+    "address": null,
+    "website": "https://hotelgela.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Smolyan"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "ee12e21e7dd940ae84d53ccc24e11b10",
+        "url": "https://cdn.prod.rexby.com/image/ee12e21e7dd940ae84d53ccc24e11b10",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "ce1a6ca3253f43c3bcad83048ae64a48",
+        "url": "https://cdn.prod.rexby.com/image/ce1a6ca3253f43c3bcad83048ae64a48",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "fe2a7bcf518e42b5b02e1dd1a6c79b29",
+        "url": "https://cdn.prod.rexby.com/image/fe2a7bcf518e42b5b02e1dd1a6c79b29",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "deaa74cf6ba34924be1309163536fa29",
+        "url": "https://cdn.prod.rexby.com/image/deaa74cf6ba34924be1309163536fa29",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "0716ed679d6b4e4c814e57c11af49f32",
+        "url": "https://cdn.prod.rexby.com/image/0716ed679d6b4e4c814e57c11af49f32",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "ab351efe627e4b09b252482b875c24c3",
+        "url": "https://cdn.prod.rexby.com/image/ab351efe627e4b09b252482b875c24c3",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "aaacd1de03f94d65b3af40e6c2dba08b",
+        "url": "https://cdn.prod.rexby.com/image/aaacd1de03f94d65b3af40e6c2dba08b",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "c22a7b6c09cd4f029f1253436375251d",
+        "url": "https://cdn.prod.rexby.com/image/c22a7b6c09cd4f029f1253436375251d",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "5f11fcc5eb824e9096feddbac06dbb1f",
+        "url": "https://cdn.prod.rexby.com/image/5f11fcc5eb824e9096feddbac06dbb1f",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "39ba5ec6c25740c4aa7b8503ccafcf76",
+        "url": "https://cdn.prod.rexby.com/image/39ba5ec6c25740c4aa7b8503ccafcf76",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "d5a3827debc842f5bd327433f225cff3",
+        "url": "https://cdn.prod.rexby.com/image/d5a3827debc842f5bd327433f225cff3",
+        "order": 10
+      },
+      {
+        "__typename": "Image",
+        "id": "2de50907a9c3429aa206ea3830aa0532",
+        "url": "https://cdn.prod.rexby.com/image/2de50907a9c3429aa206ea3830aa0532",
+        "order": 11
+      }
+    ]
+  },
+  {
+    "id": "KjAOsRBDSbi6S3pP9RHH-A",
+    "title": "Yurt, tipi, or dome house ",
+    "slug": "yurt-tipi-or-dome-house",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Dengri Eco Resorts is a one-of-a-kind place in Bulgaria — you don’t come here just for a pool, but for a full nature experience.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🛖 You stay in a yurt, tipi, or dome house — it looks wild on the outside, but inside it’s cozy and thoughtfully designed. True glamping without sacrificing comfort.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧖‍♀️ There’s also a spa — sauna, Russian bath, massages, and an outdoor pool, so you still get your dose of relaxation, just not as the main focus.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎯 The real highlight is everything beyond your room:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🐎 you can go horseback riding\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🐐 explore the small farm\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🔥 spend your evenings by the fire\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎶 enjoy music and events\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🌲 or simply wander through the forest trails\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍳 Mornings are slow, with fresh air and total calm — one of those places where you don’t need to do anything to feel good.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💡 You’ll love it if you’re looking for something different — not just a spa weekend, but a mix of nature, activities, and a bit of adventure.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "hotel",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.03009840000001",
+      "lng": "24.0277202"
+    },
+    "locationName": "Dengri Eco Resorts",
+    "address": null,
+    "website": "https://dengri.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Pazardzhik",
+      "Velingrad"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "fe58444de5a64231b63556a09a3c3b59",
+        "url": "https://cdn.prod.rexby.com/image/fe58444de5a64231b63556a09a3c3b59",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "59cc5e837dad474f831a56c3e0acd0cc",
+        "url": "https://cdn.prod.rexby.com/image/59cc5e837dad474f831a56c3e0acd0cc",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "eae54a3c3b2444e59626fa68ebf9b393",
+        "url": "https://cdn.prod.rexby.com/image/eae54a3c3b2444e59626fa68ebf9b393",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "2b522f88835b4bd0b765ae87f6912960",
+        "url": "https://cdn.prod.rexby.com/image/2b522f88835b4bd0b765ae87f6912960",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "26dda71f23c54565bf0af72e75a3ca44",
+        "url": "https://cdn.prod.rexby.com/image/26dda71f23c54565bf0af72e75a3ca44",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "08eb37115d1246b59c8dd8fd08911f6b",
+        "url": "https://cdn.prod.rexby.com/image/08eb37115d1246b59c8dd8fd08911f6b",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "b9a59ed00af44b3cbea9eae6b2933881",
+        "url": "https://cdn.prod.rexby.com/image/b9a59ed00af44b3cbea9eae6b2933881",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "f7ebdeb16c2e414eafaa4ae131322c21",
+        "url": "https://cdn.prod.rexby.com/image/f7ebdeb16c2e414eafaa4ae131322c21",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "b6ff375792354a73bd07e7dd163cba6c",
+        "url": "https://cdn.prod.rexby.com/image/b6ff375792354a73bd07e7dd163cba6c",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "d6e1fc362a824f78a569cbf69bc3eb99",
+        "url": "https://cdn.prod.rexby.com/image/d6e1fc362a824f78a569cbf69bc3eb99",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "a7cdecd3c26f45df8d1eab1cbfbbb95a",
+        "url": "https://cdn.prod.rexby.com/image/a7cdecd3c26f45df8d1eab1cbfbbb95a",
+        "order": 10
+      },
+      {
+        "__typename": "Image",
+        "id": "994984461f2e4e2fbd533260694f4494",
+        "url": "https://cdn.prod.rexby.com/image/994984461f2e4e2fbd533260694f4494",
+        "order": 11
+      },
+      {
+        "__typename": "Image",
+        "id": "e8fb5cedb5dc4a7ab85616d8c2061827",
+        "url": "https://cdn.prod.rexby.com/image/e8fb5cedb5dc4a7ab85616d8c2061827",
+        "order": 12
+      },
+      {
+        "__typename": "Image",
+        "id": "d177d53ef84b48bea394e2b7dcb57e89",
+        "url": "https://cdn.prod.rexby.com/image/d177d53ef84b48bea394e2b7dcb57e89",
+        "order": 13
+      },
+      {
+        "__typename": "Image",
+        "id": "daf0406ea53246e9a417f7c4860de68b",
+        "url": "https://cdn.prod.rexby.com/image/daf0406ea53246e9a417f7c4860de68b",
+        "order": 14
+      }
+    ]
+  },
+  {
+    "id": "re5diUWMQjW5oNBtnK72TQ",
+    "title": "Clay houses and cinema under the stars ",
+    "slug": "clay-houses-and-cinema-under-the-stars",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Cob Camp is not a standard accommodation spot, but a small experiment in sustainable living – built entirely from natural materials and handcrafted spaces, without industrial intervention.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏡 The little houses here are made of cob (a mixture of clay, sand, straw, and water) – hand-shaped with soft, organic forms.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌱 They grow some of their own vegetables and herbs, and the whole idea is to eat what naturally grows around you – simple, real, and far from the typical “hotel” experience.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "homes",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.2254982",
+      "lng": "24.0245854"
+    },
+    "locationName": "Cob Camp (12+)",
+    "address": null,
+    "website": "https://cobcampclub.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Pazardzhik",
+      "Belovo"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "f31e1ad687654cd48571f33cdcb39326",
+        "url": "https://cdn.prod.rexby.com/image/f31e1ad687654cd48571f33cdcb39326",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "f6e9835acb72438882bc83b54c1fc787",
+        "url": "https://cdn.prod.rexby.com/image/f6e9835acb72438882bc83b54c1fc787",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "6e2b44d5522e4ffe9be765c32ce30719",
+        "url": "https://cdn.prod.rexby.com/image/6e2b44d5522e4ffe9be765c32ce30719",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "2eae9d10f92f4df3a2b21299fc39b314",
+        "url": "https://cdn.prod.rexby.com/image/2eae9d10f92f4df3a2b21299fc39b314",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "09d98f7f6a4b4d11b986dad4e07933ec",
+        "url": "https://cdn.prod.rexby.com/image/09d98f7f6a4b4d11b986dad4e07933ec",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "686d505edbe4401694f113e4cf78d7f7",
+        "url": "https://cdn.prod.rexby.com/image/686d505edbe4401694f113e4cf78d7f7",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "a177dcbc90304fe7946e14489e2e5614",
+        "url": "https://cdn.prod.rexby.com/image/a177dcbc90304fe7946e14489e2e5614",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "94d4aa7cec07440ea36c6f875a6640f0",
+        "url": "https://cdn.prod.rexby.com/image/94d4aa7cec07440ea36c6f875a6640f0",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "d07d5d5cb9b042ab9ac11914b3eaf7b6",
+        "url": "https://cdn.prod.rexby.com/image/d07d5d5cb9b042ab9ac11914b3eaf7b6",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "7036dfd2d5244875a3f4f00260e20d97",
+        "url": "https://cdn.prod.rexby.com/image/7036dfd2d5244875a3f4f00260e20d97",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "17384d14def7485597a43d60f155c5b7",
+        "url": "https://cdn.prod.rexby.com/image/17384d14def7485597a43d60f155c5b7",
+        "order": 10
+      },
+      {
+        "__typename": "Image",
+        "id": "4d5ca0cb72a9415eae38c80796ae45f9",
+        "url": "https://cdn.prod.rexby.com/image/4d5ca0cb72a9415eae38c80796ae45f9",
+        "order": 11
+      },
+      {
+        "__typename": "Image",
+        "id": "3b47ffe261a14cb0968397bafd55cf79",
+        "url": "https://cdn.prod.rexby.com/image/3b47ffe261a14cb0968397bafd55cf79",
+        "order": 12
+      },
+      {
+        "__typename": "Image",
+        "id": "f02a5a72bb5342deafe6775e5e3f8f74",
+        "url": "https://cdn.prod.rexby.com/image/f02a5a72bb5342deafe6775e5e3f8f74",
+        "order": 13
+      },
+      {
+        "__typename": "Image",
+        "id": "4803ef6743ec4ed897c5ee98da6ea3fb",
+        "url": "https://cdn.prod.rexby.com/image/4803ef6743ec4ed897c5ee98da6ea3fb",
+        "order": 14
+      }
+    ]
+  },
+  {
+    "id": "3qeod7xtTci4Vx-iqe9m7Q",
+    "title": "Hidden villa in the Balkan Mountains",
+    "slug": "hidden-villa-in-the-balkan-mountains",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌄 Wake up to the sunrise right through your window in a villa with panoramic views of the Balkan Mountains, where your morning coffee comes with an unforgettable landscape. 🏡☕\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🐾 You’ll also be welcomed by fluffy feline hosts who make the stay even cozier and more special.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"✨ Silence, nature, starry nights, and total peace just minutes from Troyan – the perfect spot for a true escape from everyday life.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "villa",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.8911139",
+      "lng": "24.6820564"
+    },
+    "locationName": "Balkan panorama",
+    "address": null,
+    "website": "http://balkanskapanorama.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Lovech",
+      "Troyan"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "e9fedc8c84ae420cbdf622573a965c62",
+        "url": "https://cdn.prod.rexby.com/image/e9fedc8c84ae420cbdf622573a965c62",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "57548223b5144ae8adc9ff188dda405d",
+        "url": "https://cdn.prod.rexby.com/image/57548223b5144ae8adc9ff188dda405d",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "e7a0168e28f24299b5633dc01ba2507c",
+        "url": "https://cdn.prod.rexby.com/image/e7a0168e28f24299b5633dc01ba2507c",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "c58c93d8801c4e1c9b719332fef83cc9",
+        "url": "https://cdn.prod.rexby.com/image/c58c93d8801c4e1c9b719332fef83cc9",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "53e6909acbe74c8997f59a4d3b3bf549",
+        "url": "https://cdn.prod.rexby.com/image/53e6909acbe74c8997f59a4d3b3bf549",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "f27c5a4fb7ef4889961b45964a9c2b7b",
+        "url": "https://cdn.prod.rexby.com/image/f27c5a4fb7ef4889961b45964a9c2b7b",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "8744f081b5cc4fd7a7e436b5375ff2ee",
+        "url": "https://cdn.prod.rexby.com/image/8744f081b5cc4fd7a7e436b5375ff2ee",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "a47b121d879e4c3da6bfb1c55a910ec8",
+        "url": "https://cdn.prod.rexby.com/image/a47b121d879e4c3da6bfb1c55a910ec8",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "e95978f5c6f442bc80e5674653b6d7e8",
+        "url": "https://cdn.prod.rexby.com/image/e95978f5c6f442bc80e5674653b6d7e8",
+        "order": 8
       }
     ]
   }

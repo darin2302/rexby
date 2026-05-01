@@ -3739,7 +3739,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 156
+      "amount": 153
     },
     "media": [
       {
@@ -13252,7 +13252,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 249
+      "amount": 244
     },
     "location": {
       "lat": "64.1513058",
@@ -14011,7 +14011,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 311
+      "amount": 305
     },
     "location": {
       "lat": "65.0770261",
@@ -14462,7 +14462,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 199
+      "amount": 195
     },
     "location": {
       "lat": "63.992603",
@@ -19511,36 +19511,6 @@
         "id": "8410a660e9084b8c92ba7938eaed10af",
         "url": "https://cdn.prod.rexby.com/image/8410a660e9084b8c92ba7938eaed10af",
         "order": 0
-      }
-    ]
-  },
-  {
-    "id": "eAS5FmxkQ5OTiQ4pBTbHAg",
-    "title": "Incredible Icelandic cuisine - closed in winter",
-    "slug": "incredible-icelandic-cuisine-closed-in-winter",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Nielsen restaurant is located in the heart of Egilsstaðir, in one of the oldest houses in town. The owners Sólveig and Kári, a renowned chef in Iceland, strive to offer guests an authentic culinary experience of local and seasonal Icelandic ingredients. They can sit inside or when the weather permits on the tree surrounded patio. At Nielsen, every bite will be something special with access to the freshest produce and changing menus that adjust according to the season’s availability. \"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Reservations HIGHLY recommended as opening hours are very limited.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Open from June through September.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "restaurant",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "FoodAndDrink"
-    },
-    "duration": null,
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "37e4f07bbe6e44ff8a72f0ae314cb404",
-        "url": "https://cdn.prod.rexby.com/image/37e4f07bbe6e44ff8a72f0ae314cb404",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "37cf8f5061f14ee58d4b21779c4c6a7f",
-        "url": "https://cdn.prod.rexby.com/image/37cf8f5061f14ee58d4b21779c4c6a7f",
-        "order": 1
       }
     ]
   },

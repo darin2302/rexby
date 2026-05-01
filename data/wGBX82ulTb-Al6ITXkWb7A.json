@@ -1,5 +1,494 @@
 [
   {
+    "id": "faOjibdtQWuEQwxB3AHfXg",
+    "title": "Природа произведение на изкуството",
+    "slug": "priroda-proizvedenie-na-izkustvoto",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Паркира се в местността Зелени преслап. Последните 2 км от пътя са с много дупки, но и ниска кола може да мине. Локацията ще те отведе точно до мястото за паркиране.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⏳ Ще ти отнеме около 1 час и половина пеша в посока от колата до водопада. По пътя може да хапнеш на хижа \\\"Рилска Скакавица\\\" \"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👧 Преходът е лек и подходящ за семейства с деца\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "sightseeing",
+    "secondaryCategories": [
+      "hike"
+    ],
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.2483611",
+      "lng": "23.3090556"
+    },
+    "locationName": "Водопад Рилска Скакавица",
+    "address": null,
+    "website": "https://www.vodopadskakavitsa.bgsait.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Kyustendil",
+      "Sapareva Banya"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "4f09bb970dce4d0fa5b8d6d65ee59923",
+        "url": "https://cdn.prod.rexby.com/image/4f09bb970dce4d0fa5b8d6d65ee59923",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "64fd2c5c51da4ea38d2d6c68f0cef40d",
+        "url": "https://cdn.prod.rexby.com/image/64fd2c5c51da4ea38d2d6c68f0cef40d",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "d05d15ff9bae4fdca157adad2e04d249",
+        "url": "https://cdn.prod.rexby.com/image/d05d15ff9bae4fdca157adad2e04d249",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "56baa7e4abf44c659c6a753edb3222fc",
+        "url": "https://cdn.prod.rexby.com/image/56baa7e4abf44c659c6a753edb3222fc",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "1f0d456ffd6e446e8d835e30ee12cac3",
+        "url": "https://cdn.prod.rexby.com/image/1f0d456ffd6e446e8d835e30ee12cac3",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "6686f99b2ff34451aa93f28f4e62ad76",
+        "url": "https://cdn.prod.rexby.com/image/6686f99b2ff34451aa93f28f4e62ad76",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "f704a4a566ea4be6b897d1d9a39a208e",
+        "url": "https://cdn.prod.rexby.com/image/f704a4a566ea4be6b897d1d9a39a208e",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "1c96c928dc254491b76093096bf350cc",
+        "url": "https://cdn.prod.rexby.com/image/1c96c928dc254491b76093096bf350cc",
+        "order": 7
+      }
+    ]
+  },
+  {
+    "id": "1t7Nud7MR4u1pUyIIOJfgw",
+    "title": "Скритите тюркоазени води на България",
+    "slug": "skritite-tyurkoazeni-vodi-na-bulgariya",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Карстов извор Златна Панега се намира на 13 км от екопътека Искър-Панега\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Паркира се тук: 43.0884815, 24.1568542\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Пътят е асфалтиран и достъпен за всякакви автомобили\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉🏻 Непременно преминете през пещерата, за да стигнете до по-красивата гледка\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "activity",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "ExtremelyShort",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "43.0839647",
+      "lng": "24.1585293"
+    },
+    "locationName": "Извор Златна Панега",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Lovech",
+      "Yablanitsa"
+    ],
+    "detail": {
+      "activityLevel": 1,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "77dbbe2f479540aebbbf6c1f35bc015b",
+        "url": "https://cdn.prod.rexby.com/image/77dbbe2f479540aebbbf6c1f35bc015b",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "7210fae083754f0a98ff6fb5664070fa",
+        "url": "https://cdn.prod.rexby.com/image/7210fae083754f0a98ff6fb5664070fa",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "379a19a4a85b4d9ea293516fb6c0e101",
+        "url": "https://cdn.prod.rexby.com/image/379a19a4a85b4d9ea293516fb6c0e101",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "1a7c15e97ded4d15a016feaecfdc9db8",
+        "url": "https://cdn.prod.rexby.com/image/1a7c15e97ded4d15a016feaecfdc9db8",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "c8c13aa187a34ddfac381de48f62f0f6",
+        "url": "https://cdn.prod.rexby.com/image/c8c13aa187a34ddfac381de48f62f0f6",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "eZYi1PcgS1azSW_eEYMjsA",
+    "title": "Раят на есента",
+    "slug": "rayat-na-esenta",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Стига се по нормален асфалтов път. Най-близкото място до пътеката, на което може да паркираш, е тук: 41.7161230, 25.0047407\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"След като оставиш колата, тръгваш надолу по баира и ще стигнеш каменен мост, който трябва да преминеш. От другата страна на моста вляво ще видиш беседка, от където започват и мостчетата. \"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"‼️ Ако има табела, на която да пише „Не преминавайте“, моля те недей. Теренът не е от най-безопасните.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⏳ Около час ще ти стигне да разгледаш мостчетата и да се върнеш.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "sightseeing",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "Short",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.7155582",
+      "lng": "25.0063864"
+    },
+    "locationName": "Загражденската екопътека",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Banite"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "b91a3edd5e514a7183344e8f95e8964c",
+        "url": "https://cdn.prod.rexby.com/image/b91a3edd5e514a7183344e8f95e8964c",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "9e9f90de28474a7ca054d092a95dfc8b",
+        "url": "https://cdn.prod.rexby.com/image/9e9f90de28474a7ca054d092a95dfc8b",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "f01c088c0fca42e7b3355e0cea5559d0",
+        "url": "https://cdn.prod.rexby.com/image/f01c088c0fca42e7b3355e0cea5559d0",
+        "order": 2
+      }
+    ]
+  },
+  {
+    "id": "Fghf7iW_RuiMDAkQH5cdhg",
+    "title": "С прелестна гледка към Белоградчик",
+    "slug": "s-prelestna-gledka-kum-belogradchik",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎟️Препоръчвам ти да си вземеш полет за 1 час, защото е много по-красиво и се излита от Белоградчишките скали. Цената му е 360 лв.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 Оставям сайта и телефон за контакт: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"+359 877 144 777\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "tours",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "43.6234616",
+      "lng": "22.6865808"
+    },
+    "locationName": "Полет с балон ",
+    "address": null,
+    "website": "https://new.adventure-bg.com/nad-belogradchishkite-skali/",
+    "regionNames": [
+      "Bulgaria",
+      "Vidin",
+      "Belogradchik"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "4e56d69c077b485b9c66602034a00fab",
+        "url": "https://cdn.prod.rexby.com/image/4e56d69c077b485b9c66602034a00fab",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "b9481eb646e9483bbd031fd112e09589",
+        "url": "https://cdn.prod.rexby.com/image/b9481eb646e9483bbd031fd112e09589",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "ba1660db123c47d89b2463ec52a2b888",
+        "url": "https://cdn.prod.rexby.com/image/ba1660db123c47d89b2463ec52a2b888",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "ffe3677fb21049319a0f2f8901a31f52",
+        "url": "https://cdn.prod.rexby.com/image/ffe3677fb21049319a0f2f8901a31f52",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "089da41a56374ec0ad3c6413a8c9ba43",
+        "url": "https://cdn.prod.rexby.com/image/089da41a56374ec0ad3c6413a8c9ba43",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "1d8ab1d42e334848bdcb3584b1e107e2",
+        "url": "https://cdn.prod.rexby.com/image/1d8ab1d42e334848bdcb3584b1e107e2",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "8cfce07c1279434c88e0c390ab52f334",
+        "url": "https://cdn.prod.rexby.com/image/8cfce07c1279434c88e0c390ab52f334",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "zW0jYKovTKO-GXLBUnVeMw",
+    "title": "Един от най-красивите изгреви, които може да видите",
+    "slug": "edin-ot-naj-krasivite-izgrevi-koito-mozhe-da-vidite",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 До село Рибарица карате по хубав път и се отбивате тук 42.832150, 24.434309. Паркирате малко по-надолу: 42.826715, 24.459347. След това тръгвате по отъпкания път, по който са минавали високи автомобили и продължавате още час и половина по равна горска пътека пеша.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👈 От лявата страна ще видите маса с пейка и малко след нея трябва да видите табела за хижата на дърво. 🌲 От тук следва жестоко двучасово изкачване на 600 метра денивелация.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⏳ Предвидете си 3 часа и половина в едната посока.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"❗ Преди да отидете проверете дали има хижар горе, като звъннете на телефона на хижата - +359 88 898 6861\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍁 Най-красив сезон за посещение - Есента\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💦🍑 Непременно си вземете храна и вода.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "hike",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "VeryLong",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.7751849",
+      "lng": "24.4813925"
+    },
+    "locationName": "Хижа Ехо",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Plovdiv",
+      "Karlovo"
+    ],
+    "detail": {
+      "activityLevel": 4,
+      "seasonality": "Summer",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "512281c6-3e89-42f8-9cae-39027b93cdf0",
+        "url": "https://cdn.prod.rexby.com/image/512281c6-3e89-42f8-9cae-39027b93cdf0",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "8a3b19c3-691e-4a32-b0bf-c7ef22719f4d",
+        "url": "https://cdn.prod.rexby.com/image/8a3b19c3-691e-4a32-b0bf-c7ef22719f4d",
+        "order": 1
+      },
+      {
+        "__typename": "Video",
+        "id": "3fee7b1687b7494aba331ebdbff45d1f",
+        "order": 2,
+        "mp4Url": "https://cdn.prod.rexby.com/3fee7b1687b7494aba331ebdbff45d1f/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/3fee7b1687b7494aba331ebdbff45d1f/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/3fee7b1687b7494aba331ebdbff45d1f/thumbnails/1"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/3fee7b1687b7494aba331ebdbff45d1f/thumbnails/0"
+        }
+      },
+      {
+        "__typename": "Image",
+        "id": "e7b1deb1-8215-4beb-be1b-8cb5ec6f4cff",
+        "url": "https://cdn.prod.rexby.com/image/e7b1deb1-8215-4beb-be1b-8cb5ec6f4cff",
+        "order": 3
+      }
+    ]
+  },
+  {
+    "id": "Fb0iS9GsRhG6HkCcWKLYXQ",
+    "title": "Скрита вила в Балкана",
+    "slug": "skrita-vila-v-balkana",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌄 Събуди се с изгрева буквално през прозореца си във вила с панорамна гледка към Стара планина, където сутрешното кафе идва с незабравим пейзаж. 🏡☕\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🐾 Тук ще те посрещнат и пухкави котешки домакини, които правят престоя още по-уютен и специален.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"✨ Тишина, природа, звезди вечер и спокойствие само на минути от Троян – идеалното място за истинско бягство от ежедневието.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "villa",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.8911139",
+      "lng": "24.6820564"
+    },
+    "locationName": "Балканска панорама",
+    "address": null,
+    "website": "http://balkanskapanorama.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Lovech",
+      "Troyan"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "7448f0d76cb14cbc9ddabff96a0f49ca",
+        "url": "https://cdn.prod.rexby.com/image/7448f0d76cb14cbc9ddabff96a0f49ca",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "b4bd2dd355764852bdac586a581a978e",
+        "url": "https://cdn.prod.rexby.com/image/b4bd2dd355764852bdac586a581a978e",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "ae17593605a14570b2c049b3d44868ed",
+        "url": "https://cdn.prod.rexby.com/image/ae17593605a14570b2c049b3d44868ed",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "f7c89428da374112b7e19c3cb03f8a89",
+        "url": "https://cdn.prod.rexby.com/image/f7c89428da374112b7e19c3cb03f8a89",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "36a73d976c234d058d79109e1aab8d9f",
+        "url": "https://cdn.prod.rexby.com/image/36a73d976c234d058d79109e1aab8d9f",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "27831d1694f54b4383a116d44b721a4f",
+        "url": "https://cdn.prod.rexby.com/image/27831d1694f54b4383a116d44b721a4f",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "2cc3068937ec41cba813e3ca65e507ed",
+        "url": "https://cdn.prod.rexby.com/image/2cc3068937ec41cba813e3ca65e507ed",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "164e7c0efc5741c0b3f90d953407180a",
+        "url": "https://cdn.prod.rexby.com/image/164e7c0efc5741c0b3f90d953407180a",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "b8141623cb5a41f983e8eb01ffe658a4",
+        "url": "https://cdn.prod.rexby.com/image/b8141623cb5a41f983e8eb01ffe658a4",
+        "order": 8
+      }
+    ]
+  },
+  {
+    "id": "jX97wdKwRcaxG2sV9l9zmw",
+    "title": "Скрито кътче по Северното ни Черноморие",
+    "slug": "skrito-kutche-po-severnoto-ni-chernomorie",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Оставям ви координати на отбивката: 43°30'04.6\\\"N 28°35'06.2\\\"E\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Последните 100 метра е черен път, но проходим с всякакъв автомобил\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ След като паркирате следвате локацията на картата и след 5 минути ще стигнете до пещерата. Оглеждайте се за пътека, която леко завива наляво\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍏 Носете си храна и вода, защото наблизо няма и моля ви вземете си боклука след вас💛\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "sightseeing",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "43.50185219999999",
+      "lng": "28.589679"
+    },
+    "locationName": "Водна пещера",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Dobrich",
+      "Shabla"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "abdaa8dc7f30485a8435a7b6f7737c4d",
+        "url": "https://cdn.prod.rexby.com/image/abdaa8dc7f30485a8435a7b6f7737c4d",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "37321175657b4dc884df691f2fa623a6",
+        "url": "https://cdn.prod.rexby.com/image/37321175657b4dc884df691f2fa623a6",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "a38ba38af8e549598c6d489982921b6b",
+        "url": "https://cdn.prod.rexby.com/image/a38ba38af8e549598c6d489982921b6b",
+        "order": 2
+      }
+    ]
+  },
+  {
     "id": "TEMQX3UqSnW3lgKmCSsUmA",
     "title": "Любимо място за наблюдаване на изгреви и залези",
     "slug": "lyubimo-myasto-za-nablyudavane-na-izgrevi-i-zalezi",
@@ -132,73 +621,6 @@
     ]
   },
   {
-    "id": "zW0jYKovTKO-GXLBUnVeMw",
-    "title": "Един от най-красивите изгреви, които може да видите",
-    "slug": "edin-ot-naj-krasivite-izgrevi-koito-mozhe-da-vidite",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 До село Рибарица карате по хубав път и се отбивате тук 42.832150, 24.434309. Паркирате малко по-надолу: 42.826715, 24.459347. След това тръгвате по отъпкания път, по който са минавали високи автомобили и продължавате още час и половина по равна горска пътека пеша.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👈 От лявата страна ще видите маса с пейка и малко след нея трябва да видите табела за хижата на дърво. 🌲 От тук следва жестоко двучасово изкачване на 600 метра денивелация.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⏳ Предвидете си 3 часа и половина в едната посока.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"❗ Преди да отидете проверете дали има хижар горе, като звъннете на телефона на хижата - +359 88 898 6861\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍁 Най-красив сезон за посещение - Есента\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💦🍑 Непременно си вземете храна и вода.\"}]}]}",
-    "isOpen": true,
-    "isSecret": false,
-    "isTopFavorited": false,
-    "primaryCategory": "hike",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "VeryLong",
-    "estimatedPrice": null,
-    "location": {
-      "lat": "42.7751849",
-      "lng": "24.4813925"
-    },
-    "locationName": "Хижа Ехо",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Plovdiv",
-      "Karlovo"
-    ],
-    "detail": {
-      "activityLevel": 4,
-      "seasonality": "Summer",
-      "ageRequirement": "AllAges"
-    },
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "512281c6-3e89-42f8-9cae-39027b93cdf0",
-        "url": "https://cdn.prod.rexby.com/image/512281c6-3e89-42f8-9cae-39027b93cdf0",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "8a3b19c3-691e-4a32-b0bf-c7ef22719f4d",
-        "url": "https://cdn.prod.rexby.com/image/8a3b19c3-691e-4a32-b0bf-c7ef22719f4d",
-        "order": 1
-      },
-      {
-        "__typename": "Video",
-        "id": "3fee7b1687b7494aba331ebdbff45d1f",
-        "order": 2,
-        "mp4Url": "https://cdn.prod.rexby.com/3fee7b1687b7494aba331ebdbff45d1f/index.mp4",
-        "webmUrl": "https://cdn.prod.rexby.com/3fee7b1687b7494aba331ebdbff45d1f/index.webm",
-        "muted": false,
-        "thumbnail": {
-          "url": "https://cdn.prod.rexby.com/3fee7b1687b7494aba331ebdbff45d1f/thumbnails/1"
-        },
-        "poster": {
-          "url": "https://cdn.prod.rexby.com/3fee7b1687b7494aba331ebdbff45d1f/thumbnails/0"
-        }
-      },
-      {
-        "__typename": "Image",
-        "id": "e7b1deb1-8215-4beb-be1b-8cb5ec6f4cff",
-        "url": "https://cdn.prod.rexby.com/image/e7b1deb1-8215-4beb-be1b-8cb5ec6f4cff",
-        "order": 3
-      }
-    ]
-  },
-  {
     "id": "4NwBXNGaSk6sCvi_3HIzcw",
     "title": "Бижуто на Стара планина",
     "slug": "bizhuto-na-stara-planina",
@@ -323,59 +745,6 @@
     ]
   },
   {
-    "id": "JC20trSmSNmtmZgvasenow",
-    "title": "Тюркоазеното синьо по път за връх Мальовица",
-    "slug": "tyurkoazenoto-sino-po-put-za-vruh-malovica",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Начална точка ЦПШ “Мальовица”. Тук има платен паркинг - 5 лв. Извън него може да си намерите и безплатни места по пътя.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚶‍♀️ От тук хващате пътеката към връх Мальовица. След 40 минути ще стигнете хижа Мальовица, до която маршрутът не е тежък.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ След още 2 часа и малко, спрямо темпото ви ще стигнете езерото. До него маршрутът е по-труден, с морени и денивелация.\"}]}]}",
-    "isOpen": true,
-    "isSecret": false,
-    "isTopFavorited": false,
-    "primaryCategory": "hike",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "VeryLong",
-    "estimatedPrice": null,
-    "location": {
-      "lat": "42.17209899999999",
-      "lng": "23.3685784"
-    },
-    "locationName": "Еленино езеро",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Kyustendil",
-      "Rila"
-    ],
-    "detail": {
-      "activityLevel": 3,
-      "seasonality": "Summer",
-      "ageRequirement": "AllAges"
-    },
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "9545c8f9c77c4432aba27ceec50eb4c9",
-        "url": "https://cdn.prod.rexby.com/image/9545c8f9c77c4432aba27ceec50eb4c9",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "fbcc2e91fc0046a693edc6a99221d781",
-        "url": "https://cdn.prod.rexby.com/image/fbcc2e91fc0046a693edc6a99221d781",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "3556c02197b44a2bbb3120b86c9656bb",
-        "url": "https://cdn.prod.rexby.com/image/3556c02197b44a2bbb3120b86c9656bb",
-        "order": 2
-      }
-    ]
-  },
-  {
     "id": "1wDsIyjtRjyRGk1NhyFhhg",
     "title": "Най-красивата и непопулярна локация по пътя за Враца",
     "slug": "naj-krasivata-i-nepopulyarna-lokaciya-po-putya-za-vraca",
@@ -443,55 +812,148 @@
     ]
   },
   {
-    "id": "jX97wdKwRcaxG2sV9l9zmw",
-    "title": "Скрито кътче по Северното ни Черноморие",
-    "slug": "skrito-kutche-po-severnoto-ni-chernomorie",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Оставям ви координати на отбивката: 43°30'04.6\\\"N 28°35'06.2\\\"E\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Последните 100 метра е черен път, но проходим с всякакъв автомобил\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ След като паркирате следвате локацията на картата и след 5 минути ще стигнете до пещерата. Оглеждайте се за пътека, която леко завива наляво\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍏 Носете си храна и вода, защото наблизо няма и моля ви вземете си боклука след вас💛\"}]}]}",
+    "id": "oLk9OYtmS9qTR0r8EshiBQ",
+    "title": "Басейни с лечебна кал",
+    "slug": "basejni-s-lechebna-kal",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Намират се на изхода на град Бургас в посока Варна. Отбива се на разклонението за Каблешково.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎟️ Солниците са защитена територия и е възможно потапянето само в няколко басейна. Работят всеки ден - от 8:00 до 20:30 часа.\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"През септември работното време е от 8:00 до 19:30 часа\"}]}]}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Може да стигнете до тях с кола по алфалтов път. Има безплатни паркоместа.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌚 Освен за розовата вода хората идват тук и за лечебната кал, с която може да се намажат.\"}]}]}",
     "isOpen": false,
     "isSecret": true,
     "isTopFavorited": false,
-    "primaryCategory": "sightseeing",
+    "primaryCategory": "activity",
     "secondaryCategories": null,
     "categoryClass": {
       "name": "Experience"
     },
-    "duration": null,
+    "duration": "ExtremelyShort",
+    "estimatedPrice": {
+      "currency": "BGN",
+      "amount": 6
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "5211afa9-56be-4bac-a64c-4939fb0f4e22",
+        "url": "https://cdn.prod.rexby.com/image/5211afa9-56be-4bac-a64c-4939fb0f4e22",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "583b3e60-0703-40b2-84d2-82202079e585",
+        "url": "https://cdn.prod.rexby.com/image/583b3e60-0703-40b2-84d2-82202079e585",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "01bb3f98-ef5d-4b6a-8c91-4e10667b4ff2",
+        "url": "https://cdn.prod.rexby.com/image/01bb3f98-ef5d-4b6a-8c91-4e10667b4ff2",
+        "order": 2
+      }
+    ]
+  },
+  {
+    "id": "iPUd9le4TtmQqsqTJOzTpg",
+    "title": "Разхлаждаща локация на 10 минути от паркинга",
+    "slug": "razhlazhdasha-lokaciya-na-10-minuti-ot-parkinga",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Има асфалтов път до тук и места за безплатно паркиране.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💦 Идеалният момент да го посетите e ранна пролет или няколко дни след валежи, за да го видите пълноводен.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👨‍👩‍👧 Пътеката е лека и подходяща за всякакви възрасти.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "waterfall",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "ExtremelyShort",
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "4b0bb1c7-3ae3-4410-8564-b36389da5b78",
+        "url": "https://cdn.prod.rexby.com/image/4b0bb1c7-3ae3-4410-8564-b36389da5b78",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "121db6fd-3cd3-4277-964b-be61a20a5050",
+        "url": "https://cdn.prod.rexby.com/image/121db6fd-3cd3-4277-964b-be61a20a5050",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "8f41fb1c-d03e-4b41-8c18-4c615bdd7ae3",
+        "url": "https://cdn.prod.rexby.com/image/8f41fb1c-d03e-4b41-8c18-4c615bdd7ae3",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "d93dd9ed-556a-4656-96b0-d49e7aa8629f",
+        "url": "https://cdn.prod.rexby.com/image/d93dd9ed-556a-4656-96b0-d49e7aa8629f",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "5f56afdc-aad4-44d1-a247-ae18f5fff0a5",
+        "url": "https://cdn.prod.rexby.com/image/5f56afdc-aad4-44d1-a247-ae18f5fff0a5",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "LjAb0_UATi-gzGyQVXgO-w",
+    "title": "Любимото ми място близо до Смолян",
+    "slug": "lyubimoto-mi-myasto-blizo-do-smolyan",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Пътят до тук е идеален и има достатъчно място за паркиране. Внимавай да не изпуснеш отбивката, тъй като се намира на един от завоите. Ориентир за началото на пътеката ще ти е арката с надпис \\\"Екопътека Невястата\\\"\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⏳ Само след 10 минути ходене по равно ще стигнеш беседка и скала, на която има кръст. Може да се покатериш отгоре, но не е обезопасено.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"Ако искаш да видиш по-широката панорама, продължи напред от беседката и следвай табелите още 10 минути. Накрая се стига до алпийски тролей и спиращ дъха пейзаж.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "activity",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "ExtremelyShort",
     "estimatedPrice": null,
     "location": {
-      "lat": "43.50185219999999",
-      "lng": "28.589679"
+      "lat": "41.60166640000001",
+      "lng": "24.6989826"
     },
-    "locationName": "Водна пещера",
+    "locationName": "Екопътека Невястата",
     "address": null,
     "website": null,
     "regionNames": [
       "Bulgaria",
-      "Dobrich",
-      "Shabla"
+      "Smolyan",
+      "Smolyan"
     ],
     "detail": {
-      "activityLevel": null,
+      "activityLevel": 1,
       "seasonality": "AllSeasons",
       "ageRequirement": "AllAges"
     },
     "media": [
       {
         "__typename": "Image",
-        "id": "abdaa8dc7f30485a8435a7b6f7737c4d",
-        "url": "https://cdn.prod.rexby.com/image/abdaa8dc7f30485a8435a7b6f7737c4d",
+        "id": "ba04f1d2-bb36-4877-9a0b-4cd2c089e00f",
+        "url": "https://cdn.prod.rexby.com/image/ba04f1d2-bb36-4877-9a0b-4cd2c089e00f",
         "order": 0
       },
       {
         "__typename": "Image",
-        "id": "37321175657b4dc884df691f2fa623a6",
-        "url": "https://cdn.prod.rexby.com/image/37321175657b4dc884df691f2fa623a6",
+        "id": "ab651295-7c0e-474c-901f-25a2832bd6a7",
+        "url": "https://cdn.prod.rexby.com/image/ab651295-7c0e-474c-901f-25a2832bd6a7",
         "order": 1
       },
       {
         "__typename": "Image",
-        "id": "a38ba38af8e549598c6d489982921b6b",
-        "url": "https://cdn.prod.rexby.com/image/a38ba38af8e549598c6d489982921b6b",
+        "id": "ba206eb8-72f6-4df7-be99-6a207564948f",
+        "url": "https://cdn.prod.rexby.com/image/ba206eb8-72f6-4df7-be99-6a207564948f",
         "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "6624e481-0911-4807-bcc9-77733d79efa1",
+        "url": "https://cdn.prod.rexby.com/image/6624e481-0911-4807-bcc9-77733d79efa1",
+        "order": 3
       }
     ]
   },
@@ -654,23 +1116,6 @@
     },
     "duration": "ExtremelyShort",
     "estimatedPrice": null,
-    "location": {
-      "lat": "43.32274659999999",
-      "lng": "23.5302778"
-    },
-    "locationName": "Скален лабиринт \"Пешкето\"",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Vratsa",
-      "Vratsa"
-    ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
     "media": [
       {
         "__typename": "Image",
@@ -790,53 +1235,6 @@
     ]
   },
   {
-    "id": "_1ctXa6cQhSZ9fnr6tyG9A",
-    "title": "Летящата чиния на комунизма",
-    "slug": "letyashata-chiniya-na-komunizma",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Стига се с кола точно до паметника. Може да паркирате свободно тук: 42.735465, 25.396325. На места пътят е много лош, с големи дупки.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ Към момента все още се реставрира и не е възможно да влезете вътре. Скоро се очаква да отвори врати за посетители. Лятото стартира провеждането на светлинно шоу върху сградата.\"}]}]}",
-    "isOpen": true,
-    "isSecret": false,
-    "isTopFavorited": false,
-    "primaryCategory": "sightseeing",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "ExtremelyShort",
-    "estimatedPrice": null,
-    "location": {
-      "lat": "42.7333333",
-      "lng": "25.4"
-    },
-    "locationName": "Паметник на Бузлуджа",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Stara Zagora",
-      "Kazanlak"
-    ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "69cdb9497fcb4742bd3362f2ad6f3107",
-        "url": "https://cdn.prod.rexby.com/image/69cdb9497fcb4742bd3362f2ad6f3107",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "ff765e0535ea4cb58dd6e00758c7d463",
-        "url": "https://cdn.prod.rexby.com/image/ff765e0535ea4cb58dd6e00758c7d463",
-        "order": 1
-      }
-    ]
-  },
-  {
     "id": "uU80ePfgTe20RvlNpD31Iw",
     "title": "Скална пещера с панорамна гледка",
     "slug": "skalna-peshera-s-panoramna-gledka",
@@ -863,172 +1261,6 @@
         "id": "596e1162dcc644b08d7a614e0f84fabf",
         "url": "https://cdn.prod.rexby.com/image/596e1162dcc644b08d7a614e0f84fabf",
         "order": 1
-      }
-    ]
-  },
-  {
-    "id": "LjAb0_UATi-gzGyQVXgO-w",
-    "title": "Любимото ми място близо до Смолян",
-    "slug": "lyubimoto-mi-myasto-blizo-do-smolyan",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Пътят до тук е идеален и има достатъчно място за паркиране. Внимавай да не изпуснеш отбивката, тъй като се намира на един от завоите. Ориентир за началото на пътеката ще ти е арката с надпис \\\"Екопътека Невястата\\\"\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⏳ Само след 10 минути ходене по равно ще стигнеш беседка и скала, на която има кръст. Може да се покатериш отгоре, но не е обезопасено.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"Ако искаш да видиш по-широката панорама, продължи напред от беседката и следвай табелите още 10 минути. Накрая се стига до алпийски тролей и спиращ дъха пейзаж.\"}]}]}",
-    "isOpen": true,
-    "isSecret": false,
-    "isTopFavorited": false,
-    "primaryCategory": "activity",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "ExtremelyShort",
-    "estimatedPrice": null,
-    "location": {
-      "lat": "41.60166640000001",
-      "lng": "24.6989826"
-    },
-    "locationName": "Екопътека Невястата",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Smolyan",
-      "Smolyan"
-    ],
-    "detail": {
-      "activityLevel": 1,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "ba04f1d2-bb36-4877-9a0b-4cd2c089e00f",
-        "url": "https://cdn.prod.rexby.com/image/ba04f1d2-bb36-4877-9a0b-4cd2c089e00f",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "ab651295-7c0e-474c-901f-25a2832bd6a7",
-        "url": "https://cdn.prod.rexby.com/image/ab651295-7c0e-474c-901f-25a2832bd6a7",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "ba206eb8-72f6-4df7-be99-6a207564948f",
-        "url": "https://cdn.prod.rexby.com/image/ba206eb8-72f6-4df7-be99-6a207564948f",
-        "order": 2
-      },
-      {
-        "__typename": "Image",
-        "id": "6624e481-0911-4807-bcc9-77733d79efa1",
-        "url": "https://cdn.prod.rexby.com/image/6624e481-0911-4807-bcc9-77733d79efa1",
-        "order": 3
-      }
-    ]
-  },
-  {
-    "id": "iPUd9le4TtmQqsqTJOzTpg",
-    "title": "Разхлаждаща локация на 10 минути от паркинга",
-    "slug": "razhlazhdasha-lokaciya-na-10-minuti-ot-parkinga",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Има асфалтов път до тук и места за безплатно паркиране.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💦 Идеалният момент да го посетите e ранна пролет или няколко дни след валежи, за да го видите пълноводен.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👨‍👩‍👧 Пътеката е лека и подходяща за всякакви възрасти.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "waterfall",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "ExtremelyShort",
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "4b0bb1c7-3ae3-4410-8564-b36389da5b78",
-        "url": "https://cdn.prod.rexby.com/image/4b0bb1c7-3ae3-4410-8564-b36389da5b78",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "121db6fd-3cd3-4277-964b-be61a20a5050",
-        "url": "https://cdn.prod.rexby.com/image/121db6fd-3cd3-4277-964b-be61a20a5050",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "8f41fb1c-d03e-4b41-8c18-4c615bdd7ae3",
-        "url": "https://cdn.prod.rexby.com/image/8f41fb1c-d03e-4b41-8c18-4c615bdd7ae3",
-        "order": 2
-      },
-      {
-        "__typename": "Image",
-        "id": "d93dd9ed-556a-4656-96b0-d49e7aa8629f",
-        "url": "https://cdn.prod.rexby.com/image/d93dd9ed-556a-4656-96b0-d49e7aa8629f",
-        "order": 3
-      },
-      {
-        "__typename": "Image",
-        "id": "5f56afdc-aad4-44d1-a247-ae18f5fff0a5",
-        "url": "https://cdn.prod.rexby.com/image/5f56afdc-aad4-44d1-a247-ae18f5fff0a5",
-        "order": 4
-      }
-    ]
-  },
-  {
-    "id": "eZYi1PcgS1azSW_eEYMjsA",
-    "title": "Раят на есента",
-    "slug": "rayat-na-esenta",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Стига се по нормален асфалтов път. Най-близкото място до пътеката, на което може да паркираш, е тук: 41.7161230, 25.0047407\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"След като оставиш колата, тръгваш надолу по баира и ще стигнеш каменен мост, който трябва да преминеш. От другата страна на моста вляво ще видиш беседка, от където започват и мостчетата. \"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"‼️ Ако има табела, на която да пише „Не преминавайте“, моля те недей. Теренът не е от най-безопасните.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⏳ Около час ще ти стигне да разгледаш мостчетата и да се върнеш.\"}]}]}",
-    "isOpen": true,
-    "isSecret": false,
-    "isTopFavorited": false,
-    "primaryCategory": "sightseeing",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "Short",
-    "estimatedPrice": null,
-    "location": {
-      "lat": "41.7155582",
-      "lng": "25.0063864"
-    },
-    "locationName": "Загражденската екопътека",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Smolyan",
-      "Banite"
-    ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "63e755f3ab184f529d182d5db58eaee6",
-        "url": "https://cdn.prod.rexby.com/image/63e755f3ab184f529d182d5db58eaee6",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "b91a3edd5e514a7183344e8f95e8964c",
-        "url": "https://cdn.prod.rexby.com/image/b91a3edd5e514a7183344e8f95e8964c",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "9e9f90de28474a7ca054d092a95dfc8b",
-        "url": "https://cdn.prod.rexby.com/image/9e9f90de28474a7ca054d092a95dfc8b",
-        "order": 2
-      },
-      {
-        "__typename": "Image",
-        "id": "f01c088c0fca42e7b3355e0cea5559d0",
-        "url": "https://cdn.prod.rexby.com/image/f01c088c0fca42e7b3355e0cea5559d0",
-        "order": 3
       }
     ]
   },
@@ -1151,45 +1383,6 @@
         "poster": {
           "url": "https://cdn.prod.rexby.com/b62f27052cc146f89568c0f6fa3046c5/thumbnails/0"
         }
-      }
-    ]
-  },
-  {
-    "id": "oLk9OYtmS9qTR0r8EshiBQ",
-    "title": "Басейни с лечебна кал",
-    "slug": "basejni-s-lechebna-kal",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Намират се на изхода на град Бургас в посока Варна. Отбива се на разклонението за Каблешково.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎟️ Солниците са защитена територия и е възможно потапянето само в няколко басейна. Работят всеки ден - от 8:00 до 20:30 часа.\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"През септември работното време е от 8:00 до 19:30 часа\"}]}]}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Може да стигнете до тях с кола по алфалтов път. Има безплатни паркоместа.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌚 Освен за розовата вода хората идват тук и за лечебната кал, с която може да се намажат.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "activity",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "ExtremelyShort",
-    "estimatedPrice": {
-      "currency": "BGN",
-      "amount": 6
-    },
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "5211afa9-56be-4bac-a64c-4939fb0f4e22",
-        "url": "https://cdn.prod.rexby.com/image/5211afa9-56be-4bac-a64c-4939fb0f4e22",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "583b3e60-0703-40b2-84d2-82202079e585",
-        "url": "https://cdn.prod.rexby.com/image/583b3e60-0703-40b2-84d2-82202079e585",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "01bb3f98-ef5d-4b6a-8c91-4e10667b4ff2",
-        "url": "https://cdn.prod.rexby.com/image/01bb3f98-ef5d-4b6a-8c91-4e10667b4ff2",
-        "order": 2
       }
     ]
   },
@@ -1479,6 +1672,106 @@
     ]
   },
   {
+    "id": "_1ctXa6cQhSZ9fnr6tyG9A",
+    "title": "Летящата чиния на комунизма",
+    "slug": "letyashata-chiniya-na-komunizma",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Стига се с кола точно до паметника. Може да паркирате свободно тук: 42.735465, 25.396325. На места пътят е много лош, с големи дупки.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ Към момента все още се реставрира и не е възможно да влезете вътре. Скоро се очаква да отвори врати за посетители. Лятото стартира провеждането на светлинно шоу върху сградата.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "sightseeing",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "ExtremelyShort",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.7333333",
+      "lng": "25.4"
+    },
+    "locationName": "Паметник на Бузлуджа",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Stara Zagora",
+      "Kazanlak"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "69cdb9497fcb4742bd3362f2ad6f3107",
+        "url": "https://cdn.prod.rexby.com/image/69cdb9497fcb4742bd3362f2ad6f3107",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "ff765e0535ea4cb58dd6e00758c7d463",
+        "url": "https://cdn.prod.rexby.com/image/ff765e0535ea4cb58dd6e00758c7d463",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "JC20trSmSNmtmZgvasenow",
+    "title": "Тюркоазеното синьо по път за връх Мальовица",
+    "slug": "tyurkoazenoto-sino-po-put-za-vruh-malovica",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Начална точка ЦПШ “Мальовица”. Тук има платен паркинг - 5 лв. Извън него може да си намерите и безплатни места по пътя.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚶‍♀️ От тук хващате пътеката към връх Мальовица. След 40 минути ще стигнете хижа Мальовица, до която маршрутът не е тежък.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ След още 2 часа и малко, спрямо темпото ви ще стигнете езерото. До него маршрутът е по-труден, с морени и денивелация.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "hike",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "VeryLong",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.17209899999999",
+      "lng": "23.3685784"
+    },
+    "locationName": "Еленино езеро",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Kyustendil",
+      "Rila"
+    ],
+    "detail": {
+      "activityLevel": 3,
+      "seasonality": "Summer",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "9545c8f9c77c4432aba27ceec50eb4c9",
+        "url": "https://cdn.prod.rexby.com/image/9545c8f9c77c4432aba27ceec50eb4c9",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "fbcc2e91fc0046a693edc6a99221d781",
+        "url": "https://cdn.prod.rexby.com/image/fbcc2e91fc0046a693edc6a99221d781",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "3556c02197b44a2bbb3120b86c9656bb",
+        "url": "https://cdn.prod.rexby.com/image/3556c02197b44a2bbb3120b86c9656bb",
+        "order": 2
+      }
+    ]
+  },
+  {
     "id": "BvtDKpR1R-uru97eaveWRQ",
     "title": "Тук ще видите спасени мечета ",
     "slug": "tuk-she-vidite-spaseni-mecheta",
@@ -1522,54 +1815,6 @@
         "poster": {
           "url": "https://cdn.prod.rexby.com/d711508923f144ba8b3a5c411f15fa3f/thumbnails/0"
         }
-      }
-    ]
-  },
-  {
-    "id": "1t7Nud7MR4u1pUyIIOJfgw",
-    "title": "Скритите тюркоазени води на България",
-    "slug": "skritite-tyurkoazeni-vodi-na-bulgariya",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Карстов извор Златна Панега се намира на 13 км от екопътека Искър-Панега\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Паркира се тук: 43.0884815, 24.1568542\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Пътят е асфалтиран и достъпен за всякакви автомобили\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉🏻 Непременно преминете през пещерата, за да стигнете до по-красивата гледка\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "activity",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "ExtremelyShort",
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "77dbbe2f479540aebbbf6c1f35bc015b",
-        "url": "https://cdn.prod.rexby.com/image/77dbbe2f479540aebbbf6c1f35bc015b",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "7210fae083754f0a98ff6fb5664070fa",
-        "url": "https://cdn.prod.rexby.com/image/7210fae083754f0a98ff6fb5664070fa",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "379a19a4a85b4d9ea293516fb6c0e101",
-        "url": "https://cdn.prod.rexby.com/image/379a19a4a85b4d9ea293516fb6c0e101",
-        "order": 2
-      },
-      {
-        "__typename": "Image",
-        "id": "1a7c15e97ded4d15a016feaecfdc9db8",
-        "url": "https://cdn.prod.rexby.com/image/1a7c15e97ded4d15a016feaecfdc9db8",
-        "order": 3
-      },
-      {
-        "__typename": "Image",
-        "id": "c8c13aa187a34ddfac381de48f62f0f6",
-        "url": "https://cdn.prod.rexby.com/image/c8c13aa187a34ddfac381de48f62f0f6",
-        "order": 4
       }
     ]
   },
@@ -2995,53 +3240,84 @@
     "id": "N38PkqEET3mzxt40WYdwww",
     "title": "Уют в сърцето на Родопите",
     "slug": "uyut-v-surceto-na-rodopite",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"♥️  Обожавам алпийски къщички, а тези са любимото ми място за отсядане, както през зимата, така и през лятото.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍁 ❄️ Препоръчвам ви да ги посетите есента, когато е най-красива и цветна природата в планината, и зимата, когато ски пистата ще ви е на 5 минути пеша.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍓 Домашно приготвени мекички за закуска и песента на птиците\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🍽️ Зимата непременно опитах сланинката, които сами си приготвят.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎿 ски пистите са буквално на 150 м\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⛷️ достъп до над 17 км писти и лифтове\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🌄 разходки до връх Снежанка и панорамни гледки\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🌲 еко пътеки като „Невястата“ и Смолянските езера\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🏞️ водопади, пещери и планински маршрути\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🚗 лесни разходки до Широка лъка и Родопските забележителности\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"📙 На рецепцията ще откриеш и книгата ми \\\"България - скитане из рая на земята\\\", в която може да залепиш собствения си спомен /снимка/ от местата които посетиш в района\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
-    "primaryCategory": "hotel",
+    "primaryCategory": "villa",
     "secondaryCategories": null,
     "categoryClass": {
       "name": "Stay"
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "41.6528014",
+      "lng": "24.6857196"
+    },
+    "locationName": "Комплекс Малина",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Smolyan"
+    ],
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
-        "id": "fdfec787-dcb5-4c27-853a-79674a300208",
-        "url": "https://cdn.prod.rexby.com/image/fdfec787-dcb5-4c27-853a-79674a300208",
+        "id": "417ac37308f84cc7bc3dcb8b2eac32cc",
+        "url": "https://cdn.prod.rexby.com/image/417ac37308f84cc7bc3dcb8b2eac32cc",
         "order": 0
       },
       {
         "__typename": "Image",
-        "id": "50bb91c1-e0b8-4d48-b93e-fa1900678089",
-        "url": "https://cdn.prod.rexby.com/image/50bb91c1-e0b8-4d48-b93e-fa1900678089",
+        "id": "34140bb402144603b2825e5681e4619b",
+        "url": "https://cdn.prod.rexby.com/image/34140bb402144603b2825e5681e4619b",
         "order": 1
       },
       {
         "__typename": "Image",
-        "id": "706b9c7d-89d0-444c-985d-ae84aca635ab",
-        "url": "https://cdn.prod.rexby.com/image/706b9c7d-89d0-444c-985d-ae84aca635ab",
+        "id": "9771067b780a48a48517afeef26e938a",
+        "url": "https://cdn.prod.rexby.com/image/9771067b780a48a48517afeef26e938a",
         "order": 2
       },
       {
         "__typename": "Image",
-        "id": "7acc5ac0-8167-440b-9309-a181407416d1",
-        "url": "https://cdn.prod.rexby.com/image/7acc5ac0-8167-440b-9309-a181407416d1",
+        "id": "1b9d555b68f04e19aef259ac9730ae6b",
+        "url": "https://cdn.prod.rexby.com/image/1b9d555b68f04e19aef259ac9730ae6b",
         "order": 3
       },
       {
         "__typename": "Image",
-        "id": "1009a2bb-617f-4748-b413-ab961c555d74",
-        "url": "https://cdn.prod.rexby.com/image/1009a2bb-617f-4748-b413-ab961c555d74",
+        "id": "bc7d8987d6ba4749b386eacc3dd1baab",
+        "url": "https://cdn.prod.rexby.com/image/bc7d8987d6ba4749b386eacc3dd1baab",
         "order": 4
       },
       {
         "__typename": "Image",
-        "id": "20cf54fd-e755-495c-9355-9cfb83ecbc14",
-        "url": "https://cdn.prod.rexby.com/image/20cf54fd-e755-495c-9355-9cfb83ecbc14",
+        "id": "e03a8ff761e340b289eb06222e3588ef",
+        "url": "https://cdn.prod.rexby.com/image/e03a8ff761e340b289eb06222e3588ef",
         "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "feb10c8629a34445805610d85b8884de",
+        "url": "https://cdn.prod.rexby.com/image/feb10c8629a34445805610d85b8884de",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "bd63f69155864225a62873201948c44a",
+        "url": "https://cdn.prod.rexby.com/image/bd63f69155864225a62873201948c44a",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "fa6162e30ab14f0aa424cd2d68cf9e99",
+        "url": "https://cdn.prod.rexby.com/image/fa6162e30ab14f0aa424cd2d68cf9e99",
+        "order": 8
       }
     ]
   },
@@ -11791,9 +12067,15 @@
     "estimatedPrice": null,
     "media": [
       {
+        "__typename": "Image",
+        "id": "816216994204446ba0f456ac99dde402",
+        "url": "https://cdn.prod.rexby.com/image/816216994204446ba0f456ac99dde402",
+        "order": 0
+      },
+      {
         "__typename": "Video",
         "id": "436fd3e0a5d0414c961b13150e63798a",
-        "order": 0,
+        "order": 1,
         "mp4Url": "https://cdn.prod.rexby.com/436fd3e0a5d0414c961b13150e63798a/index.mp4",
         "webmUrl": "https://cdn.prod.rexby.com/436fd3e0a5d0414c961b13150e63798a/index.webm",
         "muted": false,
@@ -11803,12 +12085,6 @@
         "poster": {
           "url": "https://cdn.prod.rexby.com/436fd3e0a5d0414c961b13150e63798a/thumbnails/0"
         }
-      },
-      {
-        "__typename": "Image",
-        "id": "816216994204446ba0f456ac99dde402",
-        "url": "https://cdn.prod.rexby.com/image/816216994204446ba0f456ac99dde402",
-        "order": 1
       },
       {
         "__typename": "Image",
@@ -12223,72 +12499,6 @@
     ]
   },
   {
-    "id": "Fghf7iW_RuiMDAkQH5cdhg",
-    "title": "С прелестна гледка към Белоградчик",
-    "slug": "s-prelestna-gledka-kum-belogradchik",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎟️Препоръчвам ти да си вземеш полет за 1 час, защото е много по-красиво и се излита от Белоградчишките скали. Цената му е 360 лв.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 Оставям сайта и телефон за контакт: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"+359 877 144 777\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "tours",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": null,
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "3f6d1c356d9c44a7b966ec34d69c6362",
-        "url": "https://cdn.prod.rexby.com/image/3f6d1c356d9c44a7b966ec34d69c6362",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "8cfce07c1279434c88e0c390ab52f334",
-        "url": "https://cdn.prod.rexby.com/image/8cfce07c1279434c88e0c390ab52f334",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "4e56d69c077b485b9c66602034a00fab",
-        "url": "https://cdn.prod.rexby.com/image/4e56d69c077b485b9c66602034a00fab",
-        "order": 2
-      },
-      {
-        "__typename": "Image",
-        "id": "089da41a56374ec0ad3c6413a8c9ba43",
-        "url": "https://cdn.prod.rexby.com/image/089da41a56374ec0ad3c6413a8c9ba43",
-        "order": 3
-      },
-      {
-        "__typename": "Image",
-        "id": "1d8ab1d42e334848bdcb3584b1e107e2",
-        "url": "https://cdn.prod.rexby.com/image/1d8ab1d42e334848bdcb3584b1e107e2",
-        "order": 4
-      },
-      {
-        "__typename": "Image",
-        "id": "ba1660db123c47d89b2463ec52a2b888",
-        "url": "https://cdn.prod.rexby.com/image/ba1660db123c47d89b2463ec52a2b888",
-        "order": 5
-      },
-      {
-        "__typename": "Image",
-        "id": "ffe3677fb21049319a0f2f8901a31f52",
-        "url": "https://cdn.prod.rexby.com/image/ffe3677fb21049319a0f2f8901a31f52",
-        "order": 6
-      },
-      {
-        "__typename": "Image",
-        "id": "b9481eb646e9483bbd031fd112e09589",
-        "url": "https://cdn.prod.rexby.com/image/b9481eb646e9483bbd031fd112e09589",
-        "order": 7
-      }
-    ]
-  },
-  {
     "id": "E8AmMySgSsihzEuuzgYLaw",
     "title": "Разходка с панорамни гледки",
     "slug": "razhodka-s-panoramni-gledki",
@@ -12420,20 +12630,20 @@
     "media": [
       {
         "__typename": "Image",
-        "id": "baee323ca8114d85b1c6e06b9ad73d51",
-        "url": "https://cdn.prod.rexby.com/image/baee323ca8114d85b1c6e06b9ad73d51",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
         "id": "dbebc65d9fee481f863c2165f51631ca",
         "url": "https://cdn.prod.rexby.com/image/dbebc65d9fee481f863c2165f51631ca",
-        "order": 1
+        "order": 0
       },
       {
         "__typename": "Image",
         "id": "d34c989c3ceb446d9d849c8d0f30a280",
         "url": "https://cdn.prod.rexby.com/image/d34c989c3ceb446d9d849c8d0f30a280",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "9ead85a4060944478b5115c1fbc15c24",
+        "url": "https://cdn.prod.rexby.com/image/9ead85a4060944478b5115c1fbc15c24",
         "order": 2
       },
       {
@@ -12450,8 +12660,8 @@
       },
       {
         "__typename": "Image",
-        "id": "9ead85a4060944478b5115c1fbc15c24",
-        "url": "https://cdn.prod.rexby.com/image/9ead85a4060944478b5115c1fbc15c24",
+        "id": "ff6e110bfd1e4c5da783d0e04b0715a9",
+        "url": "https://cdn.prod.rexby.com/image/ff6e110bfd1e4c5da783d0e04b0715a9",
         "order": 5
       },
       {
@@ -12462,15 +12672,9 @@
       },
       {
         "__typename": "Image",
-        "id": "ff6e110bfd1e4c5da783d0e04b0715a9",
-        "url": "https://cdn.prod.rexby.com/image/ff6e110bfd1e4c5da783d0e04b0715a9",
-        "order": 7
-      },
-      {
-        "__typename": "Image",
         "id": "3358f8680a2d45179d81fbe77a7ea1c1",
         "url": "https://cdn.prod.rexby.com/image/3358f8680a2d45179d81fbe77a7ea1c1",
-        "order": 8
+        "order": 7
       }
     ]
   },
@@ -12747,8 +12951,8 @@
     "title": "Прелестна гледка към планината",
     "slug": "prelestna-gledka-kum-planinata",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🤽‍♀️ Мястото разполага с малък външен горещ басейн, топъл вътрешен и разнообразни релакс зони.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧖‍♀️ Инфрачервената сауна с гледка към планината не я пропускай!\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🧀Препоръчвам ти домашната им паста за вечеря, която правят на място.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🐎 Имат кончета, които може да яздиш през топлите сезони, защото зимата ги прибират. \"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "hotel",
     "secondaryCategories": null,
@@ -12757,6 +12961,23 @@
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "41.8874681",
+      "lng": "23.4260628"
+    },
+    "locationName": "Катарино СПА хотел",
+    "address": null,
+    "website": "https://hotelkatarino.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Blagoevgrad",
+      "Razlog"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
     "media": [
       {
         "__typename": "Image",
@@ -12772,15 +12993,27 @@
       },
       {
         "__typename": "Image",
+        "id": "2e1792b2b0ee44a6a40047a98be843d7",
+        "url": "https://cdn.prod.rexby.com/image/2e1792b2b0ee44a6a40047a98be843d7",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
         "id": "3dee197332644ee894db2bb585aa007e",
         "url": "https://cdn.prod.rexby.com/image/3dee197332644ee894db2bb585aa007e",
-        "order": 2
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "cdb2e1105aaf41de849fa4c8c15c810b",
+        "url": "https://cdn.prod.rexby.com/image/cdb2e1105aaf41de849fa4c8c15c810b",
+        "order": 4
       },
       {
         "__typename": "Image",
         "id": "a2b9bac9cf4f4e1098115de3e90754ec",
         "url": "https://cdn.prod.rexby.com/image/a2b9bac9cf4f4e1098115de3e90754ec",
-        "order": 3
+        "order": 5
       }
     ]
   },
@@ -13437,33 +13670,797 @@
     ]
   },
   {
-    "id": "faOjibdtQWuEQwxB3AHfXg",
-    "title": "Природа произведение на изкуството",
-    "slug": "priroda-proizvedenie-na-izkustvoto",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Паркира се в местността Зелени преслап. Последните 2 км от пътя са с много дупки, но и ниска кола може да мине. Локацията ще те отведе точно до мястото за паркиране.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⏳ Ще ти отнеме около 1 час и половина пеша в посока от колата до водопада. По пътя може да хапнеш на хижа \\\"Рилска Скакавица\\\" \"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👧 Преходът е лек и подходящ за семейства с деца\"}]}]}",
-    "isOpen": true,
-    "isSecret": false,
+    "id": "JY0PJsX8RPme9bli7mAnBg",
+    "title": "Пренеси се в 1851 г.",
+    "slug": "prenesi-se-v-1851-g",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"✍️ Тук може да се потопиш в атмосферата на България от 1851 г., да седнеш зад старите чинове и да попишеш в пясъка, както са правили едно време.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⌛ Отдели си поне 15–20 минути, за да се потопиш в преживяването и да разгледаш повече информация за историята.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"👉 Само ще ти подскажа малка част: Името „Радино“ идва от героинята Рада Госпожина от романа „Под игото“ на Иван Вазов. Именно това училище вдъхновява известната сцена „Радини вълнения“, описваща годишния изпит на ученичките.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"​\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
     "isTopFavorited": false,
-    "primaryCategory": "sightseeing",
+    "primaryCategory": "museum",
     "secondaryCategories": [
-      "hike"
+      "historic"
     ],
     "categoryClass": {
       "name": "Experience"
     },
     "duration": null,
     "estimatedPrice": null,
-    "location": {
-      "lat": "42.2483611",
-      "lng": "23.3090556"
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "1b9fe8a479394c2f968e70a3cf53d8ca",
+        "url": "https://cdn.prod.rexby.com/image/1b9fe8a479394c2f968e70a3cf53d8ca",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "053bed038ab54f4ab1f050129557e270",
+        "url": "https://cdn.prod.rexby.com/image/053bed038ab54f4ab1f050129557e270",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "073efe7c36e64fc1819ab583657483a4",
+        "url": "https://cdn.prod.rexby.com/image/073efe7c36e64fc1819ab583657483a4",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "595dd03ac3db4effb26a682ea71e2c58",
+        "url": "https://cdn.prod.rexby.com/image/595dd03ac3db4effb26a682ea71e2c58",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "7134b6c6774547c4a7ea22e10927acb9",
+        "url": "https://cdn.prod.rexby.com/image/7134b6c6774547c4a7ea22e10927acb9",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "ac4a02dcecb0467287017602705426dc",
+        "url": "https://cdn.prod.rexby.com/image/ac4a02dcecb0467287017602705426dc",
+        "order": 5
+      }
+    ]
+  },
+  {
+    "id": "7WtNx9iIT8amElxbdM0h3w",
+    "title": "Църква вдъхновила няколко исторически творби",
+    "slug": "curkva-vduhnovila-nyakolko-istoricheski-tvorbi",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 Това място е вдъхновило не един български писател, а архитектурата му заслужава да бъде видяна и оценена.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⌛ Отдели си 10 минути, за да го разгледаш.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🚗 Най-удобно ще ти е да паркираш близо до центъра и до този храм, за да можеш да разгледаш обектите пеша.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "historic",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
     },
-    "locationName": "Водопад Рилска Скакавица",
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "4b1ea4d257784470b58344948a7808e5",
+        "url": "https://cdn.prod.rexby.com/image/4b1ea4d257784470b58344948a7808e5",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "3d969eccb788467ba2bdd53d97810b70",
+        "url": "https://cdn.prod.rexby.com/image/3d969eccb788467ba2bdd53d97810b70",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "89fd499148c445f484325839b74d1712",
+        "url": "https://cdn.prod.rexby.com/image/89fd499148c445f484325839b74d1712",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "e8df11805a71428fbf8d53de2d9d934e",
+        "url": "https://cdn.prod.rexby.com/image/e8df11805a71428fbf8d53de2d9d934e",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "f20badceb1184f3a8fc0859668ac3437",
+        "url": "https://cdn.prod.rexby.com/image/f20badceb1184f3a8fc0859668ac3437",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "24f434d36305455f8fb610cf02dfcc33",
+        "url": "https://cdn.prod.rexby.com/image/24f434d36305455f8fb610cf02dfcc33",
+        "order": 5
+      }
+    ]
+  },
+  {
+    "id": "6UYueO1_T66OzXBeSKJJ9A",
+    "title": "Дом с огромно значение за нацията ни",
+    "slug": "dom-s-ogromno-znachenie-za-naciyata-ni",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 Не пропускай да разгърнеш книгата, създадена в чест на 125-годишнината от „Под игото“. Ще откриеш невероятни неща в нея.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⌛ Отдели си поне 20 минути, за да разгледаш къщата.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"👨‍👨‍👧‍👧 Подсказвам ти, че историята на семейството на Вазов е също толкова интересна, колкото и неговата.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "museum",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "9771b965f2934de3a0fec470e9425edd",
+        "url": "https://cdn.prod.rexby.com/image/9771b965f2934de3a0fec470e9425edd",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "c11926764bcc4fe592a3e55bbf0f8b67",
+        "url": "https://cdn.prod.rexby.com/image/c11926764bcc4fe592a3e55bbf0f8b67",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "a0e3bbcf04c549899eabecd22e99cbc4",
+        "url": "https://cdn.prod.rexby.com/image/a0e3bbcf04c549899eabecd22e99cbc4",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "6b9c953b69774f64bafa5c7d973dbb3f",
+        "url": "https://cdn.prod.rexby.com/image/6b9c953b69774f64bafa5c7d973dbb3f",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "ecf042eb10a44dcb97375b19696af9be",
+        "url": "https://cdn.prod.rexby.com/image/ecf042eb10a44dcb97375b19696af9be",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "7a179285b16940a6a222d653224d5bec",
+        "url": "https://cdn.prod.rexby.com/image/7a179285b16940a6a222d653224d5bec",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "1b1c42d8562f481dac2f07047cb794ca",
+        "url": "https://cdn.prod.rexby.com/image/1b1c42d8562f481dac2f07047cb794ca",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "69e617723b5c47479d8f2aeea50bce14",
+        "url": "https://cdn.prod.rexby.com/image/69e617723b5c47479d8f2aeea50bce14",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "b842aa1945404061b3ba047d1d19d3b0",
+        "url": "https://cdn.prod.rexby.com/image/b842aa1945404061b3ba047d1d19d3b0",
+        "order": 8
+      }
+    ]
+  },
+  {
+    "id": "mIE-gXhKQieww0toWt57aA",
+    "title": "Вкусна храна в ретро атмосфера",
+    "slug": "vkusna-hrana-v-retro-atmosfera",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Опитай местни ястия за обяд 👇🏼​\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🫐​ ​Козето сирене със сладко от смокини\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🥔 Картофките със сирене\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🍅 Салатата с патладжан\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "restaurant",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "FoodAndDrink"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "127ac98da0b145de849c7e74f365dda7",
+        "url": "https://cdn.prod.rexby.com/image/127ac98da0b145de849c7e74f365dda7",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "0d12e6fdea2a46049d2428298ad10337",
+        "url": "https://cdn.prod.rexby.com/image/0d12e6fdea2a46049d2428298ad10337",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "54f5b621173c44b1a887b4e037b638b0",
+        "url": "https://cdn.prod.rexby.com/image/54f5b621173c44b1a887b4e037b638b0",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "46195a6da5fd48f5956f0591e63a64c6",
+        "url": "https://cdn.prod.rexby.com/image/46195a6da5fd48f5956f0591e63a64c6",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "1dd01ea19abf406ea0a7c60a1e5c7c28",
+        "url": "https://cdn.prod.rexby.com/image/1dd01ea19abf406ea0a7c60a1e5c7c28",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "d98e1274762b4479839ddd8ad317579d",
+        "url": "https://cdn.prod.rexby.com/image/d98e1274762b4479839ddd8ad317579d",
+        "order": 5
+      }
+    ]
+  },
+  {
+    "id": "05b_xGJHQ8WnaHP4uK1A3Q",
+    "title": "Кафе на пясък и местни занаяти",
+    "slug": "kafe-na-pyasuk-i-mestni-zanayati",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🇧🇬​ Тук ще откриеш невероятно запазени стари предмети, носии и прелестно пресъздадена обстановка\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⌛ Отдели си 30 минути да разгледаш мястото\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"☕​  Не пропускай да изпиеш едно кафе на пясък\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🚗 В центъра на Сопот може да си намериш спокойно място за паркиране\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "museum",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "b5aae56442bc4e0585824f9c90852785",
+        "url": "https://cdn.prod.rexby.com/image/b5aae56442bc4e0585824f9c90852785",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "ec293483d4434e1b87c5bb5d8866be1f",
+        "url": "https://cdn.prod.rexby.com/image/ec293483d4434e1b87c5bb5d8866be1f",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "0cad1c2c36e645d890d4500aec179f76",
+        "url": "https://cdn.prod.rexby.com/image/0cad1c2c36e645d890d4500aec179f76",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "f158b9ee0260435aab126d2238fe553c",
+        "url": "https://cdn.prod.rexby.com/image/f158b9ee0260435aab126d2238fe553c",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "77b13f7d38974631b9521a468befe27c",
+        "url": "https://cdn.prod.rexby.com/image/77b13f7d38974631b9521a468befe27c",
+        "order": 4
+      },
+      {
+        "__typename": "Video",
+        "id": "fa559a94b7d5486580081f8587d18dcb",
+        "order": 5,
+        "mp4Url": "https://cdn.prod.rexby.com/fa559a94b7d5486580081f8587d18dcb/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/fa559a94b7d5486580081f8587d18dcb/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/fa559a94b7d5486580081f8587d18dcb/thumbnails/1"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/fa559a94b7d5486580081f8587d18dcb/thumbnails/0"
+        }
+      },
+      {
+        "__typename": "Image",
+        "id": "0cea76de6f6d4d08959f78fc1698b739",
+        "url": "https://cdn.prod.rexby.com/image/0cea76de6f6d4d08959f78fc1698b739",
+        "order": 6
+      },
+      {
+        "__typename": "Video",
+        "id": "8a0b041998f94beeb21b4598b185817b",
+        "order": 7,
+        "mp4Url": "https://cdn.prod.rexby.com/8a0b041998f94beeb21b4598b185817b/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/8a0b041998f94beeb21b4598b185817b/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/8a0b041998f94beeb21b4598b185817b/thumbnails/14"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/8a0b041998f94beeb21b4598b185817b/thumbnails/0"
+        }
+      },
+      {
+        "__typename": "Image",
+        "id": "46fd977a664d45d5924e22235c1d8687",
+        "url": "https://cdn.prod.rexby.com/image/46fd977a664d45d5924e22235c1d8687",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "32b139d143a54dfcb1dc464af40a5ad2",
+        "url": "https://cdn.prod.rexby.com/image/32b139d143a54dfcb1dc464af40a5ad2",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "91b7ccca033b4d58b9befa9a16f7b339",
+        "url": "https://cdn.prod.rexby.com/image/91b7ccca033b4d58b9befa9a16f7b339",
+        "order": 10
+      }
+    ]
+  },
+  {
+    "id": "ouCvA9HdQM6zT5wAMCODwQ",
+    "title": "Исторически и крафт център",
+    "slug": "istoricheski-i-kraft-centur",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💛 Красиво реставриран хан от XIX век, разположен в самото сърце на Стария град на Карлово.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🌹☕ Не пропускай да опиташ кафето на пясък и сладкото от рози.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🇧🇬 Тук можеш да наблюдаваш как местни майстори вдъхват живот на традиционни български занаяти – от изящна дантела до фина дърворезба\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🚗 Из града лесно можеш да намериш места за паркиране\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "museum",
+    "secondaryCategories": [
+      "cafe"
+    ],
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "3e2ceaa65ca942c58ce0b9bf0d518f86",
+        "url": "https://cdn.prod.rexby.com/image/3e2ceaa65ca942c58ce0b9bf0d518f86",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "9b44b40c6cd74b149aac659cef85cf7d",
+        "url": "https://cdn.prod.rexby.com/image/9b44b40c6cd74b149aac659cef85cf7d",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "4567cd6b5246460a8f0c254044cdf83d",
+        "url": "https://cdn.prod.rexby.com/image/4567cd6b5246460a8f0c254044cdf83d",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "cd616b54ef024936bf9c60b0659108b8",
+        "url": "https://cdn.prod.rexby.com/image/cd616b54ef024936bf9c60b0659108b8",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "0599d8ba72104ebba7ae29dc0898fb1b",
+        "url": "https://cdn.prod.rexby.com/image/0599d8ba72104ebba7ae29dc0898fb1b",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "QS_pviF6Qte_U5AVEnLWDA",
+    "title": "Рожденото място на един герой",
+    "slug": "rozhdenoto-myasto-na-edin-geroj",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 Не пропускай да видиш мемориалния параклис и изложбената зала, в която са изложени лични вещи на Васил Левски.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⌛ Отдели си поне 20 минути, за да разгледаш мястото.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🚗 Спокойно можеш да паркираш в центъра на града, където намериш удобно място.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "museum",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "dd70ead70d8d411d87e72e16c146326d",
+        "url": "https://cdn.prod.rexby.com/image/dd70ead70d8d411d87e72e16c146326d",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "c2c7eefa4ff84ea496d52de0432842a2",
+        "url": "https://cdn.prod.rexby.com/image/c2c7eefa4ff84ea496d52de0432842a2",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "91c170b41c824a8a9124f52d5f1ed826",
+        "url": "https://cdn.prod.rexby.com/image/91c170b41c824a8a9124f52d5f1ed826",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "847182e3a3104de5821e768b8600621e",
+        "url": "https://cdn.prod.rexby.com/image/847182e3a3104de5821e768b8600621e",
+        "order": 3
+      }
+    ]
+  },
+  {
+    "id": "LWbQhraWRIeZyXOB2uKZ0A",
+    "title": "Църква с дълбоко историческо значение",
+    "slug": "curkva-s-dulboko-istorichesko-znachenie",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ Отдели си 15 минути, за да го разгледаш\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"📖 Построен е през 1851 г. в характерен за Българското възраждане стил. Тук се пазят икони от Самоковската художествена школа, която е една от най-значимите в българското църковно изкуство\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"👉 Тук Васил Левски е служил като дякон\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "historic",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "ffc08d592b74440b83f891ebcb985e17",
+        "url": "https://cdn.prod.rexby.com/image/ffc08d592b74440b83f891ebcb985e17",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "3d76fa2e5e51462d8a7db547e4c1465d",
+        "url": "https://cdn.prod.rexby.com/image/3d76fa2e5e51462d8a7db547e4c1465d",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "d48b31b371be428c96a13c2cefdf5db0",
+        "url": "https://cdn.prod.rexby.com/image/d48b31b371be428c96a13c2cefdf5db0",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "ef8b5eff54944f1e9873242566531c66",
+        "url": "https://cdn.prod.rexby.com/image/ef8b5eff54944f1e9873242566531c66",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "c1ef0e00215b4c9695017598f2f42ce9",
+        "url": "https://cdn.prod.rexby.com/image/c1ef0e00215b4c9695017598f2f42ce9",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "0lZsdVl0SCua8QJ-12XWmg",
+    "title": "Местно, скрито зад ВЕЦ бижу",
+    "slug": "mestno-skrito-zad-vec-bizhu",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Има място за паркиране с нормален асфалт в непосредствена близост до водопада. Ще се ориентираш и по ВЕЦ-а, в чийто двор се намира и забележителността\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"📍 Можеш да стигнеш дотук и пеша от центъра на града – ще ти отнеме около 30 минути в едната посока, като маршрутът минава през красив парк\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⌛ Отдели си 15 минути, за да се насладиш на самото място\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🗓️ Най-красивият сезон за посещение е есента. А през лятото ще видиш местните да се къпят във водопада и да скачат от скалите – имай предвид, че по принцип това не е позволено\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"👉 Можеш да го снимаш от моста, а вляво има пътека, която води до самата вода\"},{\"type\":\"hardBreak\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "waterfall",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "cc8fd3d8a06c43bcac71bc21726b058b",
+        "url": "https://cdn.prod.rexby.com/image/cc8fd3d8a06c43bcac71bc21726b058b",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "76116fa5a5fd472ab030f0a121a40df4",
+        "url": "https://cdn.prod.rexby.com/image/76116fa5a5fd472ab030f0a121a40df4",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "cc0b3844de3040df9d694f5c8cdfd089",
+        "url": "https://cdn.prod.rexby.com/image/cc0b3844de3040df9d694f5c8cdfd089",
+        "order": 2
+      }
+    ]
+  },
+  {
+    "id": "wxrsRGbiQpy7VH4kUU43WQ",
+    "title": "Вкусен обяд или вечеря",
+    "slug": "vkusen-obyad-ili-vecherya",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💛 Атмосферата: красиво реставрирана къща от XVIII век, уютен традиционен интериор и приказна градина – особено през лятото\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"📍 Ще останеш приятно изненадан от храната тук\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "restaurant",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "FoodAndDrink"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "8c6dcfe219524f2da2bd22ec2803fc41",
+        "url": "https://cdn.prod.rexby.com/image/8c6dcfe219524f2da2bd22ec2803fc41",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "676bbf95f668474491a2eadc445d8609",
+        "url": "https://cdn.prod.rexby.com/image/676bbf95f668474491a2eadc445d8609",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "1d7f6899cf8f4f9b93a52a0d67eae080",
+        "url": "https://cdn.prod.rexby.com/image/1d7f6899cf8f4f9b93a52a0d67eae080",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "07b75bd3ca9e4ba28d1bdc5f62413d29",
+        "url": "https://cdn.prod.rexby.com/image/07b75bd3ca9e4ba28d1bdc5f62413d29",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "9b8dc3dc72a945639094420f0b40a346",
+        "url": "https://cdn.prod.rexby.com/image/9b8dc3dc72a945639094420f0b40a346",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "b9b8e6421f19465684d8acc7a5ec033f",
+        "url": "https://cdn.prod.rexby.com/image/b9b8e6421f19465684d8acc7a5ec033f",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "c61e918b82774d8c9b17fea2225d88be",
+        "url": "https://cdn.prod.rexby.com/image/c61e918b82774d8c9b17fea2225d88be",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "15efb8d951a64436a58000244bedb350",
+        "url": "https://cdn.prod.rexby.com/image/15efb8d951a64436a58000244bedb350",
+        "order": 7
+      }
+    ]
+  },
+  {
+    "id": "hGVfqaymRWy1opU8q5FBEw",
+    "title": "Уютна атмосфера ",
+    "slug": "uyutna-atmosfera",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 Прекрасна спирка, особено в горещите дни - докато обикаляш забележителностите в района\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "cafe",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "FoodAndDrink"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "e29503e0e8fc497e9263a64afb1b3752",
+        "url": "https://cdn.prod.rexby.com/image/e29503e0e8fc497e9263a64afb1b3752",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "e8db8717b2264c7d863969887a79954e",
+        "url": "https://cdn.prod.rexby.com/image/e8db8717b2264c7d863969887a79954e",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "2a99e690336e4a37b17ce8340c4846b8",
+        "url": "https://cdn.prod.rexby.com/image/2a99e690336e4a37b17ce8340c4846b8",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "c02b79c02ba24b0ea2fd0af9943c418c",
+        "url": "https://cdn.prod.rexby.com/image/c02b79c02ba24b0ea2fd0af9943c418c",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "3a1a646270f0441f98a96b549e6f8f8a",
+        "url": "https://cdn.prod.rexby.com/image/3a1a646270f0441f98a96b549e6f8f8a",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "cbHSur-9RdySq40GtMBVyg",
+    "title": "Потопи се в местната култура",
+    "slug": "potopi-se-v-mestnata-kultura",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🩷 Това не е обикновен музей… Тук ще се потопиш в местната култура на Пловдив чрез игриво изкуство в стил комикси, завладяващи инсталации и хумор.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⌛ Отдели си поне 1 час за разглеждане.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🚗 Паркирането в центъра на града може да е предизвикателство. Вариантите са платен паркинг, място в централната зона (имай предвид, че е платена зона) или паркиране по-далеч от центъра, където няма зона.\"},{\"type\":\"hardBreak\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "museum",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "67a531cad0fc4158b4797182e14e3e7e",
+        "url": "https://cdn.prod.rexby.com/image/67a531cad0fc4158b4797182e14e3e7e",
+        "order": 0
+      },
+      {
+        "__typename": "Video",
+        "id": "9e1d21efca8e46aba09d2563e7f9c995",
+        "order": 1,
+        "mp4Url": "https://cdn.prod.rexby.com/9e1d21efca8e46aba09d2563e7f9c995/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/9e1d21efca8e46aba09d2563e7f9c995/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/9e1d21efca8e46aba09d2563e7f9c995/thumbnails/1"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/9e1d21efca8e46aba09d2563e7f9c995/thumbnails/0"
+        }
+      },
+      {
+        "__typename": "Image",
+        "id": "25e8de248506400584d2c7c214261fd3",
+        "url": "https://cdn.prod.rexby.com/image/25e8de248506400584d2c7c214261fd3",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "b0846e75069b4e52b2f33649141e0c57",
+        "url": "https://cdn.prod.rexby.com/image/b0846e75069b4e52b2f33649141e0c57",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "521091bf557c439e9590f7350f17d799",
+        "url": "https://cdn.prod.rexby.com/image/521091bf557c439e9590f7350f17d799",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "066d8b194d7e4bf2a1944a8cb7ee6520",
+        "url": "https://cdn.prod.rexby.com/image/066d8b194d7e4bf2a1944a8cb7ee6520",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "73dab8f0307542108f979a286e6e9ac2",
+        "url": "https://cdn.prod.rexby.com/image/73dab8f0307542108f979a286e6e9ac2",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "fUFpoB70ThmhYYGw2duPog",
+    "title": "Панорамна гледка към града",
+    "slug": "panoramna-gledka-kum-grada",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 С лифта можеш да се качиш директно в сърцето на „Централен Балкан“. Оттук тръгват много маршрути, а най-близкият е до хижа Добрила. Ако не искаш да правиш преход, можеш спокойно да се качиш, за да видиш Сопот от високо.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⌛ Отдели си поне 1 час за качване, слизане и разходка.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🗓️ Работно време:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"• от 29 март до 15 юни – събота и неделя, от 9:00 до 17:30 ч.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"• от 16 юни до 5 октомври – петък до неделя, от 9:00 до 17:30 ч.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"• от 6 октомври до 25 март – петък до неделя, от 9:00 до 16:30 ч.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎟️ Двупосочният билет за възрастен е 15.34 €, за дете над 7 г. – 7.69 €, а за деца под 7 г. е безплатно.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "sightseeing",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "01200eb87d05461bb7073a0d22b56694",
+        "url": "https://cdn.prod.rexby.com/image/01200eb87d05461bb7073a0d22b56694",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "aa351c849aad4c7cb2c5d62eb929aabd",
+        "url": "https://cdn.prod.rexby.com/image/aa351c849aad4c7cb2c5d62eb929aabd",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "df098806be7c4a5fb0654384643653ff",
+        "url": "https://cdn.prod.rexby.com/image/df098806be7c4a5fb0654384643653ff",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "2f39cdaff2f74cb3b6bd9279bb738078",
+        "url": "https://cdn.prod.rexby.com/image/2f39cdaff2f74cb3b6bd9279bb738078",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "f406b7eb9bf04c6f8250bc6a95ce1656",
+        "url": "https://cdn.prod.rexby.com/image/f406b7eb9bf04c6f8250bc6a95ce1656",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "0553d8a55ea3426f92b74ff2e64e93e8",
+        "url": "https://cdn.prod.rexby.com/image/0553d8a55ea3426f92b74ff2e64e93e8",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "5d49ce5fc1b74ee89b60bfb328b57b19",
+        "url": "https://cdn.prod.rexby.com/image/5d49ce5fc1b74ee89b60bfb328b57b19",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "95d82665e873423cbbc4e14e849a533e",
+        "url": "https://cdn.prod.rexby.com/image/95d82665e873423cbbc4e14e849a533e",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "f73d31724d0e4a98a3f65da83a9561ed",
+        "url": "https://cdn.prod.rexby.com/image/f73d31724d0e4a98a3f65da83a9561ed",
+        "order": 8
+      }
+    ]
+  },
+  {
+    "id": "rkOYbBcNQLqMq7Wj2K5emQ",
+    "title": "СКРИТИ останки",
+    "slug": "skriti-ostanki",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Никога няма да познаеш къде се намира това място! Входът е вътре в H&M (отляво след влизане в магазина). Долу има две нива. Можеш да се разходиш и дори да докоснеш повечето експонати.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎟️ Входната такса е 2.50 € и можеш да я заплатиш на място. Ще видиш малка каса.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⌛ Ще ти отнеме максимум 15–20 минути, за да разгледаш всички зали.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "historic",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.1467023",
+      "lng": "24.7485639"
+    },
+    "locationName": "Античния стадион на Филипопол",
     "address": null,
-    "website": "https://www.vodopadskakavitsa.bgsait.com/",
+    "website": null,
     "regionNames": [
       "Bulgaria",
-      "Kyustendil",
-      "Sapareva Banya"
+      "Plovdiv",
+      "Plovdiv"
     ],
     "detail": {
       "activityLevel": null,
@@ -13473,45 +14470,1510 @@
     "media": [
       {
         "__typename": "Image",
-        "id": "64fd2c5c51da4ea38d2d6c68f0cef40d",
-        "url": "https://cdn.prod.rexby.com/image/64fd2c5c51da4ea38d2d6c68f0cef40d",
+        "id": "de111894ba5245aeaac524c714ef9ad1",
+        "url": "https://cdn.prod.rexby.com/image/de111894ba5245aeaac524c714ef9ad1",
         "order": 0
       },
       {
         "__typename": "Image",
-        "id": "d05d15ff9bae4fdca157adad2e04d249",
-        "url": "https://cdn.prod.rexby.com/image/d05d15ff9bae4fdca157adad2e04d249",
+        "id": "41329e058b364d03aad1cc0f2796c0a0",
+        "url": "https://cdn.prod.rexby.com/image/41329e058b364d03aad1cc0f2796c0a0",
         "order": 1
       },
       {
         "__typename": "Image",
-        "id": "56baa7e4abf44c659c6a753edb3222fc",
-        "url": "https://cdn.prod.rexby.com/image/56baa7e4abf44c659c6a753edb3222fc",
+        "id": "7afa9ab0359d4bb7862cab138e387f72",
+        "url": "https://cdn.prod.rexby.com/image/7afa9ab0359d4bb7862cab138e387f72",
+        "order": 2
+      }
+    ]
+  },
+  {
+    "id": "zcrIQFVMSlC20iaAhYHI9g",
+    "title": "Вкусна храна в авторски стил",
+    "slug": "vkusna-hrana-v-avtorski-stil",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🥘 Тук няма стандартна механа кухня – вместо това ще откриеш стари български рецепти, интерпретирани по съвременен начин: сезонни местни продукти, крафт съставки, авторски plating и комбинации като традиционни месни ястия с гурме акценти.\"},{\"type\":\"hardBreak\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"📍 Ресторантът се помещава в реставрирана 100-годишна къща. Това е една от причините местните да го смятат за едно от най-автентичните места в Пловдив.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "restaurant",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "FoodAndDrink"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "f751a08b6a4d4fceacac549c1085f82e",
+        "url": "https://cdn.prod.rexby.com/image/f751a08b6a4d4fceacac549c1085f82e",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "905c001ecae44b46a758c789ba8588e0",
+        "url": "https://cdn.prod.rexby.com/image/905c001ecae44b46a758c789ba8588e0",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "eb823374fa5444029062a77e96710649",
+        "url": "https://cdn.prod.rexby.com/image/eb823374fa5444029062a77e96710649",
         "order": 2
       },
       {
         "__typename": "Image",
-        "id": "1f0d456ffd6e446e8d835e30ee12cac3",
-        "url": "https://cdn.prod.rexby.com/image/1f0d456ffd6e446e8d835e30ee12cac3",
+        "id": "01c7c795be8745be876f1555a16c9e05",
+        "url": "https://cdn.prod.rexby.com/image/01c7c795be8745be876f1555a16c9e05",
         "order": 3
       },
       {
         "__typename": "Image",
-        "id": "6686f99b2ff34451aa93f28f4e62ad76",
-        "url": "https://cdn.prod.rexby.com/image/6686f99b2ff34451aa93f28f4e62ad76",
+        "id": "d6f8a83013e04fb69050a22bb7a94162",
+        "url": "https://cdn.prod.rexby.com/image/d6f8a83013e04fb69050a22bb7a94162",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "YugFbu62TBieBAdWyB4pxQ",
+    "title": "Най-големият католически храм в България",
+    "slug": "naj-golemiyat-katolicheski-hram-v-bulgariya",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Тук се намира гробът на княгиня Мария Луиза Бурбон-Пармска – първата съпруга на цар Фердинанд I и майка на цар Борис III.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎁 Една от най-ценните реликви в храма е голямата камбана, подарена лично от папа Лъв XIII.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⌛ 10 минути ще ти стигнат, за да я разгледаш.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "sightseeing",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "f0c7324d047f48f9b3fdeb1a5acb8226",
+        "url": "https://cdn.prod.rexby.com/image/f0c7324d047f48f9b3fdeb1a5acb8226",
+        "order": 0
+      }
+    ]
+  },
+  {
+    "id": "xCEmO1IbQiKQRJoYXvsP7Q",
+    "title": "Автентична българска кухня с троянски характер",
+    "slug": "avtentichna-bulgarska-kuhnya-s-troyanski-harakter",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍲 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Какво е емблематичното ястие, което си струва да опиташ?\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Свински врат на гьоз едно от специалитетите, които се споменават като запазена марка на заведението\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Чорба от домашна кокошка\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Копривена торта за десерт\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"📍 Ако отиваш за първи път: резервирай предварително за вечеря, особено през уикендите – мястото често е пълно.\"}]}]}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "restaurant",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "FoodAndDrink"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "8316d4d5b431465596557d2b5d50b45c",
+        "url": "https://cdn.prod.rexby.com/image/8316d4d5b431465596557d2b5d50b45c",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "2444c20d64dc45ecb03c2865e04931c4",
+        "url": "https://cdn.prod.rexby.com/image/2444c20d64dc45ecb03c2865e04931c4",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "75660457a3a64bceb660a28d29cecd32",
+        "url": "https://cdn.prod.rexby.com/image/75660457a3a64bceb660a28d29cecd32",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "2731097a4f0a437699a8295b12f4b6a8",
+        "url": "https://cdn.prod.rexby.com/image/2731097a4f0a437699a8295b12f4b6a8",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "36258ebedf914503a2f7fb27c5509352",
+        "url": "https://cdn.prod.rexby.com/image/36258ebedf914503a2f7fb27c5509352",
         "order": 4
       },
       {
         "__typename": "Image",
-        "id": "f704a4a566ea4be6b897d1d9a39a208e",
-        "url": "https://cdn.prod.rexby.com/image/f704a4a566ea4be6b897d1d9a39a208e",
+        "id": "eb07d9fc765e490b816104722d09c3bb",
+        "url": "https://cdn.prod.rexby.com/image/eb07d9fc765e490b816104722d09c3bb",
         "order": 5
       },
       {
         "__typename": "Image",
-        "id": "1c96c928dc254491b76093096bf350cc",
-        "url": "https://cdn.prod.rexby.com/image/1c96c928dc254491b76093096bf350cc",
+        "id": "f4cf84bfb21b4fa696113be2ab22aa91",
+        "url": "https://cdn.prod.rexby.com/image/f4cf84bfb21b4fa696113be2ab22aa91",
         "order": 6
+      }
+    ]
+  },
+  {
+    "id": "DoI-0EIkRZGEViNsNefkoA",
+    "title": "Чайна с билкова дестилерия",
+    "slug": "chajna-s-bilkova-destileriya",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌿 Тук можеш да опиташ специални билкови чайове, ароматно кафе с розова вода и домашни десерти, а също да разгледаш ръчно изработена натурална козметика, създадена на място с етерични масла от собствена дестилерия.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🫖 Задължително попитай кои са сезонните билкови чайове, какви масла се дестилират в момента и кой е най-популярният им десерт – това са малките тайни, които правят посещението още по-специално.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Намира се в с. Орешак, точно до големия паркинг на Троянския манастир – идеална спирка след разходка до манастира.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "cafe",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "FoodAndDrink"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "e811311e619b4066a65b603e6d626e78",
+        "url": "https://cdn.prod.rexby.com/image/e811311e619b4066a65b603e6d626e78",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "6be65f813bfe4a1997d7bf7c543a8b3f",
+        "url": "https://cdn.prod.rexby.com/image/6be65f813bfe4a1997d7bf7c543a8b3f",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "00bd0c0e10ad4009abf9b7c51ae26889",
+        "url": "https://cdn.prod.rexby.com/image/00bd0c0e10ad4009abf9b7c51ae26889",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "544de2a778234e868c07be947fe6832b",
+        "url": "https://cdn.prod.rexby.com/image/544de2a778234e868c07be947fe6832b",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "51e5a52e348341568049b3c8dafd42df",
+        "url": "https://cdn.prod.rexby.com/image/51e5a52e348341568049b3c8dafd42df",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "4374be5f07fa433ca8fd84056bfc4d3b",
+        "url": "https://cdn.prod.rexby.com/image/4374be5f07fa433ca8fd84056bfc4d3b",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "6034209d303f4a86ba0745f153ccc8e8",
+        "url": "https://cdn.prod.rexby.com/image/6034209d303f4a86ba0745f153ccc8e8",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "S8v06fx8Rf6Ba6A31cqgYw",
+    "title": "Стенописи дело на Захари Зограф",
+    "slug": "stenopisi-delo-na-zahari-zograf",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ Отдели си поне 20 минути, за да разгледаш мястото.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Има обособен платен паркинг точно до манастира и добър асфалтов път до там. Цената за паркинга е около 2 €.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🗓️ На 15 август тук се провежда голям празник и хора от цяла България идват, за да отбележат Голяма Богородица.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🔔 Тук се пази чудотворната икона „Св. Богородица Троеручица“ – едно от най-свещените копия на прочутата хилендарска икона, пред която вярващи идват от цяла България, за да се помолят за здраве и закрила. Смята се, че иконата има чудотворна сила и изпълнява молитви.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎨 Главната църква е изрисувана от най-големия майстор на Българското възраждане – Захари Зограф. Сред фреските има и негов автопортрет, скрит сред библейските сцени – истински исторически „подпис“ в стените.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Манастирът не е бил само духовно убежище – именно тук Васил Левски създава единствения монашески революционен комитет в България. В манастира може да се види и килията, свързана с неговото пребиваване.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "historic",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.8627392",
+      "lng": "24.7812078"
+    },
+    "locationName": "Троянски манастир",
+    "address": null,
+    "website": "https://www.troyanmonastery.com/programa-otbelyazvane-na-praznika-uspenie-bogorodichno-2025/",
+    "regionNames": [
+      "Bulgaria",
+      "Lovech",
+      "Troyan"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "2eb1bfc13bf842c498be0dca0f94e19e",
+        "url": "https://cdn.prod.rexby.com/image/2eb1bfc13bf842c498be0dca0f94e19e",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "7e475342bdeb48c79afcfba421ddad4c",
+        "url": "https://cdn.prod.rexby.com/image/7e475342bdeb48c79afcfba421ddad4c",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "a6bd06b4bc694b7885c7ead52ddbea1e",
+        "url": "https://cdn.prod.rexby.com/image/a6bd06b4bc694b7885c7ead52ddbea1e",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "52ddc70c8ac649bfa4735cbdcc01ae3c",
+        "url": "https://cdn.prod.rexby.com/image/52ddc70c8ac649bfa4735cbdcc01ae3c",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "a149863c16094abda8120a359fca3bec",
+        "url": "https://cdn.prod.rexby.com/image/a149863c16094abda8120a359fca3bec",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "7081856a25cf4dc3af3e9ca5eaa9105d",
+        "url": "https://cdn.prod.rexby.com/image/7081856a25cf4dc3af3e9ca5eaa9105d",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "e9713bd9456849daa0ccdc63b2c022bd",
+        "url": "https://cdn.prod.rexby.com/image/e9713bd9456849daa0ccdc63b2c022bd",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "rHRrdu7aTYi3KRgIL5XDYQ",
+    "title": "Из непопулярните ни места",
+    "slug": "iz-nepopulyarnite-ni-mesta",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ Отдели си поне 30–40 минути за разходка тук.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 До водопада се стига почти изцяло с кола: премини през с. Калейца и следвай пътя след селото около 1 км, докато стигнеш малък мост, след който има уширение за паркиране. Има табела за водопада, която ще ти служи като ориентир къде точно да паркираш, а пътят дотам е асфалтов. Оттам започва кратка пътека пеша – около 200 метра или 10–15 минути бавен ход по равен черен път покрай реката.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌿 Пътеката е лесна и подходяща дори за семейства с деца – следвай табелата при разклона след мостчето и върви по утъпкания път покрай течението.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "waterfall",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "aafe99de4d0949d0b1bd92b86606280c",
+        "url": "https://cdn.prod.rexby.com/image/aafe99de4d0949d0b1bd92b86606280c",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "8c1dd4ded65a405f9be30466e1b4090c",
+        "url": "https://cdn.prod.rexby.com/image/8c1dd4ded65a405f9be30466e1b4090c",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "081845c2c543433598a4c256099f0a44",
+        "url": "https://cdn.prod.rexby.com/image/081845c2c543433598a4c256099f0a44",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "abd25fc7120b441280011252240512be",
+        "url": "https://cdn.prod.rexby.com/image/abd25fc7120b441280011252240512be",
+        "order": 3
+      }
+    ]
+  },
+  {
+    "id": "sTOOa8W0RNCx2WpUgRQ7kw",
+    "title": "Глемпинг над Белоградчишките скали",
+    "slug": "glemping-nad-belogradchishkite-skali",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Да се събудиш с гледка към Белоградчишките скали - безценно!\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Eдно от най-впечатляващите места за нощувка в България, което наистина бих препоръчала от сърце. Сгушено сред гората, високо над всичко, това място носи усещане за пълно спокойствие и откъсване от ежедневието.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌜🌲 Настаняването е в стилно преобразен контейнер, но усещането е всичко друго, не и обикновено – уютно, модерно и с гледка, която буквално спира дъха. Сутринта започва по най-хубавия начин – с домашно приготвена закуска, поднесена директно до вратата, докато пред теб се разкриват скалите в цялата им красота.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "campsite",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "43.62421320000001",
+      "lng": "22.6942182"
+    },
+    "locationName": "Bebeka",
+    "address": null,
+    "website": "https://www.bebeka.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Vidin",
+      "Belogradchik"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "81540ed6f1fc4550b1f1fa64a5b341bd",
+        "url": "https://cdn.prod.rexby.com/image/81540ed6f1fc4550b1f1fa64a5b341bd",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "11a40aa5cdd1497880814ae4194ee39e",
+        "url": "https://cdn.prod.rexby.com/image/11a40aa5cdd1497880814ae4194ee39e",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "038d6d97d0d4484b9ef145e4371c8cf5",
+        "url": "https://cdn.prod.rexby.com/image/038d6d97d0d4484b9ef145e4371c8cf5",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "877bb52cc77e4b0f8126ff8bda23d8ba",
+        "url": "https://cdn.prod.rexby.com/image/877bb52cc77e4b0f8126ff8bda23d8ba",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "4a84e81e509b45019bb9fe564ea5950d",
+        "url": "https://cdn.prod.rexby.com/image/4a84e81e509b45019bb9fe564ea5950d",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "C9MpnlAeSg28P_qJ_o5Kqg",
+    "title": "Луксозно бягство сред български лозя",
+    "slug": "luksozno-byagstvo-sred-bulgarski-lozya",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌿 Избягай към хълмовете на Южна България в това зашеметяващо винено имение – истинско скрито бижу близо до Свиленград.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍷 Препоръчвам ти да си направиш разходка из невероятната винарна, да видиш как се създават вината и да се потопиш в целия процес. Поглези сетивата си с дегустация и открий „пътя на виното“ в една наистина вдъхновяваща атмосфера.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Не пропускай да опиташ кухнята им – изискани местни и международни ястия, съчетани перфектно с награждаваните вина на имението.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍰 А десертите… задължително ги пробвай – заслужават си всяка хапка.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"✨ Това е място, където можеш наистина да се отпуснеш и презаредиш – там, където природата, луксът и доброто вино се срещат в перфектна хармония.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "winery",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.7476755",
+      "lng": "26.1391464"
+    },
+    "locationName": "КАТАРЖИНА ЕСТЕЙТ",
+    "address": null,
+    "website": "https://katarzyna.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Haskovo",
+      "Svilengrad"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "62ca23ce3b544acf9ff52f5b60f2f9ac",
+        "url": "https://cdn.prod.rexby.com/image/62ca23ce3b544acf9ff52f5b60f2f9ac",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "096ec9770588433c93b011cc6b5aabc6",
+        "url": "https://cdn.prod.rexby.com/image/096ec9770588433c93b011cc6b5aabc6",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "0c7fcd3b25294becbd99520b7a66fd5b",
+        "url": "https://cdn.prod.rexby.com/image/0c7fcd3b25294becbd99520b7a66fd5b",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "cde5f5806e32496c85b4e91b28e78ac3",
+        "url": "https://cdn.prod.rexby.com/image/cde5f5806e32496c85b4e91b28e78ac3",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "bbfe04d176b542eea0802dd4db4f3152",
+        "url": "https://cdn.prod.rexby.com/image/bbfe04d176b542eea0802dd4db4f3152",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "cef97041f933427688d36ffad9a18c02",
+        "url": "https://cdn.prod.rexby.com/image/cef97041f933427688d36ffad9a18c02",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "4c26ba8be8fc443f8a5404547841e291",
+        "url": "https://cdn.prod.rexby.com/image/4c26ba8be8fc443f8a5404547841e291",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "8434ed63965d47ebb058b2393e1155f8",
+        "url": "https://cdn.prod.rexby.com/image/8434ed63965d47ebb058b2393e1155f8",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "6129ece3f8854a0d8e13b7fe953309a4",
+        "url": "https://cdn.prod.rexby.com/image/6129ece3f8854a0d8e13b7fe953309a4",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "ab128ef3d17642fe881c34915fa55214",
+        "url": "https://cdn.prod.rexby.com/image/ab128ef3d17642fe881c34915fa55214",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "2eea16652ec443a9875f2a59e0ff391e",
+        "url": "https://cdn.prod.rexby.com/image/2eea16652ec443a9875f2a59e0ff391e",
+        "order": 10
+      },
+      {
+        "__typename": "Image",
+        "id": "aa63ab21625549c6a6ce97bad7e242c1",
+        "url": "https://cdn.prod.rexby.com/image/aa63ab21625549c6a6ce97bad7e242c1",
+        "order": 11
+      },
+      {
+        "__typename": "Image",
+        "id": "40c0d890729247cf83a6fdaf153e6f1e",
+        "url": "https://cdn.prod.rexby.com/image/40c0d890729247cf83a6fdaf153e6f1e",
+        "order": 12
+      },
+      {
+        "__typename": "Image",
+        "id": "b3ff1c43d4c441249f002d5f170eed91",
+        "url": "https://cdn.prod.rexby.com/image/b3ff1c43d4c441249f002d5f170eed91",
+        "order": 13
+      }
+    ]
+  },
+  {
+    "id": "x8AVSA8wSYm3sk1fYhQnVA",
+    "title": "Артистично бягство в планината",
+    "slug": "artistichno-byagstvo-v-planinata",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎨 Избягай в истинско произведение на изкуството в сърцето на Витоша, в хижа „Кукер“ – красиво реновирано място за отдих само на кратко разстояние с кола от София\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌲 Ще я откриеш сгушена в района на Златните мостове\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Хижата е лесно достъпна, разположена само на около 50 метра от най-близкия паркинг, което я прави идеална отправна точка за разходки по околните планински пътеки.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚌 Можеш да стигнеш до тук и с автобус №63 от центъра на града \"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍓 Непременно опитай таратора им, пържените филийки, мекиците и сирената им \"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "hostel",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.6120042",
+      "lng": "23.239399"
+    },
+    "locationName": "Хижа „Кукер“",
+    "address": null,
+    "website": "http://www.kukerbg.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Sofia City",
+      "Stolichna"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "8e1a84b23f9d4d909316b2e46cc2262d",
+        "url": "https://cdn.prod.rexby.com/image/8e1a84b23f9d4d909316b2e46cc2262d",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "b243d25eac11423fac5be9b2a04fdb4b",
+        "url": "https://cdn.prod.rexby.com/image/b243d25eac11423fac5be9b2a04fdb4b",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "6181bb0066a745ab9b2cba8398819c64",
+        "url": "https://cdn.prod.rexby.com/image/6181bb0066a745ab9b2cba8398819c64",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "f2e14ab5bfee457fa9bb34b82347f1f7",
+        "url": "https://cdn.prod.rexby.com/image/f2e14ab5bfee457fa9bb34b82347f1f7",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "862945a1118b4af18506a31f2ca32900",
+        "url": "https://cdn.prod.rexby.com/image/862945a1118b4af18506a31f2ca32900",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "fd689510eb7745a5aceb1ace77b6adde",
+        "url": "https://cdn.prod.rexby.com/image/fd689510eb7745a5aceb1ace77b6adde",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "0f859076092e4656aa446e389673f85e",
+        "url": "https://cdn.prod.rexby.com/image/0f859076092e4656aa446e389673f85e",
+        "order": 6
+      },
+      {
+        "__typename": "Video",
+        "id": "57bf9fa69f5d4b01af4443519cca7523",
+        "order": 7,
+        "mp4Url": "https://cdn.prod.rexby.com/57bf9fa69f5d4b01af4443519cca7523/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/57bf9fa69f5d4b01af4443519cca7523/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/57bf9fa69f5d4b01af4443519cca7523/thumbnails/2"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/57bf9fa69f5d4b01af4443519cca7523/thumbnails/0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ZPgxWjpWTaSOHLVwmTBIcg",
+    "title": "Бягство в гората, само на минути от София",
+    "slug": "byagstvo-v-gorata-samo-na-minuti-ot-sofiya",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Nomad Retreat е буквално в гората над Ярема, в подножието на Витоша – само на около 30–40 минути от центъра на София, но усещането е сякаш си на часове от града.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 Има външно jacuzzi под звездите и сауна\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🥾 Какво можеш да правиш:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"hiking маршрути около Ярема и Витоша\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"разходки директно от къщичката\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"barbecue и вечери навън\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"stargazing от jacuzzi-то ✨\"}]}]}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "villa",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.5001641",
+      "lng": "23.339138"
+    },
+    "locationName": "Nomad Retreat",
+    "address": null,
+    "website": "https://nomad-retreat.com/?fbclid=PAQ0xDSwL5YANleHRuA2FlbQIxMQABp1sM7Angn0g1hfEQ03BTF0tg18DmpXrl4SdWKUnSe7eQpjV3R_9-uR1oHEOC_aem_yND9pm1vDcXIPqFhf8TrSQ",
+    "regionNames": [
+      "Bulgaria",
+      "Sofia",
+      "Samokov"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "9c8a6fdb2000442290043b245623d960",
+        "url": "https://cdn.prod.rexby.com/image/9c8a6fdb2000442290043b245623d960",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "bd8f49a87e0c4ae4be1d8133e59591e4",
+        "url": "https://cdn.prod.rexby.com/image/bd8f49a87e0c4ae4be1d8133e59591e4",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "6a900b92525a45edb9e0f60d00a9532f",
+        "url": "https://cdn.prod.rexby.com/image/6a900b92525a45edb9e0f60d00a9532f",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "577c5658f12f481480e6862052f97a0d",
+        "url": "https://cdn.prod.rexby.com/image/577c5658f12f481480e6862052f97a0d",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "466f55169d0d49398fe4f838a6a43242",
+        "url": "https://cdn.prod.rexby.com/image/466f55169d0d49398fe4f838a6a43242",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "9d46e1f76ee84c1b94b8df87e64428db",
+        "url": "https://cdn.prod.rexby.com/image/9d46e1f76ee84c1b94b8df87e64428db",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "b18f87b6abfb4c83a3b2cfd76022dec6",
+        "url": "https://cdn.prod.rexby.com/image/b18f87b6abfb4c83a3b2cfd76022dec6",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "-8poaHo9QmC7QQGJd5_Pvg",
+    "title": "Вино и нощувка в замък 🍷🏰",
+    "slug": "vino-i-noshuvka-v-zamuk",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Да прекараш нощ в замък сред лозята и да пиеш вино там, където е създадено – това е Copsa 🍷🏰\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Chateau Copsa е комбинация от винарна, замък и бутиково преживяване в сърцето на Розовата долина\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏰 Тук имаш избор, който рядко се среща:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- да спиш в каменен замък с кули и античен интериор\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- или в модерен арт хотел със съвременно излъчване\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Храната и виното са центърът на всичко:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"собствена винарна с уникални сортове\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"дегустации и дори създаване на собствено вино\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"ресторанти с гледки към лозята и залеза\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧖‍♀️ Има и релакс зона, но пак в контекста на мястото:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- външен басейн сред природата\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- сауна и терапии\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Какви преживявания още имат: \"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍷 дегустации и wine blending (създаваш свое вино)\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧺 пикник сред лозята с вино и храна\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎨 рисуване с вино и арт събития\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🐎 конна езда и разходки\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧘 йога и активности сред природата\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "winery",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.6477581",
+      "lng": "24.7060272"
+    },
+    "locationName": "Шато Копса",
+    "address": null,
+    "website": "http://copsa.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Plovdiv",
+      "Karlovo"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "4cc7bff7428948db89cf64fc6a06397c",
+        "url": "https://cdn.prod.rexby.com/image/4cc7bff7428948db89cf64fc6a06397c",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "553e808bb4b247eb82faac3a46c3357b",
+        "url": "https://cdn.prod.rexby.com/image/553e808bb4b247eb82faac3a46c3357b",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "219b07881fa6463ba6e34fcad4b44e98",
+        "url": "https://cdn.prod.rexby.com/image/219b07881fa6463ba6e34fcad4b44e98",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "cf2c8f75c7c042aebc52fba5c54b8c00",
+        "url": "https://cdn.prod.rexby.com/image/cf2c8f75c7c042aebc52fba5c54b8c00",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "4891b2bf629349e7909b6222b619a3f1",
+        "url": "https://cdn.prod.rexby.com/image/4891b2bf629349e7909b6222b619a3f1",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "58520de895c4444e98afb8fd2a2ee2db",
+        "url": "https://cdn.prod.rexby.com/image/58520de895c4444e98afb8fd2a2ee2db",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "f2ad30678e5343c1918dfcbf34998365",
+        "url": "https://cdn.prod.rexby.com/image/f2ad30678e5343c1918dfcbf34998365",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "Xj9E395YTpyfasANPbj86g",
+    "title": "Дървени къщички на ръба на борова гора",
+    "slug": "durveni-kushichki-na-ruba-na-borova-gora",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏡 Къщичките са изградени в алпийски стил, изцяло от естествени материали – дърво, камък и огромни прозорци с гледка към Чепън планина. Най-впечатляващата е Forest Log Chalet – дървена къща от масивни трупи със зелен покрив, собствена билкова сауна и външно джакузи сред гората.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🦌 Оглеждай се – наоколо често минават сърнички, които посещават мястото.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"💍 Тук често се провеждат горски сватби и малки private събития, така че особено лятото е добре да резервираш поне 1 месец по-рано\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "villa",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.9977818",
+      "lng": "23.0718164"
+    },
+    "locationName": "Бутиков комплекс Форест Хаусис",
+    "address": null,
+    "website": "http://foresthouses.eu/",
+    "regionNames": [
+      "Bulgaria",
+      "Sofia",
+      "Godech"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "efde3040d486468692b16c9f67f4db03",
+        "url": "https://cdn.prod.rexby.com/image/efde3040d486468692b16c9f67f4db03",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "68f88fbdfa914f2c809d03655ae70668",
+        "url": "https://cdn.prod.rexby.com/image/68f88fbdfa914f2c809d03655ae70668",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "e24698889a4240bba1f51cb9429904d8",
+        "url": "https://cdn.prod.rexby.com/image/e24698889a4240bba1f51cb9429904d8",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "4a55c0eb908f4f64a6870496b4f0dc58",
+        "url": "https://cdn.prod.rexby.com/image/4a55c0eb908f4f64a6870496b4f0dc58",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "0b70aae774df479196779c73b00ac4d3",
+        "url": "https://cdn.prod.rexby.com/image/0b70aae774df479196779c73b00ac4d3",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "c51841abd2194513a55ae20b4eb8c230",
+        "url": "https://cdn.prod.rexby.com/image/c51841abd2194513a55ae20b4eb8c230",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "b4d0829876eb45a1a7a3e06c15370e76",
+        "url": "https://cdn.prod.rexby.com/image/b4d0829876eb45a1a7a3e06c15370e76",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "U6P5CCY-QSuMUhtqSPXk3w",
+    "title": "Приказно бягство в гората 🌲✨",
+    "slug": "prikazno-byagstvo-v-gorata",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Omaya Eco Village е малко еко селище, създадено като отделен свят, в което можеш да заспиш в къща от глина насред гората и да се събудиш като в приказка \"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏡 Настаняваш се в ръчно изградени къщички от глина и дърво – всяка различна, с органични форми и усещане за нещо почти магично.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Храната също е част от преживяването - имат ресторант с био продукти и местна кухня, възможност да ядеш край езерото (с предварителна резервация) и дори можеш да си хванеш риба и да ти я приготвят на място 🎣\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚣 Имаш възможност и за пикници с готови кошници сред природата, басейн сред гората, барбекю, колело, игри, разходки\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "villa",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.4380422",
+      "lng": "23.7349542"
+    },
+    "locationName": "Еко селище Омая",
+    "address": null,
+    "website": "https://omayavillage.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Blagoevgrad",
+      "Hadzhidimovo"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "5915bcf831cf495ebce41cab209bb604",
+        "url": "https://cdn.prod.rexby.com/image/5915bcf831cf495ebce41cab209bb604",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "7165b1745e074a5c812b4872a4e7a621",
+        "url": "https://cdn.prod.rexby.com/image/7165b1745e074a5c812b4872a4e7a621",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "481550c931a14eed9fa5aeaf10ba57fb",
+        "url": "https://cdn.prod.rexby.com/image/481550c931a14eed9fa5aeaf10ba57fb",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "f2fe8bbc979b45babd6772fabe3ec177",
+        "url": "https://cdn.prod.rexby.com/image/f2fe8bbc979b45babd6772fabe3ec177",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "4a1864192d0e45d5923e053c23b0eace",
+        "url": "https://cdn.prod.rexby.com/image/4a1864192d0e45d5923e053c23b0eace",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "af88140a421c4bfd84f9b3b3929a3fe0",
+        "url": "https://cdn.prod.rexby.com/image/af88140a421c4bfd84f9b3b3929a3fe0",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "feca83d54a71426da59ce2062d81356e",
+        "url": "https://cdn.prod.rexby.com/image/feca83d54a71426da59ce2062d81356e",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "badf1fe5bab04d79b17c87e445a95738",
+        "url": "https://cdn.prod.rexby.com/image/badf1fe5bab04d79b17c87e445a95738",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "c4a59f6115ec468bb414e03e34ce0af2",
+        "url": "https://cdn.prod.rexby.com/image/c4a59f6115ec468bb414e03e34ce0af2",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "aba4d55b4fce4e30be145e1ed0b2e143",
+        "url": "https://cdn.prod.rexby.com/image/aba4d55b4fce4e30be145e1ed0b2e143",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "f32c06d30d4b4bdbb7b336945ed20fb9",
+        "url": "https://cdn.prod.rexby.com/image/f32c06d30d4b4bdbb7b336945ed20fb9",
+        "order": 10
+      },
+      {
+        "__typename": "Image",
+        "id": "8adf3604b791491bb1e0b62e417c4272",
+        "url": "https://cdn.prod.rexby.com/image/8adf3604b791491bb1e0b62e417c4272",
+        "order": 11
+      },
+      {
+        "__typename": "Image",
+        "id": "5fc8d6d60dab46e68439c5ad8692a984",
+        "url": "https://cdn.prod.rexby.com/image/5fc8d6d60dab46e68439c5ad8692a984",
+        "order": 12
+      }
+    ]
+  },
+  {
+    "id": "6YPCR7i7RWuVU53UqeoNqQ",
+    "title": "Бягство в гората с гледка към връх Соколица",
+    "slug": "byagstvo-v-gorata-s-gledka-kum-vruh-sokolica",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Villa Morava е скрито място край Пампорово, където не си част от курорта, а малко извън него – достатъчно близо за активности и достатъчно далеч за спокойствие.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏡 Настаняваш се в самостоятелна вила с много пространство, големи прозорци към гората и външно джакузи и сауна\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Няма ресторант на място – и точно това ти дава свобода:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- барбекю и вечери навън 🔥\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- кухня за готвене\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- или кратко излизане до Пампорово \"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"💡 Кога е най-доброто време да посетиш?\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Лято (юли–август) → най-много събития и фестивали (Гайдарски събор в село Гела)\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Зима (януари) → кукерски ритуали\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Пролет/есен → по-тихо, но по-автентично ежедневие, събиране на билки и гъби\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "villa",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.62146660000001",
+      "lng": "24.7075073"
+    },
+    "locationName": "Вила \"Морава",
+    "address": null,
+    "website": "https://liam-recommends.com/vila-morava-bulgaria",
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Smolyan"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "53146c2971754776ab52abf37f4c4fb9",
+        "url": "https://cdn.prod.rexby.com/image/53146c2971754776ab52abf37f4c4fb9",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "d8991cf9ef7b4554b95b3d9f8aa97abc",
+        "url": "https://cdn.prod.rexby.com/image/d8991cf9ef7b4554b95b3d9f8aa97abc",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "4e72a8666728411d946a68a6e9fb3a73",
+        "url": "https://cdn.prod.rexby.com/image/4e72a8666728411d946a68a6e9fb3a73",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "b8faa87523464ba6b2ce89f55f64f1a3",
+        "url": "https://cdn.prod.rexby.com/image/b8faa87523464ba6b2ce89f55f64f1a3",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "7808a2bb706d427380cd81b7729f622b",
+        "url": "https://cdn.prod.rexby.com/image/7808a2bb706d427380cd81b7729f622b",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "9209344281fb477ebdcc5088478ab144",
+        "url": "https://cdn.prod.rexby.com/image/9209344281fb477ebdcc5088478ab144",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "85bdf20b48634f7d8fd7539f3e576942",
+        "url": "https://cdn.prod.rexby.com/image/85bdf20b48634f7d8fd7539f3e576942",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "cfa3f631da4c437db8afd6114fd3c65b",
+        "url": "https://cdn.prod.rexby.com/image/cfa3f631da4c437db8afd6114fd3c65b",
+        "order": 7
+      }
+    ]
+  },
+  {
+    "id": "OE6Al_a_QoaZ7_z9XtXImQ",
+    "title": "Реновирани каменни родопски къщи,",
+    "slug": "renovirani-kamenni-rodopski-kushi",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Това е пространство, създадено от хора, които наистина живеят там – и това се усеща във всеки детайл\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏡 Настаняваш се в реновирани каменни родопски къщи, хамбар или дори каравана за романтици – всяко със собствен вход, кухня и веранда с гледка\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Тук няма класически ресторант – и точно това е идеята.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"можеш да си готвиш сам\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"или да си поръчаш автентична родопска храна\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"или да направиш преживяване като пикник, следобеден чай или raclette вечеря\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎯 Какво можеш да правиш тук:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧺 родопски пикник с гледка\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"☕ следобеден чай като малък ритуал\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎲 настолни игри и бавни вечери\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💻 дори remote work (има работни пространства)\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌲 разходки, билки, гъби, планина навсякъде около теб\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "homes",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.7620315",
+      "lng": "24.6729744"
+    },
+    "locationName": "\"Нашето място\"",
+    "address": null,
+    "website": "https://ourplacezornitsa.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Chepelare"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "77288a2af34f4cc3b9ea51f9de957feb",
+        "url": "https://cdn.prod.rexby.com/image/77288a2af34f4cc3b9ea51f9de957feb",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "348b92d630c04f48a651e4866e09ec1a",
+        "url": "https://cdn.prod.rexby.com/image/348b92d630c04f48a651e4866e09ec1a",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "9540d90000e84b1cb61d6868f46bb3d3",
+        "url": "https://cdn.prod.rexby.com/image/9540d90000e84b1cb61d6868f46bb3d3",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "e42e7a317a664d0388091bd15920545a",
+        "url": "https://cdn.prod.rexby.com/image/e42e7a317a664d0388091bd15920545a",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "a5416803652b4a99b3020ae1a897a665",
+        "url": "https://cdn.prod.rexby.com/image/a5416803652b4a99b3020ae1a897a665",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "c86b309f456c417b969582450ebd0df3",
+        "url": "https://cdn.prod.rexby.com/image/c86b309f456c417b969582450ebd0df3",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "8ea56a3db0b548d39345119f9a480d6f",
+        "url": "https://cdn.prod.rexby.com/image/8ea56a3db0b548d39345119f9a480d6f",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "d71a4087d39c42288a8c944aa6954e16",
+        "url": "https://cdn.prod.rexby.com/image/d71a4087d39c42288a8c944aa6954e16",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "72ad3f1959f64e84939691dfbfda8c6f",
+        "url": "https://cdn.prod.rexby.com/image/72ad3f1959f64e84939691dfbfda8c6f",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "5c23a1b170b04c3c948fff35ecbab70f",
+        "url": "https://cdn.prod.rexby.com/image/5c23a1b170b04c3c948fff35ecbab70f",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "c64a4c829f05401fa4101f3bbd842396",
+        "url": "https://cdn.prod.rexby.com/image/c64a4c829f05401fa4101f3bbd842396",
+        "order": 10
+      },
+      {
+        "__typename": "Image",
+        "id": "fc3c360943b2410c869dde29b67551e2",
+        "url": "https://cdn.prod.rexby.com/image/fc3c360943b2410c869dde29b67551e2",
+        "order": 11
+      },
+      {
+        "__typename": "Image",
+        "id": "645e10c3971e44e5931352e27f788f68",
+        "url": "https://cdn.prod.rexby.com/image/645e10c3971e44e5931352e27f788f68",
+        "order": 12
+      },
+      {
+        "__typename": "Image",
+        "id": "84f1247408864b9aa2cdd4981970aee0",
+        "url": "https://cdn.prod.rexby.com/image/84f1247408864b9aa2cdd4981970aee0",
+        "order": 13
+      }
+    ]
+  },
+  {
+    "id": "sFF9XO8jQeabZedpNdRCeg",
+    "title": "Уют и домашно приготвена храна",
+    "slug": "uyut-i-domashno-prigotvena-hrana",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏡 Малък семеен хотел с внимание към детайла – уютен интериор, модерно усещане и гледки, които те карат просто да спреш и да се насладиш.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Ресторантът е една от най-силните страни – домашна родопска кухня с местни продукти, приготвена както трябва. Това не е “хотелска храна”, а истински вкус от региона 🧀🥩\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\" Какво можеш да правиш наоколо:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🥾 преходи в Родопите и панорамни маршрути\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏔️ изкачване на връх Перелик\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌲 разходки до Орфееви скали и гледки към планината\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎶 потапяне в местната култура и музика (Гела е известна с гайдарските събори)\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 разходки до Широка лъка и други автентични родопски села\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"❄️ зимата – ски в Пампорово (на кратко разстояние)\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "hotel",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.6486915",
+      "lng": "24.5674174"
+    },
+    "locationName": "Хотел Гела",
+    "address": null,
+    "website": "https://hotelgela.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Smolyan",
+      "Smolyan"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "1530e1b2b305437f9e6495a8a23e1768",
+        "url": "https://cdn.prod.rexby.com/image/1530e1b2b305437f9e6495a8a23e1768",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "57c7d82af447457f95fc00e781d885d9",
+        "url": "https://cdn.prod.rexby.com/image/57c7d82af447457f95fc00e781d885d9",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "f0f17fd6ccab44189ed7387f6f2fb686",
+        "url": "https://cdn.prod.rexby.com/image/f0f17fd6ccab44189ed7387f6f2fb686",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "4220c10112e34380839226a3412ecb25",
+        "url": "https://cdn.prod.rexby.com/image/4220c10112e34380839226a3412ecb25",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "f324750464b44880be1714f679aca23c",
+        "url": "https://cdn.prod.rexby.com/image/f324750464b44880be1714f679aca23c",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "820a3b81931047fca3b70ed1d4b0fdd6",
+        "url": "https://cdn.prod.rexby.com/image/820a3b81931047fca3b70ed1d4b0fdd6",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "778da82049bd44f381611cc29351b414",
+        "url": "https://cdn.prod.rexby.com/image/778da82049bd44f381611cc29351b414",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "3b06ab7cd5114deb8bc2ae0e94a528d4",
+        "url": "https://cdn.prod.rexby.com/image/3b06ab7cd5114deb8bc2ae0e94a528d4",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "f7a8cdedb3c5411da0c4111b0f2ddce6",
+        "url": "https://cdn.prod.rexby.com/image/f7a8cdedb3c5411da0c4111b0f2ddce6",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "2a66ae05e4a24b62902c9541f31c3433",
+        "url": "https://cdn.prod.rexby.com/image/2a66ae05e4a24b62902c9541f31c3433",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "16ead868cfd141ffa5c2a87a0cb2cfc4",
+        "url": "https://cdn.prod.rexby.com/image/16ead868cfd141ffa5c2a87a0cb2cfc4",
+        "order": 10
+      },
+      {
+        "__typename": "Image",
+        "id": "a80669168a6641039dabac979a8f8f9d",
+        "url": "https://cdn.prod.rexby.com/image/a80669168a6641039dabac979a8f8f9d",
+        "order": 11
+      }
+    ]
+  },
+  {
+    "id": "6psKEHhLTmupytCtQwqZZw",
+    "title": "Юрта, типи или куполна къща",
+    "slug": "yurta-tipi-ili-kupolna-kusha",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Dengri Eco Resorts е единствено по рода си място в България – тук не отиваш просто за басейн, а за цялостно преживяване сред природата.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🛖 Настаняваш се в юрта, типи или куполна къща – изглежда диво отвън, но вътре е уютно и добре измислено. Истински глемпинг, без да жертваш комфорта.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧖‍♀️ Има и СПА – сауна, руска баня, масажи и външен басейн, така че си взимаш и дозата релакс, но без да е основният фокус.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎯 Истинското тук са нещата извън стаята:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🐎 можеш да яздиш\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🐐 да се разходиш из малката ферма\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🔥 вечер да седиш край огъня\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎶 често има музика и събития\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌲 или просто да се изгубиш по горските пътеки\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍳 Сутрин ставаш бавно, с чист въздух и спокойствие – от онези места, където нямаш нужда да правиш нищо, за да ти е хубаво.\"}]},{\"type\":\"paragraph\"},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💡 Ще ти хареса, ако търсиш нещо различно – не просто СПА уикенд, а комбинация от природа, активности и леко приключение.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "hotel",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.03009840000001",
+      "lng": "24.0277202"
+    },
+    "locationName": "Dengri Eco Resorts",
+    "address": null,
+    "website": "https://dengri.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Pazardzhik",
+      "Velingrad"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "16eb0d991c6e44089cf41ad0db21ab5d",
+        "url": "https://cdn.prod.rexby.com/image/16eb0d991c6e44089cf41ad0db21ab5d",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "6fc845048bd949939f704003b1c62512",
+        "url": "https://cdn.prod.rexby.com/image/6fc845048bd949939f704003b1c62512",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "05f5711492534886a79bc5f2e7e57618",
+        "url": "https://cdn.prod.rexby.com/image/05f5711492534886a79bc5f2e7e57618",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "d9337373af0f4856a11fe208466e3501",
+        "url": "https://cdn.prod.rexby.com/image/d9337373af0f4856a11fe208466e3501",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "d52f73184b4d4aeca4793d07d6ad7fd9",
+        "url": "https://cdn.prod.rexby.com/image/d52f73184b4d4aeca4793d07d6ad7fd9",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "9cc1d10ed8c44d06a6f16e7915c25863",
+        "url": "https://cdn.prod.rexby.com/image/9cc1d10ed8c44d06a6f16e7915c25863",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "264acbe48b5e4c72a88f54078d62596e",
+        "url": "https://cdn.prod.rexby.com/image/264acbe48b5e4c72a88f54078d62596e",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "768151e9ef6e4509b1e121907facc2c0",
+        "url": "https://cdn.prod.rexby.com/image/768151e9ef6e4509b1e121907facc2c0",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "a13d571094654f5e98261fa76e7ec8b9",
+        "url": "https://cdn.prod.rexby.com/image/a13d571094654f5e98261fa76e7ec8b9",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "baf77e40347e42b4819fee5beac374d2",
+        "url": "https://cdn.prod.rexby.com/image/baf77e40347e42b4819fee5beac374d2",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "649cd2ee1a5c489ba72cc1cd1a6fa297",
+        "url": "https://cdn.prod.rexby.com/image/649cd2ee1a5c489ba72cc1cd1a6fa297",
+        "order": 10
+      },
+      {
+        "__typename": "Image",
+        "id": "7cfd745d2c194815a3c5a3b67648e74b",
+        "url": "https://cdn.prod.rexby.com/image/7cfd745d2c194815a3c5a3b67648e74b",
+        "order": 11
+      },
+      {
+        "__typename": "Image",
+        "id": "96909b2deb384a64b830337b9bfc7810",
+        "url": "https://cdn.prod.rexby.com/image/96909b2deb384a64b830337b9bfc7810",
+        "order": 12
+      },
+      {
+        "__typename": "Image",
+        "id": "398174fdfd76423ba9277532c082063c",
+        "url": "https://cdn.prod.rexby.com/image/398174fdfd76423ba9277532c082063c",
+        "order": 13
+      },
+      {
+        "__typename": "Image",
+        "id": "58a5a532188f41d2bdb32dfcb68f4e84",
+        "url": "https://cdn.prod.rexby.com/image/58a5a532188f41d2bdb32dfcb68f4e84",
+        "order": 14
+      }
+    ]
+  },
+  {
+    "id": "49AwhXi6T16qF421R9iedQ",
+    "title": "Къщички от глина и кино под звездите",
+    "slug": "kushichki-ot-glina-i-kino-pod-zvezdite",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Cob Camp не е стандартно място за настаняване, а малък експеримент в устойчивото живеене – построен изцяло от естествени материали и ръчно оформени пространства, без индустриална намеса\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏡 Къщичките тук са направени от cob (смес от глина, пясък, слама и вода) – оформени на ръка, с меки, органични линии.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌱 Отглеждат сами част от зеленчуците и билките си, а идеята е да се храниш с това, което реално расте около теб – просто, истинско и без “хотелско” усещане\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "hotel",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.2254982",
+      "lng": "24.0245854"
+    },
+    "locationName": "Cob Camp (12+)",
+    "address": null,
+    "website": "https://cobcampclub.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Pazardzhik",
+      "Belovo"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "fab4dd03dd624223a3f7d89170c80d93",
+        "url": "https://cdn.prod.rexby.com/image/fab4dd03dd624223a3f7d89170c80d93",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "b06e026fc4b741b4ac3fd232cc301981",
+        "url": "https://cdn.prod.rexby.com/image/b06e026fc4b741b4ac3fd232cc301981",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "9ec3bd37255f45b7b2c2a6e4d8cf386b",
+        "url": "https://cdn.prod.rexby.com/image/9ec3bd37255f45b7b2c2a6e4d8cf386b",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "d4b21df6d9d342218848a16a44427d6c",
+        "url": "https://cdn.prod.rexby.com/image/d4b21df6d9d342218848a16a44427d6c",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "8f7b29b374ea48468df88111abcc6443",
+        "url": "https://cdn.prod.rexby.com/image/8f7b29b374ea48468df88111abcc6443",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "ebc71926022e4ed1966015d43d502db2",
+        "url": "https://cdn.prod.rexby.com/image/ebc71926022e4ed1966015d43d502db2",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "6be870c9efe14b32a4c73f8daf3fbee9",
+        "url": "https://cdn.prod.rexby.com/image/6be870c9efe14b32a4c73f8daf3fbee9",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "7e0e7f3bd9c9453b99b6c80dd0e3449c",
+        "url": "https://cdn.prod.rexby.com/image/7e0e7f3bd9c9453b99b6c80dd0e3449c",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "6f62fad5f0f3422aa056d0bcac7f7451",
+        "url": "https://cdn.prod.rexby.com/image/6f62fad5f0f3422aa056d0bcac7f7451",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "86a5bd760e6e4dccb25d24ac0cc70efd",
+        "url": "https://cdn.prod.rexby.com/image/86a5bd760e6e4dccb25d24ac0cc70efd",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "1acf9f36ad7a4365a8b08e5caa8a36a7",
+        "url": "https://cdn.prod.rexby.com/image/1acf9f36ad7a4365a8b08e5caa8a36a7",
+        "order": 10
+      },
+      {
+        "__typename": "Image",
+        "id": "e03348e9fa5741f9ad4ae247044025c8",
+        "url": "https://cdn.prod.rexby.com/image/e03348e9fa5741f9ad4ae247044025c8",
+        "order": 11
+      },
+      {
+        "__typename": "Image",
+        "id": "ccb13c2152be406099f8dddee1a1a62e",
+        "url": "https://cdn.prod.rexby.com/image/ccb13c2152be406099f8dddee1a1a62e",
+        "order": 12
+      },
+      {
+        "__typename": "Image",
+        "id": "893769ecd3514cdf9e71e3be018bc6e0",
+        "url": "https://cdn.prod.rexby.com/image/893769ecd3514cdf9e71e3be018bc6e0",
+        "order": 13
+      },
+      {
+        "__typename": "Image",
+        "id": "6ea3ddf6e2e648eeae7eebf2a2fe644d",
+        "url": "https://cdn.prod.rexby.com/image/6ea3ddf6e2e648eeae7eebf2a2fe644d",
+        "order": 14
       }
     ]
   }
