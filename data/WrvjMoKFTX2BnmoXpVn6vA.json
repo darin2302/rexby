@@ -3739,7 +3739,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 153
+      "amount": 152
     },
     "media": [
       {
@@ -5602,8 +5602,8 @@
     "title": "Unique Hotel Experience",
     "slug": "unique-hotel-experience",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"The main hotel of the blue lagoon. With this one you get entry to the main lagoon but also a private one only for hotel guests. The breakfast is also truly amazing\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "hotel",
     "secondaryCategories": null,
@@ -5615,6 +5615,19 @@
       "currency": "EUR",
       "amount": 624
     },
+    "location": {
+      "lat": "63.88084850000001",
+      "lng": "-22.4420751"
+    },
+    "locationName": "Silica Hotel",
+    "address": null,
+    "website": "https://www.bluelagoon.com/accommodation/silica-hotel",
+    "regionNames": [
+      "Iceland",
+      "Southern Peninsula",
+      "Grindavíkurbær"
+    ],
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -5796,7 +5809,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 208
+      "amount": 217
     },
     "location": {
       "lat": "66.148642",
@@ -13252,7 +13265,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 244
+      "amount": 243
     },
     "location": {
       "lat": "64.1513058",
@@ -13943,8 +13956,8 @@
     "title": "Island hotel",
     "slug": "island-hotel",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"A TRULY UNIQUE PLACE. Hotel Flatey is situated in the centre of the old village on Flatey, in the very heart of Breiðafjörður. To get here you have to hop on a ferry that takes you out to this tiny island. It's a bit of a mission but absolutely worth it.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "hotel",
     "secondaryCategories": null,
@@ -14011,7 +14024,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 305
+      "amount": 303
     },
     "location": {
       "lat": "65.0770261",
@@ -14243,8 +14256,8 @@
     "title": "Glass cabin",
     "slug": "glass-cabin",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Perfect for catching the northern lights or just sleep under the stars. Each cabin come with a private jacuzzi.\\nBook in advance, these cabins are frequently sold out.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "hotel",
     "secondaryCategories": null,
@@ -14253,6 +14266,19 @@
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "63.8476582",
+      "lng": "-20.3459297"
+    },
+    "locationName": "Glass cottages Iceland",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Iceland",
+      "Southern Region",
+      "Rangárþing ytra"
+    ],
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -14285,8 +14311,8 @@
     "title": "Glass Cabin",
     "slug": "glass-cabin-1",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"This is the original Panorama Glass Lodge. They have two locations, one on the south coast and this one in West Iceland. Here in the west, you are overlooking the fjord and all cabins are facing north to maximise chances to see northern lights.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Each cabin has it's own hot tub, and small kitchen.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"The cabins are extremely popular and they book up VERY far in advance.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Privacy should not be a concern as each cabin has a privacy fence and shade system.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "hotel",
     "secondaryCategories": null,
@@ -14295,6 +14321,19 @@
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "64.5040417",
+      "lng": "-21.9432556"
+    },
+    "locationName": "Panorama Glass Lodge West",
+    "address": null,
+    "website": "https://panoramaglasslodge.com/",
+    "regionNames": [
+      "Iceland",
+      "Western Region",
+      "Hvalfjarðarsveit"
+    ],
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -14462,7 +14501,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 195
+      "amount": 194
     },
     "location": {
       "lat": "63.992603",

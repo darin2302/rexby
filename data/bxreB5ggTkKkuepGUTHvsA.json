@@ -67,6 +67,65 @@
     ]
   },
   {
+    "id": "pIV1qwEgSwinRpx2O_Rd3g",
+    "title": "Stunning hidden lakes in Bulgaria",
+    "slug": "stunning-hidden-lakes-in-bulgaria",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Gotse Delchev hut can be reached by car on a nice road. From here I recommend you take a lift to the Bezbog hut.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎟️ The price of the lift in one direction is BGN 18. In both directions it is BGN 28.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍You follow the path to Popovo Lake. When you get to it, pass on its right side and you will notice a wooden sign that points to Tevno Lake. You follow it and after another hour and a half, you will reach the lakes.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ It will take you 4 hours in one direction with breaks and photos along the way.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "hike",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "41.701731",
+      "lng": "23.500526"
+    },
+    "locationName": "Kralevdvorski Lakes",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Blagoevgrad",
+      "Sandanski"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "e9dfe9e554984e87a53b6d803dc50f9d",
+        "url": "https://cdn.prod.rexby.com/image/e9dfe9e554984e87a53b6d803dc50f9d",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "34b145ff518741f0bce4a6eedeff8aa0",
+        "url": "https://cdn.prod.rexby.com/image/34b145ff518741f0bce4a6eedeff8aa0",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "304224e049064b0c9c37182c061bddf0",
+        "url": "https://cdn.prod.rexby.com/image/304224e049064b0c9c37182c061bddf0",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "70398630ea9f4f3ba28042587a4e7447",
+        "url": "https://cdn.prod.rexby.com/image/70398630ea9f4f3ba28042587a4e7447",
+        "order": 3
+      }
+    ]
+  },
+  {
     "id": "wXt9HK_vSoeNPIPcs33yrA",
     "title": "The hidden turquoise waters of Bulgaria",
     "slug": "the-hidden-turquoise-waters-of-bulgaria",
@@ -234,6 +293,83 @@
         "id": "7361dfea-63f7-41ae-8858-4976f65da671",
         "url": "https://cdn.prod.rexby.com/image/7361dfea-63f7-41ae-8858-4976f65da671",
         "order": 2
+      }
+    ]
+  },
+  {
+    "id": "NcGtAFZpRXaDy7EP8LI77g",
+    "title": "A beam of light illuminates the place",
+    "slug": "a-beam-of-light-illuminates-the-place",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 The road to the village of Karpachevo is perfect. However, the last 3 km of the road to the cave is black and you have two options.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 First is to park here: 43.2236002, 25.0020390, and walk 40 minutes in the direction of the cave.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 The second option is to cross the dirt road and park the car right next to the indicated place of the cave. The road is relatively flat, although not good. We went through it with the Subaru Legacy.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⏳☀️ On sunny days, you can observe how magically a ray sneaks into the cave. In each season, the moment when it happens is different.\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "sightseeing",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": "VeryShort",
+    "estimatedPrice": null,
+    "location": {
+      "lat": "43.2176998",
+      "lng": "24.9731776"
+    },
+    "locationName": "Stalbitsata Cave",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Lovech",
+      "Letnitsa"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "fefb46596666481ba2db44552c8c01e4",
+        "url": "https://cdn.prod.rexby.com/image/fefb46596666481ba2db44552c8c01e4",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "2898425092c842b4a86e9f0f0f5836d4",
+        "url": "https://cdn.prod.rexby.com/image/2898425092c842b4a86e9f0f0f5836d4",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "2f2b840053a443a081498b87ad7aff4b",
+        "url": "https://cdn.prod.rexby.com/image/2f2b840053a443a081498b87ad7aff4b",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "17508afc79d449beaf49c65a2b2391f4",
+        "url": "https://cdn.prod.rexby.com/image/17508afc79d449beaf49c65a2b2391f4",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "a787551255a746eb99422051043c94d8",
+        "url": "https://cdn.prod.rexby.com/image/a787551255a746eb99422051043c94d8",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "cc8f4ce6773140419ba8d58422cdaf35",
+        "url": "https://cdn.prod.rexby.com/image/cc8f4ce6773140419ba8d58422cdaf35",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "e10c188293b44ddd9b26e1ab9c23b250",
+        "url": "https://cdn.prod.rexby.com/image/e10c188293b44ddd9b26e1ab9c23b250",
+        "order": 6
       }
     ]
   },
@@ -472,83 +608,6 @@
     ]
   },
   {
-    "id": "NcGtAFZpRXaDy7EP8LI77g",
-    "title": "A beam of light illuminates the place",
-    "slug": "a-beam-of-light-illuminates-the-place",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 The road to the village of Karpachevo is perfect. However, the last 3 km of the road to the cave is black and you have two options.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 First is to park here: 43.2236002, 25.0020390, and walk 40 minutes in the direction of the cave.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 The second option is to cross the dirt road and park the car right next to the indicated place of the cave. The road is relatively flat, although not good. We went through it with the Subaru Legacy.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⏳☀️ On sunny days, you can observe how magically a ray sneaks into the cave. In each season, the moment when it happens is different.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "sightseeing",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "VeryShort",
-    "estimatedPrice": null,
-    "location": {
-      "lat": "43.2176998",
-      "lng": "24.9731776"
-    },
-    "locationName": "Stalbitsata Cave",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Lovech",
-      "Letnitsa"
-    ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "fefb46596666481ba2db44552c8c01e4",
-        "url": "https://cdn.prod.rexby.com/image/fefb46596666481ba2db44552c8c01e4",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "2898425092c842b4a86e9f0f0f5836d4",
-        "url": "https://cdn.prod.rexby.com/image/2898425092c842b4a86e9f0f0f5836d4",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "2f2b840053a443a081498b87ad7aff4b",
-        "url": "https://cdn.prod.rexby.com/image/2f2b840053a443a081498b87ad7aff4b",
-        "order": 2
-      },
-      {
-        "__typename": "Image",
-        "id": "17508afc79d449beaf49c65a2b2391f4",
-        "url": "https://cdn.prod.rexby.com/image/17508afc79d449beaf49c65a2b2391f4",
-        "order": 3
-      },
-      {
-        "__typename": "Image",
-        "id": "a787551255a746eb99422051043c94d8",
-        "url": "https://cdn.prod.rexby.com/image/a787551255a746eb99422051043c94d8",
-        "order": 4
-      },
-      {
-        "__typename": "Image",
-        "id": "cc8f4ce6773140419ba8d58422cdaf35",
-        "url": "https://cdn.prod.rexby.com/image/cc8f4ce6773140419ba8d58422cdaf35",
-        "order": 5
-      },
-      {
-        "__typename": "Image",
-        "id": "e10c188293b44ddd9b26e1ab9c23b250",
-        "url": "https://cdn.prod.rexby.com/image/e10c188293b44ddd9b26e1ab9c23b250",
-        "order": 6
-      }
-    ]
-  },
-  {
     "id": "8aEsYmxlQ1qviRAzTcd0Bg",
     "title": "A waterfall you can walk under",
     "slug": "a-waterfall-you-can-walk-under",
@@ -704,23 +763,6 @@
     },
     "duration": "Long",
     "estimatedPrice": null,
-    "location": {
-      "lat": "42.758681",
-      "lng": "25.1147134"
-    },
-    "locationName": "Mazalat hut",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Stara Zagora",
-      "Pavel Banya"
-    ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
     "media": [
       {
         "__typename": "Image",
@@ -3166,8 +3208,8 @@
     "title": "Winter jewel near Borovets",
     "slug": "winter-jewel-near-borovets",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍It is located 10 km from Borovets, and the road that connects Borovets and Beli Iskar is like a forest fairy tale.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏂 After a tiring day on the ski slopes, this is the perfect place to warm up in the outdoor sauna while watching the snowflakes outside.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👩‍💻 There are separate work and share rooms.\\n🍔 Their food is prepared with a lot of love, attention to detail and diligence.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "hotel",
     "secondaryCategories": null,
@@ -3176,6 +3218,19 @@
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "42.2737998",
+      "lng": "23.5395717"
+    },
+    "locationName": "Hotel Cota1110",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Sofia",
+      "Samokov"
+    ],
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -11650,8 +11705,8 @@
     "title": "Boutique hotel in the city center",
     "slug": "boutique-hotel-in-the-city-center",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💸 In my opinion, the quality-price ratio is great.\"}]},{\"type\":\"paragraph\"},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧑‍🎨 The hotel has been recently renovated, with each of the rooms inspired by a different artist.\"}]},{\"type\":\"paragraph\"},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 I recommend you to choose \\\"The Thread\\\" room - it is the most beautiful and spacious.\"}]},{\"type\":\"paragraph\"},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ It is located at a 15-minute walking distance from the Alexander Nevsky Cathedral and is located on the most beautiful street in the city.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "hotel",
     "secondaryCategories": null,
@@ -11660,6 +11715,19 @@
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "42.694415",
+      "lng": "23.3454978"
+    },
+    "locationName": "Oborishte 63 Boutique Hotel",
+    "address": null,
+    "website": "https://oborishte63.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Sofia City",
+      "Stolichna"
+    ],
+    "detail": {},
     "media": [
       {
         "__typename": "Video",
@@ -11750,8 +11818,8 @@
     "title": "Luxurious thermal villas in Bulgaria",
     "slug": "luxurious-thermal-villas-in-bulgaria",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🤽‍♀️ Cypress trees separate the villas and each has its pool with mineral water.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👨‍👩‍👧 Up to 6 people can sleep in them - there are three bedrooms with large bedrooms.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Downstairs there is enough space for all guests and a large kitchen with everything you need.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍍 The owners are very nice and recommend nice places to eat in the surrounding area.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🐎 The equestrian center they recommend is also great - part of my map is here. It's called \\\"Perivolas\\\"\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "villa",
     "secondaryCategories": null,
@@ -11760,6 +11828,23 @@
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "41.8761106",
+      "lng": "23.5310389"
+    },
+    "locationName": "Solis Thermal Villas",
+    "address": null,
+    "website": "https://www.solisthermalvillas.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Blagoevgrad",
+      "Razlog"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
     "media": [
       {
         "__typename": "Image",
@@ -11810,8 +11895,8 @@
     "title": "Luxurious and cozy rooms await",
     "slug": "luxurious-and-cozy-rooms-await",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🤽‍♀️ The hotel has a huge spa with the most diverse spa procedures, including author's rituals, steam bath with herbs, ice and salt room, several pools with mineral water and others\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍍 I find the cuisine delicious and varied\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌺 I recommend you try their Lavender Lemonade and visit the Trake store with their organic candles and creams\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 The location is very convenient for visiting Kazanlak and the places in the area\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "hotel",
     "secondaryCategories": null,
@@ -11820,6 +11905,19 @@
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "42.6008433",
+      "lng": "25.2097055"
+    },
+    "locationName": "Grand Resort Pavel Banya",
+    "address": null,
+    "website": "https://pavelbanyagrand.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Stara Zagora",
+      "Pavel Banya"
+    ],
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -11963,48 +12061,6 @@
         "__typename": "Image",
         "id": "8fc5cd5e477a4d03a3ad6c9faa5fb924",
         "url": "https://cdn.prod.rexby.com/image/8fc5cd5e477a4d03a3ad6c9faa5fb924",
-        "order": 3
-      }
-    ]
-  },
-  {
-    "id": "pIV1qwEgSwinRpx2O_Rd3g",
-    "title": "Stunning hidden lakes in Bulgaria",
-    "slug": "stunning-hidden-lakes-in-bulgaria",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Gotse Delchev hut can be reached by car on a nice road. From here I recommend you take a lift to the Bezbog hut.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎟️ The price of the lift in one direction is BGN 18. In both directions it is BGN 28.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍You follow the path to Popovo Lake. When you get to it, pass on its right side and you will notice a wooden sign that points to Tevno Lake. You follow it and after another hour and a half, you will reach the lakes.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⌛ It will take you 4 hours in one direction with breaks and photos along the way.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "hike",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": null,
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "e9dfe9e554984e87a53b6d803dc50f9d",
-        "url": "https://cdn.prod.rexby.com/image/e9dfe9e554984e87a53b6d803dc50f9d",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "34b145ff518741f0bce4a6eedeff8aa0",
-        "url": "https://cdn.prod.rexby.com/image/34b145ff518741f0bce4a6eedeff8aa0",
-        "order": 1
-      },
-      {
-        "__typename": "Image",
-        "id": "304224e049064b0c9c37182c061bddf0",
-        "url": "https://cdn.prod.rexby.com/image/304224e049064b0c9c37182c061bddf0",
-        "order": 2
-      },
-      {
-        "__typename": "Image",
-        "id": "70398630ea9f4f3ba28042587a4e7447",
-        "url": "https://cdn.prod.rexby.com/image/70398630ea9f4f3ba28042587a4e7447",
         "order": 3
       }
     ]
@@ -12278,8 +12334,8 @@
     "title": "A fairytale castle with a spa",
     "slug": "a-fairytale-castle-with-a-spa",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏰 The exterior and interior of this place will immerse you in fairy tales.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💧 Perfect place for a weekend getaway with mineral pools.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍏 The food in the restaurant was also delicious. I recommend you to have dinner there at least one night.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "hotel",
     "secondaryCategories": null,
@@ -12288,6 +12344,19 @@
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "41.611899",
+      "lng": "23.798001"
+    },
+    "locationName": "Royal Valentina Castle",
+    "address": null,
+    "website": "http://royalvalentinacastle.com/",
+    "regionNames": [
+      "Bulgaria",
+      "Blagoevgrad",
+      "Garmen"
+    ],
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -13192,8 +13261,8 @@
     "title": "Comfort, Wine, and Lavender Dreams",
     "slug": "comfort-wine-and-lavender-dreams",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🪻 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"I recommend visiting around early June\"},{\"type\":\"text\",\"text\":\", when the lavender fields are in full bloom. Make sure to check out a few of them in the area.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍷 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"There’s a wide selection of truly impressive wineries nearby.\"},{\"type\":\"text\",\"text\":\" If you have the chance, I suggest visiting \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Midalidare Estate\"},{\"type\":\"text\",\"text\":\" and \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"LONA est VIA\"},{\"type\":\"text\",\"text\":\". It’s a good idea to call ahead and book a spot for a tasting tour.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"The place is accessible via a regular asphalt road and can be reached with any type of vehicle.\"},{\"type\":\"text\",\"text\":\" There’s also plenty of free parking space along the side.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "hotel",
     "secondaryCategories": null,
@@ -13202,6 +13271,23 @@
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "42.351004",
+      "lng": "25.18965589999999"
+    },
+    "locationName": "Villa Appia",
+    "address": null,
+    "website": "http://villaappia.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Stara Zagora",
+      "Bratya Daskalovi"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
     "media": [
       {
         "__typename": "Image",
@@ -13252,8 +13338,8 @@
     "title": " Heavenly spot above Kyustendil",
     "slug": "roman-villas-as-trade-hubs",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"😍 The villa is even more beautiful in person!\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"⛱️ It features two heated pools – one outdoor and one indoor – with a stunning panoramic view over Kyustendil, located in a very peaceful area.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🌲 Just a 3-minute drive from the villa, you can take a walk among centuries-old sequoias – one of the region’s natural landmarks.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"👨‍👩‍👧 The villa accommodates up to 13 guests and offers a spacious kitchen, barbecue area, and outdoor dining space.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "villa",
     "secondaryCategories": null,
@@ -13262,6 +13348,23 @@
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "42.26298269999999",
+      "lng": "22.6832065"
+    },
+    "locationName": "Villa Rustic",
+    "address": null,
+    "website": "http://www.villarustic.eu/",
+    "regionNames": [
+      "Bulgaria",
+      "Kyustendil",
+      "Kyustendil"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
     "media": [
       {
         "__typename": "Image",
@@ -13832,8 +13935,8 @@
     "title": "Escape in the Forest, Minutes from Sofia",
     "slug": "escape-in-the-forest-minutes-from-sofia",
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Nomad Retreat is literally hidden in the forest above Yarema, at the foot of Vitosha Mountain — only about 30–40 minutes from the center of Sofia, yet it feels like you’re hours away from the city.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 It features an outdoor jacuzzi under the stars and a sauna.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🥾 What you can do here:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"hiking trails around Yarema and Vitosha\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"walks starting directly from the cabin\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"barbecue and outdoor dinners\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"stargazing from the jacuzzi ✨\"}]}]}]}]}",
-    "isOpen": false,
-    "isSecret": true,
+    "isOpen": true,
+    "isSecret": false,
     "isTopFavorited": false,
     "primaryCategory": "villa",
     "secondaryCategories": null,
@@ -13842,6 +13945,23 @@
     },
     "duration": null,
     "estimatedPrice": null,
+    "location": {
+      "lat": "42.5001641",
+      "lng": "23.339138"
+    },
+    "locationName": "Nomad Retreat",
+    "address": null,
+    "website": "https://nomad-retreat.com/?fbclid=PAQ0xDSwL5YANleHRuA2FlbQIxMQABp1sM7Angn0g1hfEQ03BTF0tg18DmpXrl4SdWKUnSe7eQpjV3R_9-uR1oHEOC_aem_yND9pm1vDcXIPqFhf8TrSQ",
+    "regionNames": [
+      "Bulgaria",
+      "Sofia",
+      "Samokov"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
     "media": [
       {
         "__typename": "Image",
