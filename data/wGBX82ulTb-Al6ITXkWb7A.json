@@ -625,6 +625,85 @@
     ]
   },
   {
+    "id": "f8yK_hp-SRiIqyDeY76t4w",
+    "title": "Телепортирай се в 1872 г. ",
+    "slug": "teleportiraj-se-v-1872-g",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Това е единственият музей на фармацията в България\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎟️ Вход за възрастен: 4 € \"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🕰️ Отдели си около 30 минути, за да разгледаш на спокойствие \"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🚗 Паркираш в Синя зона и изпращаш SMS с номера на колата на 1332. Работното време е от 08:30 до 18:30ч., от понеделник до събота.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "museum",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.1488975",
+      "lng": "24.7522579"
+    },
+    "locationName": "Музейна аптека „Хипократ“",
+    "address": null,
+    "website": "http://www.oldplovdiv.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Plovdiv",
+      "Plovdiv"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Video",
+        "id": "24233db9a308464fa2c86d3364c8ccdb",
+        "order": 0,
+        "mp4Url": "https://cdn.prod.rexby.com/24233db9a308464fa2c86d3364c8ccdb/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/24233db9a308464fa2c86d3364c8ccdb/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/24233db9a308464fa2c86d3364c8ccdb/thumbnails/1"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/24233db9a308464fa2c86d3364c8ccdb/thumbnails/0"
+        }
+      },
+      {
+        "__typename": "Image",
+        "id": "407c12969b5747ba8a04564cd14abdc0",
+        "url": "https://cdn.prod.rexby.com/image/407c12969b5747ba8a04564cd14abdc0",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "726cb54b398740c9a1307dfd4dfe7616",
+        "url": "https://cdn.prod.rexby.com/image/726cb54b398740c9a1307dfd4dfe7616",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "442815c14ea24d89bf9c55564c43dc1f",
+        "url": "https://cdn.prod.rexby.com/image/442815c14ea24d89bf9c55564c43dc1f",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "7c5c4ef2645d468da3fd9e1071fedc3b",
+        "url": "https://cdn.prod.rexby.com/image/7c5c4ef2645d468da3fd9e1071fedc3b",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "7ce62531dda54edfb47c9493d9670fb3",
+        "url": "https://cdn.prod.rexby.com/image/7ce62531dda54edfb47c9493d9670fb3",
+        "order": 5
+      }
+    ]
+  },
+  {
     "id": "TEMQX3UqSnW3lgKmCSsUmA",
     "title": "Любимо място за наблюдаване на изгреви и залези",
     "slug": "lyubimo-myasto-za-nablyudavane-na-izgrevi-i-zalezi",
@@ -15273,9 +15352,9 @@
   },
   {
     "id": "-8poaHo9QmC7QQGJd5_Pvg",
-    "title": "Вино и нощувка в замък 🍷🏰",
+    "title": "Вино в замък 🍷🏰",
     "slug": "vino-i-noshuvka-v-zamuk",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Да прекараш нощ в замък сред лозята и да пиеш вино там, където е създадено – това е Copsa 🍷🏰\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Chateau Copsa е комбинация от винарна, замък и бутиково преживяване в сърцето на Розовата долина\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏰 Тук имаш избор, който рядко се среща:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- да спиш в каменен замък с кули и античен интериор\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- или в модерен арт хотел със съвременно излъчване\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Храната и виното са центърът на всичко:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"собствена винарна с уникални сортове\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"дегустации и дори създаване на собствено вино\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"ресторанти с гледки към лозята и залеза\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧖‍♀️ Има и релакс зона, но пак в контекста на мястото:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- външен басейн сред природата\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"- сауна и терапии\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Какви преживявания още имат: \"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍷 дегустации и wine blending (създаваш свое вино)\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧺 пикник сред лозята с вино и храна\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎨 рисуване с вино и арт събития\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🐎 конна езда и разходки\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧘 йога и активности сред природата\"}]}]}",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Chateau Copsa е комбинация от винарна, замък и бутиково преживяване в сърцето на Розовата долина\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Храната и виното са центърът на всичко:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"собствена винарна с уникални сортове\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"дегустации и дори създаване на собствено вино\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"ресторанти с гледки към лозята и залеза\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Какви преживявания още имат: \"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍷 дегустации и wine blending (създаваш свое вино)\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🇧🇬 изживявания за традициите в България - розобер и гроздобер\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧺 пикник сред лозята с вино и храна\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎨 рисуване с вино и арт събития\"}]}]}",
     "isOpen": true,
     "isSecret": false,
     "isTopFavorited": false,
@@ -15305,45 +15384,53 @@
     },
     "media": [
       {
-        "__typename": "Image",
-        "id": "4cc7bff7428948db89cf64fc6a06397c",
-        "url": "https://cdn.prod.rexby.com/image/4cc7bff7428948db89cf64fc6a06397c",
-        "order": 0
+        "__typename": "Video",
+        "id": "891fe874ea0843f09949e67f2cdec7e8",
+        "order": 0,
+        "mp4Url": "https://cdn.prod.rexby.com/891fe874ea0843f09949e67f2cdec7e8/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/891fe874ea0843f09949e67f2cdec7e8/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/891fe874ea0843f09949e67f2cdec7e8/thumbnails/1"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/891fe874ea0843f09949e67f2cdec7e8/thumbnails/0"
+        }
       },
       {
         "__typename": "Image",
-        "id": "553e808bb4b247eb82faac3a46c3357b",
-        "url": "https://cdn.prod.rexby.com/image/553e808bb4b247eb82faac3a46c3357b",
+        "id": "b60af57c44514e3597145014b62c3096",
+        "url": "https://cdn.prod.rexby.com/image/b60af57c44514e3597145014b62c3096",
         "order": 1
       },
       {
         "__typename": "Image",
-        "id": "219b07881fa6463ba6e34fcad4b44e98",
-        "url": "https://cdn.prod.rexby.com/image/219b07881fa6463ba6e34fcad4b44e98",
+        "id": "092a6127d958496d99308f805e9858e9",
+        "url": "https://cdn.prod.rexby.com/image/092a6127d958496d99308f805e9858e9",
         "order": 2
       },
       {
         "__typename": "Image",
-        "id": "cf2c8f75c7c042aebc52fba5c54b8c00",
-        "url": "https://cdn.prod.rexby.com/image/cf2c8f75c7c042aebc52fba5c54b8c00",
+        "id": "4a3e9a401e6a4f9abd27dd34f8da0057",
+        "url": "https://cdn.prod.rexby.com/image/4a3e9a401e6a4f9abd27dd34f8da0057",
         "order": 3
       },
       {
         "__typename": "Image",
-        "id": "4891b2bf629349e7909b6222b619a3f1",
-        "url": "https://cdn.prod.rexby.com/image/4891b2bf629349e7909b6222b619a3f1",
+        "id": "57be86d2bbf148e6999937441f3dc5f4",
+        "url": "https://cdn.prod.rexby.com/image/57be86d2bbf148e6999937441f3dc5f4",
         "order": 4
       },
       {
         "__typename": "Image",
-        "id": "58520de895c4444e98afb8fd2a2ee2db",
-        "url": "https://cdn.prod.rexby.com/image/58520de895c4444e98afb8fd2a2ee2db",
+        "id": "9959a0d0f2ba49499da9524d24c5e6e5",
+        "url": "https://cdn.prod.rexby.com/image/9959a0d0f2ba49499da9524d24c5e6e5",
         "order": 5
       },
       {
         "__typename": "Image",
-        "id": "f2ad30678e5343c1918dfcbf34998365",
-        "url": "https://cdn.prod.rexby.com/image/f2ad30678e5343c1918dfcbf34998365",
+        "id": "2ffaeb999b03431d93775a1e2bc1fd7f",
+        "url": "https://cdn.prod.rexby.com/image/2ffaeb999b03431d93775a1e2bc1fd7f",
         "order": 6
       }
     ]
@@ -16094,6 +16181,74 @@
         "id": "6ea3ddf6e2e648eeae7eebf2a2fe644d",
         "url": "https://cdn.prod.rexby.com/image/6ea3ddf6e2e648eeae7eebf2a2fe644d",
         "order": 14
+      }
+    ]
+  },
+  {
+    "id": "2YIhHeA6Qc-w4ZXhWmoBJA",
+    "title": "Ненадмината в украсата си",
+    "slug": "nenadminata-v-ukrasata-si",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎟️ Вход за възрастен: 4 €\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🕰️ Отдели си около 40 минути, за да разгледаш на спокойствие\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Паркираш в Синя зона и изпращаш SMS с номера на колата на 1332. Работното време е от 08:30 до 18:30ч., от понеделник до събота.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌹 Не пропускай впечатляващата вътрешна баня - арабски \\\"хамам\\\". Както и фонтана на втория етаж, от който някога е течала розова вода.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "museum",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Video",
+        "id": "a8575515c60d4e56844be3bcba1230d7",
+        "order": 0,
+        "mp4Url": "https://cdn.prod.rexby.com/a8575515c60d4e56844be3bcba1230d7/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/a8575515c60d4e56844be3bcba1230d7/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/a8575515c60d4e56844be3bcba1230d7/thumbnails/1"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/a8575515c60d4e56844be3bcba1230d7/thumbnails/0"
+        }
+      },
+      {
+        "__typename": "Image",
+        "id": "8122de9955524a40abd708a47da21060",
+        "url": "https://cdn.prod.rexby.com/image/8122de9955524a40abd708a47da21060",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "5659355647d74e1e845e9c572784a592",
+        "url": "https://cdn.prod.rexby.com/image/5659355647d74e1e845e9c572784a592",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "6970f1e13c614ba18dcf7f17d68f41c7",
+        "url": "https://cdn.prod.rexby.com/image/6970f1e13c614ba18dcf7f17d68f41c7",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "a6c88c0b2ae441548fddcfed708b629d",
+        "url": "https://cdn.prod.rexby.com/image/a6c88c0b2ae441548fddcfed708b629d",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "c84ea8c80e0947ba9f1d4c1de9940c2c",
+        "url": "https://cdn.prod.rexby.com/image/c84ea8c80e0947ba9f1d4c1de9940c2c",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "1cf98f295d11406da3ffdaba7429e173",
+        "url": "https://cdn.prod.rexby.com/image/1cf98f295d11406da3ffdaba7429e173",
+        "order": 6
       }
     ]
   }

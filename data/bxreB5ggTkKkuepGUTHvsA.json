@@ -520,6 +520,85 @@
     ]
   },
   {
+    "id": "uoBqpPliTRqlJ-rbeLSxiQ",
+    "title": "Historic Apothecary Museum",
+    "slug": "historic-apothecary-museum",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 This is the only pharmacy museum in Bulgaria\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎟️ Adult admission: €4\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🕰️ Take about 30 minutes to explore in peace\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Park in the Blue Zone and send an SMS with your car number to 1332. Opening hours are from 08:30 to 18:30, Monday to Saturday.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "museum",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.1488975",
+      "lng": "24.7522579"
+    },
+    "locationName": "Hippocrates Museum Pharmacy",
+    "address": null,
+    "website": "http://www.oldplovdiv.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Plovdiv",
+      "Plovdiv"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Video",
+        "id": "2ced7d2cfcb948179eb3fbb72107d7c2",
+        "order": 0,
+        "mp4Url": "https://cdn.prod.rexby.com/2ced7d2cfcb948179eb3fbb72107d7c2/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/2ced7d2cfcb948179eb3fbb72107d7c2/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/2ced7d2cfcb948179eb3fbb72107d7c2/thumbnails/1"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/2ced7d2cfcb948179eb3fbb72107d7c2/thumbnails/0"
+        }
+      },
+      {
+        "__typename": "Image",
+        "id": "234c77b1472b495f9f49a3dba34fa3f6",
+        "url": "https://cdn.prod.rexby.com/image/234c77b1472b495f9f49a3dba34fa3f6",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "e5f94828c0cb4b10b138c8d980cb5621",
+        "url": "https://cdn.prod.rexby.com/image/e5f94828c0cb4b10b138c8d980cb5621",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "169bade512824000957202d3353d1c34",
+        "url": "https://cdn.prod.rexby.com/image/169bade512824000957202d3353d1c34",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "1afdccec0c034e2c9e10deb61f21cf79",
+        "url": "https://cdn.prod.rexby.com/image/1afdccec0c034e2c9e10deb61f21cf79",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "bad8e69b47154b429335bdbee254ea33",
+        "url": "https://cdn.prod.rexby.com/image/bad8e69b47154b429335bdbee254ea33",
+        "order": 5
+      }
+    ]
+  },
+  {
     "id": "CK4xUahWT4qlGio2JalODg",
     "title": "Turquoise Canyon next to the road",
     "slug": "turquoise-canyon-next-to-the-road",
@@ -691,23 +770,6 @@
     "estimatedPrice": {
       "currency": "BGN",
       "amount": 32
-    },
-    "location": {
-      "lat": "41.5154801",
-      "lng": "24.6666064"
-    },
-    "locationName": "Golubovitsa cave & Garga Dere path",
-    "address": null,
-    "website": "http://hodih.com/",
-    "regionNames": [
-      "Bulgaria",
-      "Smolyan",
-      "Smolyan"
-    ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
     },
     "media": [
       {
@@ -14011,7 +14073,7 @@
     "id": "zgCOPQvDTPKmxqQ2Ctka_Q",
     "title": "Winery Escape in Rose Valley",
     "slug": "winery-escape-in-rose-valley",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Spend a night in a castle surrounded by vineyards and drink wine where it’s actually made – this is Copsa 🍷🏰\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Chateau Copsa is a unique blend of a winery, a castle, and a boutique experience in the heart of the Rose Valley\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏰 Here, you get a choice you rarely find:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"stay in a stone castle with towers and antique interiors\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"or in a modern art hotel with a contemporary feel\"}]}]}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Food and wine are at the center of everything:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"their own winery with unique grape varieties\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"tastings and even the chance to create your own wine\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"restaurants with views over the vineyards and sunset\"}]}]}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧖‍♀️ There’s also a relaxation area, still in line with the concept:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"outdoor pool surrounded by nature\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"sauna and spa treatments\"}]}]}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎯 Additional experiences you can enjoy:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🍷 wine tastings and blending (create your own wine)\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🧺 picnic among the vineyards with wine and food\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🎨 wine painting and art events\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🐎 horseback riding and nature walks\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"🧘 yoga and outdoor activities\"}]}]}",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Chateau Copsa is a combination of winery, castle and boutique experience in the heart of the Rose Valley\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍽️ Food and wine are the center of everything:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"own winery with unique varieties\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"tastings and even creating your own wine\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"restaurants with views of the vineyards and sunset\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"What other experiences do they have:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🍷 tastings and wine blending (you create your own wine)\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🇧🇬 experiences about the traditions in Bulgaria - rose picking and grape picking\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧺 picnic among the vineyards with wine and food\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎨 wine painting and art events\"}]}]}",
     "isOpen": true,
     "isSecret": false,
     "isTopFavorited": false,
@@ -14041,46 +14103,60 @@
     },
     "media": [
       {
-        "__typename": "Image",
-        "id": "5c9b47f42b5e4fb5952b7c9adffc881d",
-        "url": "https://cdn.prod.rexby.com/image/5c9b47f42b5e4fb5952b7c9adffc881d",
-        "order": 0
+        "__typename": "Video",
+        "id": "b9c40203bfbe4cabb56b20de9c85800e",
+        "order": 0,
+        "mp4Url": "https://cdn.prod.rexby.com/b9c40203bfbe4cabb56b20de9c85800e/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/b9c40203bfbe4cabb56b20de9c85800e/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/b9c40203bfbe4cabb56b20de9c85800e/thumbnails/1"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/b9c40203bfbe4cabb56b20de9c85800e/thumbnails/0"
+        }
       },
       {
         "__typename": "Image",
-        "id": "196cad6fc8524481bf165164d99039d2",
-        "url": "https://cdn.prod.rexby.com/image/196cad6fc8524481bf165164d99039d2",
+        "id": "8ce59ff8c7e941648b110b51046c4b64",
+        "url": "https://cdn.prod.rexby.com/image/8ce59ff8c7e941648b110b51046c4b64",
         "order": 1
       },
       {
         "__typename": "Image",
-        "id": "0718034134304d9389e87ba3a12fc618",
-        "url": "https://cdn.prod.rexby.com/image/0718034134304d9389e87ba3a12fc618",
+        "id": "cf13437fbfd84d6fa6eaf1883576141e",
+        "url": "https://cdn.prod.rexby.com/image/cf13437fbfd84d6fa6eaf1883576141e",
         "order": 2
       },
       {
         "__typename": "Image",
-        "id": "0dccfdd499c44f2ba2689aacb56979b5",
-        "url": "https://cdn.prod.rexby.com/image/0dccfdd499c44f2ba2689aacb56979b5",
+        "id": "3d12112bee764de8ba62f15786f6a2a5",
+        "url": "https://cdn.prod.rexby.com/image/3d12112bee764de8ba62f15786f6a2a5",
         "order": 3
       },
       {
         "__typename": "Image",
-        "id": "0a887c41f4be43ed95044dc23bd66fa2",
-        "url": "https://cdn.prod.rexby.com/image/0a887c41f4be43ed95044dc23bd66fa2",
+        "id": "0076897301414b899378b7d248d758e3",
+        "url": "https://cdn.prod.rexby.com/image/0076897301414b899378b7d248d758e3",
         "order": 4
       },
       {
         "__typename": "Image",
-        "id": "cec82932922548fda2400aa7c0c3ddaa",
-        "url": "https://cdn.prod.rexby.com/image/cec82932922548fda2400aa7c0c3ddaa",
+        "id": "a118743a3be149788fbf1d7572907a57",
+        "url": "https://cdn.prod.rexby.com/image/a118743a3be149788fbf1d7572907a57",
         "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "45cf7e2f818a45c9879cd048bbfbed4c",
+        "url": "https://cdn.prod.rexby.com/image/45cf7e2f818a45c9879cd048bbfbed4c",
+        "order": 6
       },
       {
         "__typename": "Image",
         "id": "3d29a883f93047f589d0104f4b823f5c",
         "url": "https://cdn.prod.rexby.com/image/3d29a883f93047f589d0104f4b823f5c",
-        "order": 6
+        "order": 7
       }
     ]
   },
@@ -14919,6 +14995,74 @@
         "id": "e95978f5c6f442bc80e5674653b6d7e8",
         "url": "https://cdn.prod.rexby.com/image/e95978f5c6f442bc80e5674653b6d7e8",
         "order": 8
+      }
+    ]
+  },
+  {
+    "id": "y6Tr2Y5vQHmpXjAfe-Tcgg",
+    "title": "Unsurpassed in its decoration",
+    "slug": "unsurpassed-in-its-decoration",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎟️ Adult admission: €4\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🕰️ Take about 40 minutes to explore at your leisure\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 Park in the Blue Zone and send an SMS with your car number to 1332. Opening hours are from 8:30 AM to 6:30 PM, Monday to Saturday.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌹 Don't miss the impressive indoor bath - an Arabic \\\"hammam\\\". As well as the fountain on the second floor, from which rose water once flowed.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "museum",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Video",
+        "id": "30ca7ffc18a54c2c86fa54f27bbfb10f",
+        "order": 0,
+        "mp4Url": "https://cdn.prod.rexby.com/30ca7ffc18a54c2c86fa54f27bbfb10f/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/30ca7ffc18a54c2c86fa54f27bbfb10f/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/30ca7ffc18a54c2c86fa54f27bbfb10f/thumbnails/1"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/30ca7ffc18a54c2c86fa54f27bbfb10f/thumbnails/0"
+        }
+      },
+      {
+        "__typename": "Image",
+        "id": "fe84e13943534137b5d12b09d6e2edc1",
+        "url": "https://cdn.prod.rexby.com/image/fe84e13943534137b5d12b09d6e2edc1",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "b54213c300ca489dbb4425ebd08866ca",
+        "url": "https://cdn.prod.rexby.com/image/b54213c300ca489dbb4425ebd08866ca",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "84eafe8e0709495fb400e98a5042efbe",
+        "url": "https://cdn.prod.rexby.com/image/84eafe8e0709495fb400e98a5042efbe",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "063c232cf5884fb5b32acc2e5603fe85",
+        "url": "https://cdn.prod.rexby.com/image/063c232cf5884fb5b32acc2e5603fe85",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "696b11233967451593ea71bca58cdac9",
+        "url": "https://cdn.prod.rexby.com/image/696b11233967451593ea71bca58cdac9",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "3c2d096f12b94e228c14269a4db6a6f3",
+        "url": "https://cdn.prod.rexby.com/image/3c2d096f12b94e228c14269a4db6a6f3",
+        "order": 6
       }
     ]
   }

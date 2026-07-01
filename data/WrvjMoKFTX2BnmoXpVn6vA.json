@@ -3739,7 +3739,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 152
+      "amount": 149
     },
     "media": [
       {
@@ -4886,7 +4886,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 13
+      "amount": 12
     },
     "media": [
       {
@@ -9743,7 +9743,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 19
+      "amount": 18
     },
     "media": [
       {
@@ -10417,7 +10417,7 @@
     "duration": "VeryShort",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 19
+      "amount": 18
     },
     "media": [
       {
@@ -13265,7 +13265,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 243
+      "amount": 238
     },
     "location": {
       "lat": "64.1513058",
@@ -14024,7 +14024,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 303
+      "amount": 297
     },
     "location": {
       "lat": "65.0770261",
@@ -14501,7 +14501,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 194
+      "amount": 190
     },
     "location": {
       "lat": "63.992603",
