@@ -174,7 +174,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 98
+      "amount": 99
     },
     "location": {
       "lat": "64.1164891",
@@ -249,7 +249,7 @@
     },
     "locationName": "Northern Lights Tour",
     "address": null,
-    "website": "https://www.icelandia.com/tours/northern-lights-small-group-tour",
+    "website": null,
     "regionNames": [
       "Iceland",
       "Capital Region",
@@ -311,7 +311,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 216
+      "amount": 227
     },
     "location": {
       "lat": "64.2562828",
@@ -637,17 +637,13 @@
     },
     "locationName": "Hótel Jökulsarlon - Glacier Lagoon Hotel",
     "address": null,
-    "website": "https://www.booking.com/hotel/is/jokulsarlon.is.html",
+    "website": null,
     "regionNames": [
       "Iceland",
       "Eastern Region",
       "Sveitarfélagið Hornafjörðu"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -1511,7 +1507,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 146
+      "amount": 147
     },
     "location": {
       "lat": "63.9906293",
@@ -1965,7 +1961,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 109
+      "amount": 110
     },
     "location": {
       "lat": "64.0477153",
@@ -2059,7 +2055,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 270
+      "amount": 272
     },
     "location": {
       "lat": "63.6409082",
@@ -2393,11 +2389,7 @@
       "Southern Region",
       "Grímsnes- og Grafningshreppur"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -2684,7 +2676,7 @@
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"The most blue ice caves of Iceland are found in Vatnajökull glacier. The crystal ice cave has incredible clear and blue ice and if you want the best ice cave experience this is the one you want to visit. \"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"If you are visiting in winter, try to go at sunset. On a clear day the sun shines at the opening of the cave making the ice look like gold\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"The ice caves in Vatnajökull are only accessible in winter and by super jeep. I recommend going with Arctic Adventures, they always have great guides that creates a good adventure.\"}]}]}",
     "isOpen": true,
     "isSecret": false,
-    "isTopFavorited": true,
+    "isTopFavorited": false,
     "primaryCategory": "activity",
     "secondaryCategories": null,
     "categoryClass": {
@@ -2693,7 +2685,7 @@
     "duration": "Long",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 208
+      "amount": 210
     },
     "location": {
       "lat": "64.047866",
@@ -3272,7 +3264,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 47
+      "amount": 48
     },
     "location": {
       "lat": "65.6308975",
@@ -3569,7 +3561,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 312
+      "amount": 315
     },
     "location": {
       "lat": "64.1644209",
@@ -3621,7 +3613,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 130
+      "amount": 132
     },
     "location": {
       "lat": "65.0598369",
@@ -3739,7 +3731,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 149
+      "amount": 152
     },
     "media": [
       {
@@ -3892,7 +3884,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 104
+      "amount": 105
     },
     "location": {
       "lat": "65.6320927",
@@ -4122,7 +4114,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 130
+      "amount": 132
     },
     "location": {
       "lat": "63.4431594",
@@ -4195,7 +4187,7 @@
     "duration": "Medium",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 98
+      "amount": 99
     },
     "location": {
       "lat": "63.879078",
@@ -4634,7 +4626,7 @@
     "duration": "Medium",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 130
+      "amount": 132
     },
     "location": {
       "lat": "66.0720214",
@@ -4780,7 +4772,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 130
+      "amount": 139
     },
     "location": {
       "lat": "64.8604495",
@@ -4886,7 +4878,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 12
+      "amount": 13
     },
     "media": [
       {
@@ -4943,7 +4935,7 @@
     "duration": "Long",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 364
+      "amount": 368
     },
     "location": {
       "lat": "63.879659",
@@ -5613,7 +5605,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 624
+      "amount": 630
     },
     "location": {
       "lat": "63.88084850000001",
@@ -5751,7 +5743,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 208
+      "amount": 210
     },
     "location": {
       "lat": "65.7993698",
@@ -5809,7 +5801,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 217
+      "amount": 219
     },
     "location": {
       "lat": "66.148642",
@@ -6759,7 +6751,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 312
+      "amount": 315
     },
     "location": {
       "lat": "64.1466465",
@@ -7215,7 +7207,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 188
+      "amount": 189
     },
     "location": {
       "lat": "64.0035109",
@@ -7353,7 +7345,7 @@
     "duration": "ExtremelyLong",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 572
+      "amount": 578
     },
     "media": [
       {
@@ -7969,7 +7961,7 @@
     "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Perlan museum is a great place to visit while in Reykjavik, especially for kids and rainy days. You can easily spend a few hours here. All of their exhibits are awesome, especially the artificial ice cave you can visit all year around. - If you're unable to visit any other ice cave in Iceland, come here!\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Plus, they also have a Northern Lights show in their planetarium included with your admission.\"}]}]}",
     "isOpen": true,
     "isSecret": false,
-    "isTopFavorited": false,
+    "isTopFavorited": true,
     "primaryCategory": "activity",
     "secondaryCategories": null,
     "categoryClass": {
@@ -8416,7 +8408,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 89
+      "amount": 90
     },
     "location": {
       "lat": "66.0462101",
@@ -8574,7 +8566,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 47
+      "amount": 48
     },
     "location": {
       "lat": "65.3029698",
@@ -8642,7 +8634,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 229
+      "amount": 231
     },
     "location": {
       "lat": "64.00964350000001",
@@ -9743,7 +9735,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 18
+      "amount": 19
     },
     "media": [
       {
@@ -10417,7 +10409,7 @@
     "duration": "VeryShort",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 18
+      "amount": 19
     },
     "media": [
       {
@@ -10498,7 +10490,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 156
+      "amount": 158
     },
     "location": {
       "lat": "65.8434649",
@@ -10574,7 +10566,7 @@
     "duration": "Medium",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 73
+      "amount": 74
     },
     "location": {
       "lat": "63.86059400000001",
@@ -10732,7 +10724,7 @@
     "duration": "Medium",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 26
+      "amount": 27
     },
     "location": {
       "lat": "64.13775090000001",
@@ -10938,7 +10930,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 312
+      "amount": 315
     },
     "location": {
       "lat": "63.4359176",
@@ -11014,7 +11006,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 104
+      "amount": 105
     },
     "location": {
       "lat": "66.0451081",
@@ -11126,7 +11118,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 539
+      "amount": 544
     },
     "location": {
       "lat": "63.95417989999999",
@@ -11309,7 +11301,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 125
+      "amount": 126
     },
     "location": {
       "lat": "66.00745239999999",
@@ -11515,7 +11507,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 22
+      "amount": 24
     },
     "media": [
       {
@@ -11775,7 +11767,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 401
+      "amount": 405
     },
     "location": {
       "lat": "63.8999153",
@@ -12308,7 +12300,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 208
+      "amount": 210
     },
     "location": {
       "lat": "64.3102277",
@@ -12644,7 +12636,7 @@
     "duration": "Medium",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 136
+      "amount": 137
     },
     "location": {
       "lat": "64.2288584",
@@ -12802,7 +12794,7 @@
     "duration": "Medium",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 104
+      "amount": 105
     },
     "location": {
       "lat": "64.89838",
@@ -13153,7 +13145,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 312
+      "amount": 315
     },
     "location": {
       "lat": "63.4181322",
@@ -13265,7 +13257,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 238
+      "amount": 242
     },
     "location": {
       "lat": "64.1513058",
@@ -14024,7 +14016,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 297
+      "amount": 303
     },
     "location": {
       "lat": "65.0770261",
@@ -14501,7 +14493,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 190
+      "amount": 194
     },
     "location": {
       "lat": "63.992603",
@@ -15011,7 +15003,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 240
+      "amount": 242
     },
     "location": {
       "lat": "63.41907320000001",
@@ -15182,7 +15174,7 @@
     "duration": "VeryLong",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 260
+      "amount": 263
     },
     "location": {
       "lat": "63.63141280000001",
@@ -16244,36 +16236,6 @@
         "__typename": "Image",
         "id": "b6584693-c28f-4f26-916d-818f5b11d094",
         "url": "https://cdn.prod.rexby.com/image/b6584693-c28f-4f26-916d-818f5b11d094",
-        "order": 1
-      }
-    ]
-  },
-  {
-    "id": "uKdCLGYrRjWEq4FOQuUdXw",
-    "title": "Hidden gem in North Iceland",
-    "slug": "hidden-gem-in-north-iceland",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Fosslaug Hot Spring is an idyllic and hidden gem located in North Iceland, offering travelers an unforgettable experience. The hot spring is surrounded by lush green landscape with a stunning view of the distant horizon. It features a cold-water stream flowing through the river and a mud floor, and the water is carefully designed to be conducive for soaking and relaxing. Visitors can enjoy a peaceful bath with a beautiful view without having to pay any entrance fees. The surrounding area near Fosslaug also offers other activities and attractions such as Reykjafoss waterfall, Kolugljufur gorge, Glaumbaer turf houses, Grafarkirkja turf church and more. It is a unique and serene experience suitable for anyone looking to get away from the hustle and bustle of life.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "hot_spring",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": null,
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "9f6f3279-300c-4149-baef-7186a926aef6",
-        "url": "https://cdn.prod.rexby.com/image/9f6f3279-300c-4149-baef-7186a926aef6",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "49435068-8230-4ded-a2b9-a17840add38b",
-        "url": "https://cdn.prod.rexby.com/image/49435068-8230-4ded-a2b9-a17840add38b",
         "order": 1
       }
     ]
@@ -18342,36 +18304,6 @@
     ]
   },
   {
-    "id": "ZAMQATgyRHOt3i9oQAmeWg",
-    "title": "Petting zoo and horse rides",
-    "slug": "petting-zoo-and-horse-rides",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Finnsstaðir is a family-run business located just four minutes away from the town Egilsstaðir. Aside from their guesthouse and horse rental, one of its main attractions is its Petting Zoo from May - September. Here guests are invited to get an up close look at some of Iceland's native animals such as lambs, calves, pigs, ducklings, rabbits and guinea pigs.\"}]}]}",
-    "isOpen": false,
-    "isSecret": true,
-    "isTopFavorited": false,
-    "primaryCategory": "wildlife",
-    "secondaryCategories": null,
-    "categoryClass": {
-      "name": "Experience"
-    },
-    "duration": "VeryShort",
-    "estimatedPrice": null,
-    "media": [
-      {
-        "__typename": "Image",
-        "id": "1297afb8331a44979d28903f29e5105f",
-        "url": "https://cdn.prod.rexby.com/image/1297afb8331a44979d28903f29e5105f",
-        "order": 0
-      },
-      {
-        "__typename": "Image",
-        "id": "667170bd15a74e4c9965b19b8a30157d",
-        "url": "https://cdn.prod.rexby.com/image/667170bd15a74e4c9965b19b8a30157d",
-        "order": 1
-      }
-    ]
-  },
-  {
     "id": "m1Tf1kEQTQqZDgrfEDJc2A",
     "title": "Delicious, Michelin recognized seafood & wine",
     "slug": "delicious-michelin-recognized-seafood-and-wine",
@@ -20399,11 +20331,7 @@
       "Iceland",
       "Vestmannaeyjabær"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -21192,11 +21120,7 @@
       "Southern Region",
       "Rangárþing ytra"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -21480,11 +21404,7 @@
       "Southern Region",
       "Rangárþing eystra"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -21541,6 +21461,36 @@
         "poster": {
           "url": "https://cdn.prod.rexby.com/5c643268f20d4bb49444bac746936814/thumbnails/0"
         }
+      }
+    ]
+  },
+  {
+    "id": "gbOZdjQ9QMetnfgsVjDMVg",
+    "title": "Riverside Camping by Faxi Waterfall",
+    "slug": "riverside-camping-by-faxi-waterfall",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Great campsite in the golden circle right next to Faxi waterfall\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "campsite",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "9b344296bb0340e5b96bab5d09d633fc",
+        "url": "https://cdn.prod.rexby.com/image/9b344296bb0340e5b96bab5d09d633fc",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "a260977f3e4742edbb902ed9b1fe22ef",
+        "url": "https://cdn.prod.rexby.com/image/a260977f3e4742edbb902ed9b1fe22ef",
+        "order": 1
       }
     ]
   }

@@ -1,5 +1,98 @@
 [
   {
+    "id": "FPWnW8sNTUWcbnHZADyslw",
+    "title": "The Lake That Disappears 🤯",
+    "slug": "the-lake-that-disappears",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Dry Lake (Suhoto Ezero)\"},{\"type\":\"text\",\"text\":\" is one of the most unique glacial lakes in the Rila Mountains. Its name isn't a coincidence—during \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"late summer and early autumn\"},{\"type\":\"text\",\"text\":\", the lake often dries up almost completely in dry years, while in \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"spring and early summer\"},{\"type\":\"text\",\"text\":\", it's filled with crystal-clear snowmelt, making it the best time to visit.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🚗 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"The trail starts from Kirilova Polyana\"},{\"type\":\"text\",\"text\":\", located about \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"7 km past the Rila Monastery\"},{\"type\":\"text\",\"text\":\". There's a spacious parking area, a freshwater spring, and a restaurant where you can leave your car before starting the hike.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"The trail begins behind the spring\"},{\"type\":\"text\",\"text\":\". Follow the signs for \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"\\\"Dry Lake (Suhoto Ezero)\\\"\"},{\"type\":\"text\",\"text\":\" and the \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"green trail markers\"},{\"type\":\"text\",\"text\":\". The route is part of the \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"European E4 hiking trail\"},{\"type\":\"text\",\"text\":\" and is also known as the \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Botanical Trail\"},{\"type\":\"text\",\"text\":\", thanks to the wide variety of alpine plants you'll encounter along the way. Expect peaceful forests, scenic meadows, and beautiful mountain viewpoints.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"⏳ \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"The hike takes around 1 hour 45 minutes to 2 hours one way\"},{\"type\":\"text\",\"text\":\". It's a moderately challenging trail, suitable for anyone with a reasonable level of fitness. If you want to see the lake at its fullest, plan your visit between \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"May and July\"},{\"type\":\"text\",\"text\":\". During \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"August, September, and October\"},{\"type\":\"text\",\"text\":\", you may find it partially or completely dry—which is exactly how it got its name.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "hike",
+    "secondaryCategories": [
+      "activity"
+    ],
+    "categoryClass": {
+      "name": "Experience"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.1664126",
+      "lng": "23.4190099"
+    },
+    "locationName": "Dry Lake",
+    "address": null,
+    "website": null,
+    "regionNames": [
+      "Bulgaria",
+      "Kyustendil",
+      "Rila"
+    ],
+    "detail": {
+      "activityLevel": null,
+      "seasonality": "AllSeasons",
+      "ageRequirement": "AllAges"
+    },
+    "media": [
+      {
+        "__typename": "Video",
+        "id": "ae3447ec-7ed2-4dc3-a245-6ebc2c54661d",
+        "order": 0,
+        "mp4Url": "https://cdn.prod.rexby.com/ae3447ec-7ed2-4dc3-a245-6ebc2c54661d/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/ae3447ec-7ed2-4dc3-a245-6ebc2c54661d/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/ae3447ec-7ed2-4dc3-a245-6ebc2c54661d/thumbnails/0"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/ae3447ec-7ed2-4dc3-a245-6ebc2c54661d/thumbnails/0"
+        }
+      },
+      {
+        "__typename": "Image",
+        "id": "c6969964ded94fb1914c46927c1406dc",
+        "url": "https://cdn.prod.rexby.com/image/c6969964ded94fb1914c46927c1406dc",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "9e08a838636f4dda98b5935ebf740b15",
+        "url": "https://cdn.prod.rexby.com/image/9e08a838636f4dda98b5935ebf740b15",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "dfea41ae7b22467f965e96edd0673c9d",
+        "url": "https://cdn.prod.rexby.com/image/dfea41ae7b22467f965e96edd0673c9d",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "e61f46c147f3478382bb7c80ef6560bb",
+        "url": "https://cdn.prod.rexby.com/image/e61f46c147f3478382bb7c80ef6560bb",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "d37f59843cde4ae9a8a17b9a6dafca7b",
+        "url": "https://cdn.prod.rexby.com/image/d37f59843cde4ae9a8a17b9a6dafca7b",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "ed8c364029d0421c9740167ccd6e5e5d",
+        "url": "https://cdn.prod.rexby.com/image/ed8c364029d0421c9740167ccd6e5e5d",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "bf3d41f140da453aa35b79c3d6d9f67c",
+        "url": "https://cdn.prod.rexby.com/image/bf3d41f140da453aa35b79c3d6d9f67c",
+        "order": 7
+      }
+    ]
+  },
+  {
     "id": "02m5bEjoTwWNnhl1nDTE1Q",
     "title": "The most beautiful and unpopular location near Vratsa",
     "slug": "the-most-beautiful-and-unpopular-location-near-vratsa",
@@ -701,23 +794,6 @@
     },
     "duration": "VeryShort",
     "estimatedPrice": null,
-    "location": {
-      "lat": "42.4130743",
-      "lng": "22.6846313"
-    },
-    "locationName": "Polska Skakavitsa Waterfall",
-    "address": null,
-    "website": null,
-    "regionNames": [
-      "Bulgaria",
-      "Kyustendil",
-      "Kyustendil"
-    ],
-    "detail": {
-      "activityLevel": 1,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
     "media": [
       {
         "__typename": "Image",
@@ -6125,7 +6201,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "BGN",
-      "amount": 26
+      "amount": 27
     },
     "media": [
       {
@@ -11902,11 +11978,7 @@
       "Blagoevgrad",
       "Razlog"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -12771,11 +12843,7 @@
       "Blagoevgrad",
       "Razlog"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -13246,11 +13314,7 @@
       "Blagoevgrad",
       "Garmen"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -13345,11 +13409,7 @@
       "Stara Zagora",
       "Bratya Daskalovi"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -13422,11 +13482,7 @@
       "Kyustendil",
       "Kyustendil"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -13738,11 +13794,7 @@
       "Vidin",
       "Belogradchik"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -13922,11 +13974,7 @@
       "Sofia City",
       "Stolichna"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -13996,7 +14044,7 @@
     "id": "dSPruZosQ-uKJfTASyZzPg",
     "title": "Escape in the Forest, Minutes from Sofia",
     "slug": "escape-in-the-forest-minutes-from-sofia",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"📍 Nomad Retreat is literally hidden in the forest above Yarema, at the foot of Vitosha Mountain — only about 30–40 minutes from the center of Sofia, yet it feels like you’re hours away from the city.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"👉 It features an outdoor jacuzzi under the stars and a sauna.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🥾 What you can do here:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"hiking trails around Yarema and Vitosha\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"walks starting directly from the cabin\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"barbecue and outdoor dinners\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"stargazing from the jacuzzi ✨\"}]}]}]}]}",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💌 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Here's a 5% discount just for you with code: MARIA5\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"Simply mention the code when booking—either by phone or in a message. 🤟🏻\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌲 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"A forest hideaway where all your worries disappear\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🔥 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Evenings by the fire, breakfast in bed, and homemade meals you cook yourself\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧖‍♀️ \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"A jacuzzi and sauna for the ultimate relaxation\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🥾 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Things you can do:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Hike the scenic trails around \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Yarema\"},{\"type\":\"text\",\"text\":\" and \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Vitosha\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Take peaceful walks straight from the cabin\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Enjoy BBQs and outdoor dinners\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Go stargazing from the jacuzzi ✨\"}]}]}]}]}",
     "isOpen": true,
     "isSecret": false,
     "isTopFavorited": false,
@@ -14019,53 +14067,75 @@
       "Sofia",
       "Samokov"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
-        "id": "56ad668704f54b648a516671532d1cd0",
-        "url": "https://cdn.prod.rexby.com/image/56ad668704f54b648a516671532d1cd0",
+        "id": "658d47a80a3e4e50814874419082b7e3",
+        "url": "https://cdn.prod.rexby.com/image/658d47a80a3e4e50814874419082b7e3",
         "order": 0
       },
       {
-        "__typename": "Image",
-        "id": "d5ffd15409024a11828c3ad649739999",
-        "url": "https://cdn.prod.rexby.com/image/d5ffd15409024a11828c3ad649739999",
-        "order": 1
+        "__typename": "Video",
+        "id": "1276ff40-09f4-497e-847f-ebb987766c14",
+        "order": 1,
+        "mp4Url": "https://cdn.prod.rexby.com/1276ff40-09f4-497e-847f-ebb987766c14/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/1276ff40-09f4-497e-847f-ebb987766c14/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/1276ff40-09f4-497e-847f-ebb987766c14/thumbnails/0"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/1276ff40-09f4-497e-847f-ebb987766c14/thumbnails/0"
+        }
       },
       {
         "__typename": "Image",
-        "id": "1312a017b8f742588fa26ece4bc6f41e",
-        "url": "https://cdn.prod.rexby.com/image/1312a017b8f742588fa26ece4bc6f41e",
+        "id": "9c6ca0b2ebd34530af64b2d71cf61156",
+        "url": "https://cdn.prod.rexby.com/image/9c6ca0b2ebd34530af64b2d71cf61156",
         "order": 2
       },
       {
         "__typename": "Image",
-        "id": "c56f9fe608f94743bbf2e9257464b291",
-        "url": "https://cdn.prod.rexby.com/image/c56f9fe608f94743bbf2e9257464b291",
+        "id": "02b6035f36e546ee9f54c40b7dee05fb",
+        "url": "https://cdn.prod.rexby.com/image/02b6035f36e546ee9f54c40b7dee05fb",
         "order": 3
       },
       {
         "__typename": "Image",
-        "id": "71fd1884a4bb445a95edfade856d6708",
-        "url": "https://cdn.prod.rexby.com/image/71fd1884a4bb445a95edfade856d6708",
+        "id": "8fd2a0a3dd554aa4861559d59ef7a5ea",
+        "url": "https://cdn.prod.rexby.com/image/8fd2a0a3dd554aa4861559d59ef7a5ea",
         "order": 4
       },
       {
         "__typename": "Image",
-        "id": "eb8830d5cc1b407da805c116248dd049",
-        "url": "https://cdn.prod.rexby.com/image/eb8830d5cc1b407da805c116248dd049",
+        "id": "16aff0a2cef141c8b0d3ba58b3fd9f1e",
+        "url": "https://cdn.prod.rexby.com/image/16aff0a2cef141c8b0d3ba58b3fd9f1e",
         "order": 5
       },
       {
         "__typename": "Image",
-        "id": "88ed715da3d24edfadaf1298a80e8283",
-        "url": "https://cdn.prod.rexby.com/image/88ed715da3d24edfadaf1298a80e8283",
+        "id": "2736a7060a24460bbf357ff259870a37",
+        "url": "https://cdn.prod.rexby.com/image/2736a7060a24460bbf357ff259870a37",
         "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "ed1767116f444a3f825442b267ac7099",
+        "url": "https://cdn.prod.rexby.com/image/ed1767116f444a3f825442b267ac7099",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "27514fd520af447f97c61641749aa05a",
+        "url": "https://cdn.prod.rexby.com/image/27514fd520af447f97c61641749aa05a",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "bc8cf85ba80f4321b4c66719de2db8e2",
+        "url": "https://cdn.prod.rexby.com/image/bc8cf85ba80f4321b4c66719de2db8e2",
+        "order": 9
       }
     ]
   },
@@ -14187,11 +14257,7 @@
       "Sofia",
       "Godech"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -14264,11 +14330,7 @@
       "Blagoevgrad",
       "Hadzhidimovo"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -14377,11 +14439,7 @@
       "Smolyan",
       "Smolyan"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -14460,11 +14518,7 @@
       "Smolyan",
       "Chepelare"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -14579,11 +14633,7 @@
       "Smolyan",
       "Smolyan"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -14686,11 +14736,7 @@
       "Pazardzhik",
       "Velingrad"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -14811,11 +14857,7 @@
       "Pazardzhik",
       "Belovo"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -14936,11 +14978,7 @@
       "Lovech",
       "Troyan"
     ],
-    "detail": {
-      "activityLevel": null,
-      "seasonality": "AllSeasons",
-      "ageRequirement": "AllAges"
-    },
+    "detail": {},
     "media": [
       {
         "__typename": "Image",
@@ -15063,6 +15101,111 @@
         "id": "3c2d096f12b94e228c14269a4db6a6f3",
         "url": "https://cdn.prod.rexby.com/image/3c2d096f12b94e228c14269a4db6a6f3",
         "order": 6
+      }
+    ]
+  },
+  {
+    "id": "391_9Y4ESCqK3cnTEAnFpQ",
+    "title": "Private luxury villas for relax ",
+    "slug": "private-luxury-villas-for-relax",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💌 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"10% discount with code: MARIA10\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"Mention it when booking directly in instagram 🤟🏻\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🧖‍♀️ \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Outdoor mineral pool & sauna\"},{\"type\":\"text\",\"text\":\" for the perfect way to unwind\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🎊 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"A spacious common area\"},{\"type\":\"text\",\"text\":\" that's perfect for celebrations, birthdays, or gathering with friends\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🥾 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Things to explore nearby:\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🏔️ \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"The Seven Rila Lakes\"},{\"type\":\"text\",\"text\":\" – one of Bulgaria's most iconic hikes\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"💦 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Skakavitsa Waterfall\"},{\"type\":\"text\",\"text\":\" – a scenic trail leading to one of Rila's most beautiful waterfalls\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"🌿 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Walk the eco trails around Sapareva Banya\"},{\"type\":\"text\",\"text\":\" and discover the area's mineral springs and peaceful forests\"},{\"type\":\"hardBreak\"}]}]}",
+    "isOpen": true,
+    "isSecret": false,
+    "isTopFavorited": false,
+    "primaryCategory": "hotel",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "Stay"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "location": {
+      "lat": "42.2882505",
+      "lng": "23.2465607"
+    },
+    "locationName": "Rila Lakes Thermal Luxury Chalets",
+    "address": null,
+    "website": "https://rilalakes.bg/",
+    "regionNames": [
+      "Bulgaria",
+      "Kyustendil",
+      "Sapareva Banya"
+    ],
+    "detail": {},
+    "media": [
+      {
+        "__typename": "Video",
+        "id": "d6cf4c7a-cfd1-4f57-bd27-d4988b79fd69",
+        "order": 0,
+        "mp4Url": "https://cdn.prod.rexby.com/d6cf4c7a-cfd1-4f57-bd27-d4988b79fd69/index.mp4",
+        "webmUrl": "https://cdn.prod.rexby.com/d6cf4c7a-cfd1-4f57-bd27-d4988b79fd69/index.webm",
+        "muted": false,
+        "thumbnail": {
+          "url": "https://cdn.prod.rexby.com/d6cf4c7a-cfd1-4f57-bd27-d4988b79fd69/thumbnails/0"
+        },
+        "poster": {
+          "url": "https://cdn.prod.rexby.com/d6cf4c7a-cfd1-4f57-bd27-d4988b79fd69/thumbnails/0"
+        }
+      },
+      {
+        "__typename": "Image",
+        "id": "c12725041d7c4d2d8ec296011808845c",
+        "url": "https://cdn.prod.rexby.com/image/c12725041d7c4d2d8ec296011808845c",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "25114dc6ec224be7b76ae2718cd8480f",
+        "url": "https://cdn.prod.rexby.com/image/25114dc6ec224be7b76ae2718cd8480f",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "b98bc0f92ad2443bb34413293aaa646c",
+        "url": "https://cdn.prod.rexby.com/image/b98bc0f92ad2443bb34413293aaa646c",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "517ccc553038457ea3ac54d6542ead98",
+        "url": "https://cdn.prod.rexby.com/image/517ccc553038457ea3ac54d6542ead98",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "384ddfcef672470684d7fdac81f619b7",
+        "url": "https://cdn.prod.rexby.com/image/384ddfcef672470684d7fdac81f619b7",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "1e4295b043ac40338581660d2207f5d9",
+        "url": "https://cdn.prod.rexby.com/image/1e4295b043ac40338581660d2207f5d9",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "92cdba51048349a6b580387340673904",
+        "url": "https://cdn.prod.rexby.com/image/92cdba51048349a6b580387340673904",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "46d8de7fa8ff4a939b0f7725be2a3415",
+        "url": "https://cdn.prod.rexby.com/image/46d8de7fa8ff4a939b0f7725be2a3415",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "99cb29dbe652461b81400776373e62d2",
+        "url": "https://cdn.prod.rexby.com/image/99cb29dbe652461b81400776373e62d2",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "7e286c3c11774798bd972620c806a3c9",
+        "url": "https://cdn.prod.rexby.com/image/7e286c3c11774798bd972620c806a3c9",
+        "order": 10
       }
     ]
   }
