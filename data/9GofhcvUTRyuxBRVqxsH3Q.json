@@ -40991,5 +40991,191 @@
         "order": 4
       }
     ]
+  },
+  {
+    "id": "82uFuVXAQ7G0tr-ahnozTw",
+    "title": "A Hidden Gem with Peacocks",
+    "slug": "a-hidden-gem-with-peacocks",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Tucked away on a back road near Downhill Forest, you'll find one of the North Coast's real hidden gems. The Sea Shed is a beautifully secluded coffee shop with a serene garden where resident peacocks roam freely, adding a unique charm to your visit. It's the perfect spot to relax after a walk, with fantastic coffee and delicious homemade cakes and tray bakes that are simply to die for.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "cafe",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "FoodAndDrink"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "23f19bc6eeb440cbbe8714abbf805947",
+        "url": "https://cdn.prod.rexby.com/image/23f19bc6eeb440cbbe8714abbf805947",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "f79e2806cc004c73a2c10b7d4aaec2c3",
+        "url": "https://cdn.prod.rexby.com/image/f79e2806cc004c73a2c10b7d4aaec2c3",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "8bd2abd28f7a47fe989a447f1ff6fa15",
+        "url": "https://cdn.prod.rexby.com/image/8bd2abd28f7a47fe989a447f1ff6fa15",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "a8a653898d7f4441b8233a7730ee6a85",
+        "url": "https://cdn.prod.rexby.com/image/a8a653898d7f4441b8233a7730ee6a85",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "8cae32aef98847fba7cd3c77ca412f6f",
+        "url": "https://cdn.prod.rexby.com/image/8cae32aef98847fba7cd3c77ca412f6f",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "fb303527c59540a4893b493e561a1f88",
+        "url": "https://cdn.prod.rexby.com/image/fb303527c59540a4893b493e561a1f88",
+        "order": 5
+      },
+      {
+        "__typename": "Image",
+        "id": "0bdb312cf1df454d997e3f538db30416",
+        "url": "https://cdn.prod.rexby.com/image/0bdb312cf1df454d997e3f538db30416",
+        "order": 6
+      },
+      {
+        "__typename": "Image",
+        "id": "22749a206b8642869233c864308e23e6",
+        "url": "https://cdn.prod.rexby.com/image/22749a206b8642869233c864308e23e6",
+        "order": 7
+      },
+      {
+        "__typename": "Image",
+        "id": "7c2dfbed7b5c406e963578ce063fbee2",
+        "url": "https://cdn.prod.rexby.com/image/7c2dfbed7b5c406e963578ce063fbee2",
+        "order": 8
+      },
+      {
+        "__typename": "Image",
+        "id": "9e72bc3b642045cc9c2b157169a5f821",
+        "url": "https://cdn.prod.rexby.com/image/9e72bc3b642045cc9c2b157169a5f821",
+        "order": 9
+      },
+      {
+        "__typename": "Image",
+        "id": "91478d881a6f46e6ac1f8606e6a7d51e",
+        "url": "https://cdn.prod.rexby.com/image/91478d881a6f46e6ac1f8606e6a7d51e",
+        "order": 10
+      }
+    ]
+  },
+  {
+    "id": "2TLFcxAkSvWMI523IRJo4A",
+    "title": "Coastal Cafe with Ocean Views",
+    "slug": "coastal-cafe-with-ocean-views",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Tucked away on the Portstewart seafront, this is the perfect spot to relax with some of the best coffee on the coast. You'll find it has a laid-back, quirky vibe and serves a fantastic modern brunch menu with incredible views over the ocean. It's the kind of place where you can easily lose track of time, just soaking in the atmosphere and watching the waves.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "cafe",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "FoodAndDrink"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "08172ac2ca0f42459921a7caafed5889",
+        "url": "https://cdn.prod.rexby.com/image/08172ac2ca0f42459921a7caafed5889",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "817634355ad449b4bc804ec44e11652d",
+        "url": "https://cdn.prod.rexby.com/image/817634355ad449b4bc804ec44e11652d",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "7f3bbf3081f94827933c8d9b7c85a072",
+        "url": "https://cdn.prod.rexby.com/image/7f3bbf3081f94827933c8d9b7c85a072",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "26575a17f9624308a761f33d1dc3cc7c",
+        "url": "https://cdn.prod.rexby.com/image/26575a17f9624308a761f33d1dc3cc7c",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "5ea325fb884f47a2b2bbd30f8df82319",
+        "url": "https://cdn.prod.rexby.com/image/5ea325fb884f47a2b2bbd30f8df82319",
+        "order": 4
+      },
+      {
+        "__typename": "Image",
+        "id": "8ecf44720a8a46c98e78a928603572cf",
+        "url": "https://cdn.prod.rexby.com/image/8ecf44720a8a46c98e78a928603572cf",
+        "order": 5
+      }
+    ]
+  },
+  {
+    "id": "Jy5aDzHkSZKQ6Fr-H_rUPw",
+    "title": "Artisan Bakery in Innishannon",
+    "slug": "artisan-bakery-in-innishannon",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Nestled in the village of Innishannon, Wildflour is a gem you won't want to miss. The aroma of freshly baked sourdough and sweet pastries hits you before you even step inside, where you'll often find a queue of locals—a sure sign of its quality. Be sure to grab one of their legendary cinnamon buns or a flaky croissant; they're known for using high-quality, local Irish ingredients that truly make a difference.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "bakery",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "FoodAndDrink"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "97277d72c6fa46fbb006d4a1db909d7d",
+        "url": "https://cdn.prod.rexby.com/image/97277d72c6fa46fbb006d4a1db909d7d",
+        "order": 0
+      },
+      {
+        "__typename": "Image",
+        "id": "79c9ecea7e5049088e1900da6616ce3d",
+        "url": "https://cdn.prod.rexby.com/image/79c9ecea7e5049088e1900da6616ce3d",
+        "order": 1
+      },
+      {
+        "__typename": "Image",
+        "id": "b2bd9072c0da40a6bdaf1e46d30989a4",
+        "url": "https://cdn.prod.rexby.com/image/b2bd9072c0da40a6bdaf1e46d30989a4",
+        "order": 2
+      },
+      {
+        "__typename": "Image",
+        "id": "c7c7800f9ce84b08ada6bd5b92abadff",
+        "url": "https://cdn.prod.rexby.com/image/c7c7800f9ce84b08ada6bd5b92abadff",
+        "order": 3
+      },
+      {
+        "__typename": "Image",
+        "id": "32da874dd0dd47b090ffec89258c8a58",
+        "url": "https://cdn.prod.rexby.com/image/32da874dd0dd47b090ffec89258c8a58",
+        "order": 4
+      }
+    ]
   }
 ]

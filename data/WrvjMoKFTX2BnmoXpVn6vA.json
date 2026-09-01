@@ -3731,7 +3731,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 152
+      "amount": 153
     },
     "media": [
       {
@@ -13257,7 +13257,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 242
+      "amount": 244
     },
     "location": {
       "lat": "64.1513058",
@@ -14016,7 +14016,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 303
+      "amount": 305
     },
     "location": {
       "lat": "65.0770261",
@@ -14493,7 +14493,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 194
+      "amount": 196
     },
     "location": {
       "lat": "63.992603",
@@ -17247,7 +17247,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 21
+      "amount": 23
     },
     "location": {
       "lat": "64.2138157",
@@ -17269,14 +17269,14 @@
     "media": [
       {
         "__typename": "Image",
-        "id": "ba0d6e4b9a5c4dee95aa18d4e0456ee1",
-        "url": "https://cdn.prod.rexby.com/image/ba0d6e4b9a5c4dee95aa18d4e0456ee1",
+        "id": "b940d24439b44735a12ed5534676d7cb",
+        "url": "https://cdn.prod.rexby.com/image/b940d24439b44735a12ed5534676d7cb",
         "order": 0
       },
       {
         "__typename": "Image",
-        "id": "6df4e838155147b48a52393191e50b9e",
-        "url": "https://cdn.prod.rexby.com/image/6df4e838155147b48a52393191e50b9e",
+        "id": "7710738b82bf4929968a117c62140ece",
+        "url": "https://cdn.prod.rexby.com/image/7710738b82bf4929968a117c62140ece",
         "order": 1
       }
     ]
