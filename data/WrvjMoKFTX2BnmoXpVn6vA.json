@@ -1430,7 +1430,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 16
+      "amount": 17
     },
     "media": [
       {
@@ -1683,7 +1683,7 @@
     "id": "W2uZ5z78Tm6WLrxyEk22yQ",
     "title": "A river hot spring",
     "slug": "a-river-hot-spring",
-    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Reykjadalur is a hot river about 1h outside of Reykjavik. It's perfect for a hike and a swim. The hike takes about 1h one way and goes up a scenic valley. When you get to the swim spot, feel the water before you get in as it's warmer the higher you go. Find your ideal temperature and enjoy!\\nThere's a cafe at the start of the trial if you are hungry or need a bathroom. After the hike, check out Ingolfskali Viking restaurant, it's close by and have really nice Viking food!\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"The hike to the spring is mostly uphill along a gravel path but in the winter, the path is covered in snow and can be difficult to follow.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Once at the spring, there are no private changing facilities. Instead there are dividing walls that provide some privacy from those hiking and soaking. Be prepared to get naked with the wind blowing at your back!\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Pay for parking at the cafe via EasyPark app or at the kiosk next to the cafe doors. NOTE: when using the kiosk, pay for parking just before you leave.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"For those physically unable to do the hike, the cafe is a great, cozy hangout with coffee, snacks, and a fireplace.\"}]}]}",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Note: \"},{\"type\":\"text\",\"text\":\"the location of this pin shows the swimming spot. The main parking lot and trailhead is here: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"https://maps.app.goo.gl/2PxNagunsQEYdTsL7\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":\"text-title underline\"}}],\"text\":\"https://maps.app.goo.gl/2PxNagunsQEYdTsL7\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Reykjadalur is a hot river about 1h outside of Reykjavik. It's perfect for a hike and a swim. The hike takes about 1h one way and goes up a scenic valley. When you get to the swim spot, feel the water before you get in as it's warmer the higher you go. Find your ideal temperature and enjoy!\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"There's a cafe at the start of the trial if you are hungry or need a bathroom. After the hike, check out Ingólfsskáli Viking restaurant. It's close by and they have really nice Viking food!\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"The hike to the spring is mostly uphill along a gravel path but in the winter, the path is covered in snow and can be difficult to follow.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Once at the spring, there are no private changing facilities. Instead there are dividing walls that provide some privacy from those hiking and soaking. Be prepared to get naked with the wind blowing at your back!\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"There is a parking fee which you can pay on-site.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"For those physically unable to do the hike, the cafe is a great, cozy hangout with coffee, snacks, and a fireplace.\"}]}]}",
     "isOpen": false,
     "isSecret": true,
     "isTopFavorited": false,
@@ -3731,7 +3731,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 153
+      "amount": 149
     },
     "media": [
       {
@@ -4878,7 +4878,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 13
+      "amount": 14
     },
     "media": [
       {
@@ -6221,7 +6221,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 11
+      "amount": 12
     },
     "media": [
       {
@@ -7289,7 +7289,7 @@
     "duration": "ExtremelyShort",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 6
+      "amount": 7
     },
     "location": {
       "lat": "64.04127849999999",
@@ -10298,7 +10298,7 @@
     "duration": "Short",
     "estimatedPrice": {
       "currency": "EUR",
-      "amount": 21
+      "amount": 22
     },
     "media": [
       {
@@ -13257,7 +13257,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 244
+      "amount": 239
     },
     "location": {
       "lat": "64.1513058",
@@ -14016,7 +14016,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 305
+      "amount": 298
     },
     "location": {
       "lat": "65.0770261",
@@ -14493,7 +14493,7 @@
     "duration": null,
     "estimatedPrice": {
       "currency": "USD",
-      "amount": 196
+      "amount": 191
     },
     "location": {
       "lat": "63.992603",

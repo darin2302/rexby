@@ -41177,5 +41177,29 @@
         "order": 4
       }
     ]
+  },
+  {
+    "id": "ld8sCSquQvGAjL2KJyqDjQ",
+    "title": "Creative Coffee & Art Hub",
+    "slug": "creative-coffee-and-art-hub",
+    "description": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Step off Naas's Main Street into this cozy and creative haven, where the aroma of excellent coffee blends with local art. It's the perfect spot to unwind, offering a warm, friendly atmosphere where you can enjoy a delicious latte while browsing inspiring paintings. The space feels like a community hub, seamlessly connecting the coffee bar with a gallery and even a health food store.\"}]}]}",
+    "isOpen": false,
+    "isSecret": true,
+    "isTopFavorited": false,
+    "primaryCategory": "cafe",
+    "secondaryCategories": null,
+    "categoryClass": {
+      "name": "FoodAndDrink"
+    },
+    "duration": null,
+    "estimatedPrice": null,
+    "media": [
+      {
+        "__typename": "Image",
+        "id": "a4b9801221f2443f89e04730f02c3785",
+        "url": "https://cdn.prod.rexby.com/image/a4b9801221f2443f89e04730f02c3785",
+        "order": 0
+      }
+    ]
   }
 ]
